@@ -1,7 +1,7 @@
 {
     "author":"takagen99",
     "ua": "",
-    "homeUrl": "https://www.duboku.tv/",
+    "homeUrl": "https://www.laobayy.com/",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
@@ -29,7 +29,7 @@
     "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Summary ================================================      
-    "cateUrl": "https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateUrl": "https://www.laobayy.com//vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
@@ -39,7 +39,7 @@
     "cateVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Details ================================================        
-    "dtUrl": "https://my.duboku.vip/voddetail/{vid}.html",
+    "dtUrl": "https://www.laobayy.vip/voddetail/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
     "dtNameR": "",
@@ -67,7 +67,7 @@
     "playUa": "",
     
 // Search Results ================================================         
-    "searchUrl": "https://my.duboku.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://www.laobayy.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
