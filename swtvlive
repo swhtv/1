@@ -226,18 +226,13 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 
+無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無線新聞台,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 無線新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
-無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 
-TVB 新聞台,http://live.cooltv.top/tv/tvb.php?id=2
-TVB 新聞台,http://live.cooltv.top/tv/tvb.php?id=0
 
-
-TVB 新聞台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-TVB 新聞台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
