@@ -227,17 +227,33 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 SW-TV港台,#genre#
 
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-TVB NEWS,http://8.137.59.151:3000/laoshu.php?key=6676&id=7
+
 TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無線新聞台,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 無線新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
-NOW news,http://8.137.59.151:3000/laoshu.php?key=6676&id=15
+
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+有线18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB亚州剧台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+popc电影台,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+凤凰中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰咨询台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+无线华丽台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+广东珠江台,http://219.159.194.225:8181/tsfile/live/1000_1.m3u8
+广东珠江台,http://113.15.184.8:8181/tsfile/live/1000_1.m3u8
+广东新闻台,http://219.159.194.225:8181/tsfile/live/1007_1.m3u8
+广东新闻台,http://113.15.184.8:8181/tsfile/live/1007_1.m3u8
 
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
 
@@ -250,7 +266,7 @@ ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba33
 ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 Now TV,https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
 Now TV,https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
