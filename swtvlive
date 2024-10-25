@@ -110,7 +110,9 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
-
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
+discovery,http://61.221.215.25:8800/hls/1/index.m3u8
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -238,7 +240,11 @@ TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVB DRAMAS,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+明珠台剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+peal dramas,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 有线18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB亚州剧台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
@@ -250,17 +256,20 @@ popc电影台,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+翡翠千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+翡翠千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+岭南戏曲,http://219.159.194.198:8181/tsfile/live/1006_1.m3u8
 广东珠江台,http://219.159.194.225:8181/tsfile/live/1000_1.m3u8
 广东珠江台,http://113.15.184.8:8181/tsfile/live/1000_1.m3u8
 广东新闻台,http://219.159.194.225:8181/tsfile/live/1007_1.m3u8
 广东新闻台,http://113.15.184.8:8181/tsfile/live/1007_1.m3u8
-
+NOW電影台,http://46.3.104.173:8899/now/xingying/stream.m3u8
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
 
 HOY TV,mitv://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVB Plus,mitv://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
-
+TVB PLUS,http://138.113.24.59:80/libof.kesx.top/live/5658kwkojtz.m3u8?wsSession=dd3f20e3575aa71641f27ed3-172892057340945&wsIPSercert=3f15c988c6aa25e80bfce8cad38b486f&wsiphost=local&wsBindIP=1
 HOY  TV,https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.m3u8
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
 ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
@@ -311,6 +320,9 @@ RTHK34,http://113.117.74.19:8081/hls/38/index.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯运动,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 BBC News Asia Pacific,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
