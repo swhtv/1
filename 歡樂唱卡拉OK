@@ -13,13 +13,13 @@
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
 
-{"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"}
-
+{"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
+{"name":"swtv","type":0,"url":"http://1288.nat123.cc/swtv.txt"}
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 
-{"key": "MV大全","name": "歡樂屋唱卡","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
+{"key": "MV大全","name": "sweethome唱卡","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
 
 {"key":"lf_js_lf_live","name":"SWEETHOME卡拉OK","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/if%E5%8D%A1%E6%8B%89OK"}
 
