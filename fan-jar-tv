@@ -9,9 +9,10 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 
-{ "key": "華哥MV卡歌", "name": "華哥KTV", "type": 3, "api": "http://zb.hys.cool/app/lib/16万hys.js", "ext": "http://zb.hys.cool/app/lib/16万mv.js" },
+{"key": "SW-MV大全","name": "華哥歡樂屋16萬3千4百歌库","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
+{ "key": "華哥MV卡歌", "name": "華哥 KTV 歌库", "type": 3, "api": "http://zb.hys.cool/app/lib/16万hys.js", "ext": "http://zb.hys.cool/app/lib/16万mv.js" },
 
-{"key": "SW-MV大全","name": "歡樂屋唱卡","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
+
 
 {"key":"lf_js_lf_live","name":"SWEETHOME卡拉OK","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/if%E5%8D%A1%E6%8B%89OK"}
 
