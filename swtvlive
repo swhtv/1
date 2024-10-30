@@ -28,12 +28,9 @@ Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 CNBC,http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/71066.ts
-
 CNBC W,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12773.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 MSNBC,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12725.m3u8
-
-
 disney channel,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -48,59 +45,50 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-
 CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
 sky news,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 sky news,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 CNN ,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
 CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,https://i.mjh.nz/discovery-ptcn.m3u8
-Sky News,https://i.mjh.nz/sky-news-now.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
 Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW English ,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 PBS KET2,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 PBS TV,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-
-
 CBSN NEWS,http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 CBS NEWS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBSN New York NY,http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 CBS News National,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CBS News New York,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-
-
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
 discovery,http://61.221.215.25:8800/hls/1/index.m3u8
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+discovery_turbo,https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+discovery MAX,https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+History ,https://lnc-historytime.tubi.video/playlist.m3u8
+History 2,http://38.41.8.1:8000/play/a030
+
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
@@ -125,21 +113,15 @@ News max TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 FOX News ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 fox news now 720P,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-discovery_turbo,https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-discovery MAX,https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-History ,https://lnc-historytime.tubi.video/playlist.m3u8
-History 2,http://38.41.8.1:8000/play/a030
-NAT WILD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323574.m3u8
-NAT Geo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+
+
 National Geographic,http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 animal planet,http://61.221.215.25:8800/hls/57/index.m3u8
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
 NHK 24 NEWS,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Arirang English,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-ABC News 24,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 AfricaNews,https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 BNC news,https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
@@ -151,8 +133,6 @@ Food TV,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa
 Food (England) (720p),http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
 BBC Food (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 City food,http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-
-
 EWTN Asia-Pacific,https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 EWTN Canada,https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
@@ -162,27 +142,23 @@ GoodLife 45,https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playl
 Grace Network,https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 
 ABC 5 Oklahoma City OK (KOCO,https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
-ABC 7 Denver CO (KMGH,https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+
 ABC 7 Los Angeles CA (KABC-TV),https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 ABC 7 Omaha NE (KETV),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
 ABC 7 Washington DC (WJLA),https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
 ABC 9 Kansas City MO (KMBC-TV),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
 ABC 9 Manchester NH (WMUR-TV),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-ABC 13 Las Vegas NV (KTNV),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+NBC 5 Cincinnati OH (WLWT),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+NBC 6 New Orleans LA (WDSU),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+NBC 15 Madison WI (WMTV),https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+NBC 26 Green Bay WI (WGBA),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-Fashion TV PG16 (144p),http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 Fashion TV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 FashionTV Czech&Slovak,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 Fox Greece,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
-Fox Soul ,http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-NBC 5 Cincinnati OH (WLWT),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
-NBC 6 New Orleans LA (WDSU),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
-NBC 15 Madison WI (WMTV),https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
-NBC 26 Green Bay WI (WGBA),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 PBS KET Louisville KY (WKMJ-TV),https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 PBS KET World,https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
@@ -191,10 +167,6 @@ travelxp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 Key TV,http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 Atlanta Channel,http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 MTV news HD,http://media4.tripsmarter.com:1935/LiveTV/MTVHD/chunklist_w225310352.m3u8
-
-Wild West,https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
-Zen,https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
-
 Beach TV30A,http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 Panama City,http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 Pawleys Island,http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
@@ -203,16 +175,14 @@ BEACH TV,http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 BEACH TV (1+),http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 BEACH TV (2+),http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 BETO TV LIFESTYLE ENGLISH,http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
 DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
-NASATVMedia,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-NASATVPublic,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
-SW-TV港台,#genre#
 
+
+SW-TV港台,#genre#
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
 TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
@@ -220,9 +190,10 @@ TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無線新聞台,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 無線新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
+HOT資詢台,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+HOY  TV,https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.m3u8
 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB DRAMAS,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -243,15 +214,10 @@ astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 翡翠千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 翡翠千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-岭南戏曲,http://219.159.194.198:8181/tsfile/live/1006_1.m3u8
-广东珠江台,http://219.159.194.225:8181/tsfile/live/1000_1.m3u8
-广东珠江台,http://113.15.184.8:8181/tsfile/live/1000_1.m3u8
-广东新闻台,http://219.159.194.225:8181/tsfile/live/1007_1.m3u8
-广东新闻台,http://113.15.184.8:8181/tsfile/live/1007_1.m3u8
-NOW電影台,http://46.3.104.173:8899/now/xingying/stream.m3u8
+
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140
 
-HOY  TV,https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.m3u8
+
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
 ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
 
@@ -286,12 +252,9 @@ RTHK34,http://113.117.74.19:8081/hls/38/index.m3u8
 
 香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-广州新闻,http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
-广东新闻,http://219.159.194.225:8181/tsfile/live/1007_1.m3u8
-岭南戏曲,http://219.159.194.225:8181/tsfile/live/1006_1.m3u8
+
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-煲劇2台,http://37.27.111.214:8080/live/109/hls.m3u8
-广东珠江,http://219.159.194.225:8181/tsfile/live/1000_1.m3u8
+
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视频道,rtmp://f13h.mine.nu/sat/tv071
 中视频道,rtmp://f13h.mine.nu/sat/tv091
@@ -350,7 +313,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 澳视葡语,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳视葡语,http://61.244.22.4/ch2/ch2.live/chunklist_w861342563.m3u8
 澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳门 莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8#http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳门微电影,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -363,22 +325,12 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 澳視葡語,http://live4.tdm.com.mo:80/ch2/definst//ch2.live/playlist.m3u8
 澳視葡語,http://live4.tdm.com.mo:80/ch2/_definst_//ch2.live/playlist.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-
-
-
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 AWE,https://awe-lg.amagi.tv/playlist.m3u8
 AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
-J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-J Sports 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-J Sports 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-J Sports 4 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-Gaora Sports (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
 
 
@@ -388,7 +340,7 @@ SPORT体育 ,#genre#
 TENNIS,https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-sky sport F1,http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8
+SKY sport F1,http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8
 MLB NETWORK,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 NFL NETWORK,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 CBS SPORT,http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -396,15 +348,9 @@ Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sports Connect,https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 SportsGrid,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-Fite,https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-golf,http://thvip.site/360/169/index.m3u8?cab23
 one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-sportv 1,https://z88.ubtvfans.com/live/rx1/1779/af3c2582a145776f0d35d1e96229c627/index.m3u8
-sport tv2,https://z88.ubtvfans.com/live/rx1/1785/6422dd842ca3f805e2fa14b4767278f7/index.m3u8
-sport tv3,https://z88.ubtvfans.com/live/rx1/2135/ef2e9ca7d4307a5cc6bdf6e17098a0a7/index.m3u8
-sport network,https://z88.ubtvfans.com/live/rx3/1280/2938972177ab24dc28df73782d6159af/index.m3u8
-新視覺体育,http://117.161.12.118/live/program/live/xsjhd8m/8000000/mnf.m3u8
-先鋒乒羽,http://171.107.72.19:4000/udp/239.81.0.236:4056
+
+
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -420,38 +366,20 @@ REGIO TV,https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/pl
 SKY SPORT,http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/2431
 SKY POKER,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 EURO SPORT,https://7pal.short.gy/eusport2
-
 曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-
 SPORTS TV,http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
 TRACE SPORT STARS,http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
-
-All Sports,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-Awapa Sports TV,https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
-
 RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
-
-
 Swerve Sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
-
-
 UFC Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-UFC Fighting Spirit,https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
 UFC Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-UFC FIGHT SPORTS,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-
-
 
 Dubai Sports 1,https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 Dubai Sports 2,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
@@ -462,7 +390,6 @@ Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
 
 CCTV+卫视,#genre#
-
 
 CCTV13新聞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13新聞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
