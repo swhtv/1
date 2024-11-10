@@ -189,12 +189,16 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 SW-TV港台,#genre#
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 無線新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
+TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB NEWS,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+TVB NEWS,http://120.55.49.231:5783/rtp/233.50.200.191:5140
+
+
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
@@ -202,25 +206,33 @@ TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 HOY有线新闻,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 
 HOY  TV,https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.m3u8
-
+TVB DRAMA,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+TVB 1,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+TVB生活台,https://sc2024.stream-link.org/live/99240250144.php?id=hkt8351wqcr&session=d15a7dbc-c56f-479b-8ad7-32705de0e3a7
 翡翠千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 翡翠千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 翡翠华丽台,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 翡翠华丽台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 翡翠华丽台,http://58.254.14.91:808/hls/55/index.m3u8
 翡翠华丽台,http://libof.kesx.top/live/5658kwkojtz.m3u8
+TVB粤语片台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+TVB娱樂新闻台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+TVB戏剧台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-广东新闻,http://58.254.14.91:808/hls/52/index.m3u8
-广东影示,http://58.254.14.91:808/hls/53/index.m3u8
+TVB PLUS,http://r.jdshipin.com/qrfbg
+TVB PLUS,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+广东珠江台,http://8.138.90.107/公众号【睡眼迷离的猫】/gdx.php?id=239.77.1.130:5146
+广东珠江台,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
+广东珠江台,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 
-
-NOW爆谷,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=83c75cd9cc8d2833d6f08ace1f2fd5e7&txTime=1930a85b147
-
-
-NOW財经,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27eca28cf56be604bd6e287b1d8693f1011cc99c8da305b06e702396e9b9
-NOW新闻,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27eca28cf565c416b3421c7b1d8693f1011cc99c8da305b06e70ab75353c2440826919ac
+大湾区卫视,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000519
+VIU TV,http://r.jdshipin.com/GeWKr?id=fct720
+VIU TV,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+VIU 6,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+NOW爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB DRAMAS,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -237,11 +249,11 @@ popc电影台,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 凤凰香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 Mytv supper,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 Mytv super 經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-
-凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140
-
-
-
+TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB華剧台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+龙华经典台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+NOW電影台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+NOW電影台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140
 
 
@@ -377,21 +389,26 @@ FOX SPORT 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 FUBO SPORT,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+now sport,https://stream1.freetv.fun/nowsports-1.ctv
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sports Connect,https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 SportsGrid,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-
-BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
-
+sky sport,https://stream1.freetv.fun/skysports-3.ctv
+sky sport plus,https://stream1.freetv.fun/skysports-plus-1.ctv
+NBA US,https://stream1.freetv.fun/usa-nba-1.ctv
+NBA HD,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+NBA TV,https://stream1.freetv.fun/nba-tv-1.ctv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+swerve sport,https://stream1.freetv.fun/swerve-sports-1.m3u8
+KTV SPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-
+fox ,http://211.72.65.236:8566/.m3u8
 sport TV 1,https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 trace sport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 TYC SPORT,http://38.41.8.1:8000/play/a02i
