@@ -28,6 +28,7 @@ Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USP
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
 CNBC,http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/71066.ts
 CNBC W,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12773.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -36,10 +37,18 @@ Disney channel,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 NICKJR,https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 The Weather channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+
+discovery,http://61.221.215.25:8800/hls/1/index.m3u8
+History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+discovery_turbo,https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+discovery MAX,https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+History ,https://lnc-historytime.tubi.video/playlist.m3u8
+History 2,http://38.41.8.1:8000/play/a030
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CCTV13新聞,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+
 CCTV13新聞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -58,10 +67,10 @@ sky news,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 sky news,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
-CNN ,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNN,https://i.mjh.nz/discovery-ptcn.m3u8
+
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -84,14 +93,7 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
 
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
-discovery,http://61.221.215.25:8800/hls/1/index.m3u8
-History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-discovery_turbo,https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-discovery MAX,https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-History ,https://lnc-historytime.tubi.video/playlist.m3u8
-History 2,http://38.41.8.1:8000/play/a030
+
 
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -188,8 +190,6 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 無線新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
@@ -197,8 +197,7 @@ TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB NEWS,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB NEWS,http://120.55.49.231:5783/rtp/233.50.200.191:5140
-
-
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
@@ -210,7 +209,7 @@ TVB DRAMA,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 TVB 1,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB生活台,https://sc2024.stream-link.org/live/99240250144.php?id=hkt8351wqcr&session=d15a7dbc-c56f-479b-8ad7-32705de0e3a7
+
 翡翠千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 翡翠千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 翡翠华丽台,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
@@ -218,19 +217,16 @@ TVB生活台,https://sc2024.stream-link.org/live/99240250144.php?id=hkt8351wqcr&
 翡翠华丽台,http://58.254.14.91:808/hls/55/index.m3u8
 翡翠华丽台,http://libof.kesx.top/live/5658kwkojtz.m3u8
 TVB粤语片台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB娱樂新闻台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+
 TVB戏剧台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://r.jdshipin.com/qrfbg
 TVB PLUS,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-广东珠江台,http://8.138.90.107/公众号【睡眼迷离的猫】/gdx.php?id=239.77.1.130:5146
-广东珠江台,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
-广东珠江台,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 
 大湾区卫视,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000519
-VIU TV,http://r.jdshipin.com/GeWKr?id=fct720
-VIU TV,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-VIU 6,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
+美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+凤凰台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 NOW爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -250,11 +246,8 @@ popc电影台,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 Mytv supper,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 Mytv super 經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB華剧台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-龙华经典台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-NOW電影台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-NOW電影台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140
+TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+
 
 
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
@@ -535,12 +528,10 @@ J  sports 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&cco
 J sports 2,https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 J sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=7
 J sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=7
-J sports plus,http://doubleclicktv.live:80/70376812/52663544/853
-TV東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=7&bind=0&uin=159413&playseek=0
-TBS NEWS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=7
 
 
-日本職業摔跤(NJPW),https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+
+
 Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
@@ -565,52 +556,6 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
-
-
-NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
-テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-
-読売テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
-MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-
-ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
-テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
-関西テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-関西テレビ,#BS
-NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-
-BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
-WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
-スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
-スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
-スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
-
-BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-Golf Network,http://203.162.235.41:28107
-
-
-
-
 ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8
 QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
@@ -627,6 +572,8 @@ QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 ディスカバリー,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
 ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+
+
 韩国KOREA,#genre#
 
 
