@@ -180,17 +180,13 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 
 SW-TV港台,#genre#
-無线新聞台,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-無線新聞台,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
-
-無線新聞台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-TVB NEWS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+無线新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-
+TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
