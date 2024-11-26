@@ -181,10 +181,10 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 
-TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+
 TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
+TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 無线新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
@@ -200,9 +200,7 @@ TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://r.jdshipin.com/qrfbg
 TVB PLUS,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
-HOY有线新闻,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 
-HOY  TV,https://stream1.freetv.fun/c543306057df73089c3660fdfc6f0eb923e239f6d535b7a1a4f23bce8a1b61c2.m3u8
 TVB DRAMA,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 TVB 1,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
@@ -219,13 +217,7 @@ TVB粤语片台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB戏剧台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 
 
-大湾区卫视,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000519
 
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-
-美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-凤凰台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 
 TVB DRAMAS,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -245,7 +237,13 @@ Mytv super 經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 
+大湾区卫视,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000519
 
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+
+美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+凤凰台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+美亚電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
@@ -365,7 +363,7 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 SPORT体育 ,#genre#
 
-
+TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 TENNIS,https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
