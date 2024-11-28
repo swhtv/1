@@ -29,6 +29,7 @@ Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 CNBC W,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12773.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 MSNBC,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12725.m3u8
 Disney channel,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
@@ -181,28 +182,29 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 
-
 TVB NEWS,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB NEWS,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無线新闻台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-無线新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 
 
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
 
 
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://r.jdshipin.com/qrfbg
-TVB PLUS,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+VIU,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+VIU 6,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 
 
-TVB DRAMA,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-TVB 1,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+TVB S,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
@@ -215,10 +217,6 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB粤语片台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
 TVB戏剧台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-
-
-
-
 
 TVB DRAMAS,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 明珠台剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
@@ -236,7 +234,6 @@ Mytv supper,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 Mytv super 經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-
 大湾区卫视,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000519
 
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
@@ -362,7 +359,6 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 
 SPORT体育 ,#genre#
-
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 TENNIS,https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
@@ -835,8 +831,6 @@ Telebarn,https://stream1.freetv.fun/105497203140e07c60d59396fb339a251817a6cef3f1
 Telebarn,https://stream1.freetv.fun/104581ab762e787025499ca954c9b5206fbd1545f0e852d5268e87603f3cb81b.m3u8
 VOX HD,https://stream1.freetv.fun/97d793f558c2e986c9b8fbeff701d73e0c9d4b3e742bd6861b64b155364c70f9.m3u8
 WDR HD Deutschland,https://stream1.freetv.fun/4a1c03e39402c1d7ff3680c04ffe64ffecae98676818697e3af1ef2a3034c1e9.ctv
-
-
 ZDF,https://stream1.freetv.fun/72f50856ef0e5e8524a09cdfb4372f2f08cf55599706d84bc9e634a6f10f3058.ctv
 ZDF,https://stream1.freetv.fun/952efcba90de90428b5008e13251d3cd4bc7d78df4ba527c4f0d2e51a68f47b0.ctv
 ZDF,https://stream1.freetv.fun/2af0e8211d46e1fa396e8a2887e0a278ac20b8d0088be012dc934b99b24575d9.ctv
