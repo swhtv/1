@@ -197,6 +197,9 @@ TVB PLUS,http://r.jdshipin.com/qrfbg
 翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,https://stream1.freetv.fun/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.m3u8
+HOY TV,https://stream1.freetv.fun/hoy-tv-3.m3u8
+
 VIU TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 now 爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 
@@ -368,7 +371,6 @@ FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 FUBO SPORT,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-
 fox 1，http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 FOX SPORTS 1 US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
 FOX SPORTS 2 US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
@@ -377,7 +379,6 @@ ESPN 1,https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 ESPN 2,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
 TNT SPORT,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6563/index.m3u8
 beIN SPORTS XTRA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863&checkedby:iptvcat.com
-
 now sport,https://stream1.freetv.fun/nowsports-1.ctv
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sports Connect,https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
@@ -388,6 +389,21 @@ sky sport,https://stream1.freetv.fun/skysports-3.ctv
 sky sport plus,https://stream1.freetv.fun/skysports-plus-1.ctv
 NBA HD,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 NBA TV,https://stream1.freetv.fun/nba-tv-1.ctv
+
+NBA,https://stream1.freetv.fun/442a719ff9284cca15e4963a30564b5e2102a1626f41a9a95bd952129109e570.ctv
+NBA,https://stream1.freetv.fun/nba-tv-3.ctv
+NBA,https://stream1.freetv.fun/178365a078863a5718884173737b3b9feb45a9ecf40efd9eb0f0cdcda3dbe627.m3u8
+BEIN SPORTS 5,https://stream1.freetv.fun/f8d03b48c5b29a27c4b180698484989536c84f543c1a0ade4f552836ca337f40.ctv
+BEIN SPORTS 5,https://stream1.freetv.fun/bein-sports-5-hd--a-2.ctv
+BEIN SPORTS 2.https://stream1.freetv.fun/475f968526b716c4057be17886c48f45906179db25b6819618ed683073c09bf1.ctv
+BEIN SPORTS 2.https://stream1.freetv.fun/bein-sports-2-hd--a-2.ctv
+BEIN SPORTS 3.https://stream1.freetv.fun/a1516504736e3700948788ab27a545f8a347228c58bce51bccd42bef85e782ae.ctv
+BEIN SPORTS 3,https://stream1.freetv.fun/bein-sports-3-hd--a-2.ctv.
+SKY SPORTS,https://stream1.freetv.fun/ef42e576f8a24709d94f6b066874c4ded7598151c96e49130366a1c7637462d1.ctv
+SKY SPORTS, https://stream1.freetv.fun/skysports-12.ctv
+DAZN 2,https://stream1.freetv.fun/8c7c78adfa78c249f74dcaa61acc797ff75da4f1f298af53fb1f6fc8ae0964d0.ctv
+DAZN 2,https://stream1.freetv.fun/eleven-sports-2---rec-1.ctv
+
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -462,7 +478,7 @@ CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
-东方影视咪咕,http://z.b.bkpcp.top/m.php?id=shys
+东方咪咕,http://z.b.bkpcp.top/m.php?id=shys
 陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
 湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
 江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
