@@ -183,18 +183,30 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
+TVB NEWS,https://stream1.freetv.fun/cctv1-89.m3u8
+無线新闻台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 無线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠 台,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+ViuTV,http://m.osvs.asia:8000/bysid/99
+ViuTV6,http://m.osvs.asia:8000/bysid/96
+
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://r.jdshipin.com/qrfbg
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,https://stream1.freetv.fun/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.m3u8
 HOY TV,https://stream1.freetv.fun/hoy-tv-3.m3u8
+HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
+HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -218,6 +230,8 @@ TVB粤语片台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB戏剧台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 明珠台剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 peal dramas,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+廣東珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+廣東体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
