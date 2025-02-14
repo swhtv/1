@@ -21,6 +21,7 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 Global Toronto,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -40,7 +41,7 @@ HI STORY,http://37.27.111.214:8080/live/27/hls.m3u8
 discovery,http://61.221.215.25:8800/hls/1/index.m3u8
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
-TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -70,7 +71,7 @@ CNN,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-FOX NEWS HD,http://103.211.103.30:8880/live/D12m0667/85426398/28929.ts
+
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News now ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
@@ -92,7 +93,7 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-HGTV,https://cdn13jtedge.indihometv.com/joss/133/hgtv/chunklist_w1499643331_b444100_sleng.m3u8?enc=&uid=&exp=
+
 Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -417,8 +418,13 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 SPORT体育 ,#genre#
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
-
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+SuperTennis HD,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+博斯網球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+博斯 網球,https://haoyunlai.serv00.net/Smartv-1.php?id=bositennis_twn
+博斯 網 球,http://fm1077.serv00.net/Smart.php?id=bositennis_twn
 
 SKY sport F1,http://fm1077.serv00.net/Smart.php?id=tiankongf1
 
