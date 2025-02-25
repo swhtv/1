@@ -21,7 +21,6 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 Global Toronto,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -37,11 +36,11 @@ Disney channel,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 The Weather channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-HI STORY,http://37.27.111.214:8080/live/27/hls.m3u8
+ STORY,http://37.27.111.214:8080/live/27/hls.m3u8
 discovery,http://61.221.215.25:8800/hls/1/index.m3u8
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
-
+TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -71,7 +70,7 @@ CNN,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
+FOX NEWS HD,http://103.211.103.30:8880/live/D12m0667/85426398/28929.ts
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News now ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
@@ -93,7 +92,7 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-
+HGTV,https://cdn13jtedge.indihometv.com/joss/133/hgtv/chunklist_w1499643331_b444100_sleng.m3u8?enc=&uid=&exp=
 Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -178,7 +177,6 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
 無线新闻台,http://vallest.uk/livehttpplay?channel_id=20123
 無线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -196,17 +194,8 @@ ViuTV,http://m.osvs.asia:8000/bysid/99
 ViuTV6,http://m.osvs.asia:8000/bysid/96
 有线新闻频标,http://live4play.uk/livehttpplay?channel_id=20191
 无线新闻频标,http://vallest.uk/livehttpplay?channel_id=20123
-Now新闻频标,http://live4play.uk/livehttpplay?channel_id=20041
-Now爆谷频标,http://hkenlive.uk/livehttpplay?channel_id=13002
-Now星影频标,http://hkenlive.uk/livehttpplay?channel_id=13003
-Now英超粤语,http://hkenlive.uk/livehttpplay?channel_id=13007
-Now英超1,http://hkenlive.uk/livehttpplay?channel_id=13011
-Now英超2,http://hkenlive.uk/livehttpplay?channel_id=13012
-Now英超3,http://hkenlive.uk/livehttpplay?channel_id=13008
-Now英超4,http://hkenlive.uk/livehttpplay?channel_id=13009
-Now英超体1,http://hkenlive.uk/livehttpplay?channel_id=13010
-Now英超体2,http://hkenlive.uk/livehttpplay?channel_id=13025
 
+Now英超体2,http://hkenlive.uk/livehttpplay?channel_id=13025
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://r.jdshipin.com/qrfbg
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -218,7 +207,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-重溫經典台,http://14.117.233.59:9000/udp/239.77.0.1:5146
+
 astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -352,15 +341,12 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 AK港台-测试,#genre#
 
-
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-新時代1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477609.m3u8
-新時代2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476215.m3u8
 
 翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -418,13 +404,8 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 SPORT体育 ,#genre#
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
-Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-SuperTennis HD,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
-Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-博斯網球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-博斯 網球,https://haoyunlai.serv00.net/Smartv-1.php?id=bositennis_twn
-博斯 網 球,http://fm1077.serv00.net/Smart.php?id=bositennis_twn
+Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 SKY sport F1,http://fm1077.serv00.net/Smart.php?id=tiankongf1
 
@@ -443,8 +424,8 @@ FOX SPORTS 1 US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.
 FOX SPORTS 2 US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN 1,https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
-ESPN 2,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
-Fox Sports Racing,http://supersonictv.live:8080/roelle0923/roelle0923/40462
+
+ Fox Sports Racing,http://supersonictv.live:8080/roelle0923/roelle0923/40462
  Fight Network,http://supersonictv.live:8080/roelle0923/roelle0923/40463
  MLB Network,http://supersonictv.live:8080/roelle0923/roelle0923/40464
  NBA TV,http://supersonictv.live:8080/roelle0923/roelle0923/40465
@@ -476,7 +457,7 @@ Sky Sports Action,http://supersonictv.live:8080/SLIM23/SARASOTA14/78146
 Sky Sports Arena HD,http://supersonictv.live:8080/SLIM23/SARASOTA14/78147
 Sky Sports Cricket,http://supersonictv.live:8080/SLIM23/SARASOTA14/78148
 Sky Sports F1,http://supersonictv.live:8080/SLIM23/SARASOTA14/78149
-Sky Sports Football HD,http://supersonictv.live:8080/SLIM23/SARASOTA14/78150
+
 Sky Sports Golf HD,http://supersonictv.live:8080/SLIM23/SARASOTA14/78151
 Sky Sports Main Events HD,http://supersonictv.live:8080/SLIM23/SARASOTA14/78152
 Sky Sports MIX,http://supersonictv.live:8080/SLIM23/SARASOTA14/78153
@@ -521,7 +502,6 @@ ESPN SEC Network,http://supersonictv.live:8080/roelle0923/roelle0923/22208
 ESPN Deportes UHD,http://supersonictv.live:8080/roelle0923/roelle0923/22222
 CINEMAX 5 STARMAX UHD,http://supersonictv.live:8080/roelle0923/roelle0923/22878
 
-
 beIN SPORTS XTRA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863&checkedby:iptvcat.com
 
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
@@ -529,9 +509,7 @@ Sports Connect,https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/pl
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 SportsGrid,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-ELTA 1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
-ELTA 2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
-ELTA 3,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
+
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 super sport,https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
