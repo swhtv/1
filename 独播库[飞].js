@@ -4,7 +4,7 @@ muban.首图.二级.content = '.data:eq(5)&&Text';
 var rule = {
 	title:'独播库[飞]',
 	模板:'首图',
-	host:'https://www.duboku.tv',
+	host:'https://www.duboku.tv/',
 	// host:'https://u.duboku.io',
 	url: '/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
