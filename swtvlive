@@ -185,12 +185,12 @@ TVB NEWS,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 無綫新聞台,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-無线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-無线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -216,16 +216,13 @@ TVB PLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 now新闻,http://live4play.uk/livehttpplay?channel_id=20041
+now新闻,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
 HOY资訊台,http://live4play.uk/livehttpplay?channel_id=20191
 
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-astro 剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-翡翠千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-翡翠華麗,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
 ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -254,10 +251,6 @@ RTHK34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df7007
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK34,http://113.117.74.19:8081/hls/38/index.m3u8
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-
-
-
 
 -TVB Plus,http://tri-metal.dsmynas.net:8001/bysid/82.m3u8
 
