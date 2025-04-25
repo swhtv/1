@@ -76,7 +76,6 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN英語,https://0472.org/hls/cgtn.m3u8
@@ -181,19 +180,19 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 SW-TV港台,#genre#
 
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB NEWS,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
+TVB NEWS,http://43.251.102.18:4000/play/a00d
 
-TVB NEWS,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-無綫新聞台,https://gdfire2.67890123.cn:8088/live/nowxw.m3u8
+TVB NEWS,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
+
 無綫新聞台,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 无线新闻,http://43.251.102.18:4000/play/a00d
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB無线新聞,http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 翡翠 台,http://zb.xmzb.xyz/888.php?id=be一翡翠台
@@ -228,34 +227,6 @@ HOY资訊台,http://live4play.uk/livehttpplay?channel_id=20191
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
-ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-Now TV,https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
-Now TV,https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-
-RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
-RTHK31,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top
-
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK33,https://live.astradamy.com/hk33/index.m3u8
-RTHK34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-RTHK34,http://113.117.74.19:8081/hls/38/index.m3u8
 
 -TVB Plus,http://tri-metal.dsmynas.net:8001/bysid/82.m3u8
 
@@ -340,6 +311,34 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
+ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+Now TV,https://epg.pw/stream/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
+Now TV,https://epg.pw/stream/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
+RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
+RTHK31,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top
+
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK33,https://live.astradamy.com/hk33/index.m3u8
+RTHK34,https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+RTHK34,http://113.117.74.19:8081/hls/38/index.m3u8
 
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -552,71 +551,53 @@ Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
 
 CCTV+卫视,#genre#
-
-
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CGTN英語,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CCTV-01,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv1
-CCTV-02,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv2
-CCTV-03,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv3
-CCTV-04,https://pixman.mytvsuper.com.mp/Smart.php?id=Cctv4
-CCTV-04,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv4
-CCTV-05,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
-CCTV 5+,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5plus
-CCTV-06,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
-CCTV-07,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv7
-CCTV-08,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv8hd
-CCTV-09,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv9hd
-CCTV-10,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv10hd
-CCTV-11,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv11
-CCTV-12,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv12
-CCTV-13,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv13
-CCTV-14,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv14
-CCTV-15,https://pixman.mytvsuper.com.mp/Smart.php?id=cctv15
-CGTN_英,https://pixman.mytvsuper.com.mp/Smart.php?id=CGTN
-北京卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=beijing
-深圳卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=shenzhen
-广西卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=guangxi
-湖北卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=hubei
-东南卫视,https://pixman.mytvsuper.com.mp/Smart.php?id=fujian
-广东珠江,https://pixman.mytvsuper.com.mp/Smart.php?id=zhujiang
-CCTV-01,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv1
-CCTV-02,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv2
-CCTV-03,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv3
-CCTV-04,http://eu.huohuoaa.tech:1025/Smart.php?id=Cctv4
-CCTV-04,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv4
-CCTV-05,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv5
-CCTV 5+,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv5plus
-CCTV-06,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv6
-CCTV-07,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv7
-CCTV-08,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv8hd
-CCTV-09,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv9hd
-CCTV-10,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv10hd
-CCTV-11,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv11
-CCTV-12,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv12
-CCTV-13,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv13
-CCTV-14,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv14
-CCTV-15,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv15
-CGTN_英,http://eu.huohuoaa.tech:1025/Smart.php?id=CGTN
-北京卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=beijing
-深圳卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=shenzhen
-广西卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=guangxi
-湖北卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=hubei
-东南卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=fujian
-广东珠江,http://eu.huohuoaa.tech:1025/Smart.php?id=zhujiang
+
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 
 日本JAPAN,#genre#
 NHK 24 NEWS,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
