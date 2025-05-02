@@ -31,7 +31,10 @@ TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-CNBC ind,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+CNBC,http://41.205.93.154/CNBC/index.m3u8
+CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 CNBC,http://supersonictv.live:8080/roelle0923/roelle0923/21762
 CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
 CNBC World LHD,http://supersonictv.live:8080/roelle0923/roelle0923/21763
@@ -178,10 +181,10 @@ LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
 
 SW-TV港台,#genre#
-
-TVB NEWS,http://tl.061833.xyz/tl/null-11
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
 TVB NEWS,http://43.251.102.18:4000/play/a00d
+TVB NEWS,http://tl.061833.xyz/tl/null-11
 
 TVB NEWS,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 
