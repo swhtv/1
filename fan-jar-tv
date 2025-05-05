@@ -10,7 +10,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key": "SW-MV大全","name": "華哥歡樂屋16萬3千4百歌库","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
-{ "key": "華哥MV1卡歌", "name": "華哥 KTV1 歌库", "type": 3, "api": "http://zb.hys.cool/app/lib/16万hys.js", "ext": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/mv/1.txt" },
+{ "key": "華哥MV1卡歌", "name": "華哥 KTV1 歌库", "type": 3, "api": "http://zb.hys.cool/app/lib/16万hys.js", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt" },
 { "key": "華哥MV2卡歌", "name": "華哥 KTV2 歌库", "type": 3, "api": "http://zb.hys.cool/app/lib/16万hys.js", "ext": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/mv/mtv2.txt" },
 { "key": "華哥MV3卡歌", "name": "華哥 KTV3 歌库", "type": 3, "api": "http://zb.hys.cool/app/lib/16万hys.js", "ext": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/mv/mtv2.txt" },
 
