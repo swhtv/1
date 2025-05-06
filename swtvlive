@@ -935,6 +935,19 @@ Tv Japi,https://stream1.freetv.fun/8b6dfa75bd65805b6b2ea8bd5f6e5ced9998c69999ed9
 Tv Japi,https://stream1.freetv.fun/a9f3edf7f14a02a16748b04a6b8a5c5dc6102fbf985683abcedd677d87310713.m3u8
 Tv Japi,https://stream1.freetv.fun/3fe35f16b813edb5f9eb7a2d1a4922e843e1fcdcd0331ca7d2de3ce865dea437.m3u8
 
+POLAND波兰,#genre#
+TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+polast sport,https://windnew.newkso.ru/wind/premium50/mono.m3u8
+TVP Seriale,http://185.236.229.62:9981/play/a02w
+TVP KULTURA,http://185.236.229.62:9981/play/a02t
+TVP HISTORIA,http://185.236.229.62:9981/play/a035
+TVP 2,http://185.236.229.62:9981/play/a07p
+TVP INFO,http://185.236.229.62:9981/play/a02j
+polsat sport news,http://185.236.229.62:9981/play/a06m
+
+
+
 德语Deutsch,#genre#
 24HD,https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 EURONEWS DUE,https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
