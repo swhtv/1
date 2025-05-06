@@ -182,30 +182,25 @@ Loupe Art,https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.
 
 SW-TV港台,#genre#
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
+TVB NEWS,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 TVB NEWS,http://43.251.102.18:4000/play/a00d
-TVB NEWS,http://tl.061833.xyz/tl/null-11
-
-TVB NEWS,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
-
 無綫新聞台,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
+無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 無綫新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+
 无线新闻,http://43.251.102.18:4000/play/a00d
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠 台,: http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-翡翠 台,http://zb.xmzb.xyz/888.php?id=be一翡翠台
+
 翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
-翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠,http://222.128.55.152:9080/live/gdfc.m3u8
+
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -213,7 +208,7 @@ TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+
 翡翠台 备,http://tri-metal.dsmynas.net:8000/bysid/1.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -237,7 +232,7 @@ HOY资訊台,http://live4play.uk/livehttpplay?channel_id=20191
 
 TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
-TVB PLUS,http://cdn.163189.xyz/live/?id=tvbp
+
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -451,20 +446,18 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 SPORT体育 ,#genre#
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-MLB NETWORK,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-NFL NETWORK,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 NHL SPORT,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-CBS SPORT,http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 SKY F1,https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-FOX SPORT 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 FUBO SPORT,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 beIN SPORTS 2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863&checkedby:iptvcat.com
 fox 1,http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-FOX SPORTS 1 US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
-FOX SPORTS 2 US,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
+
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 FOX 501,https://7pal.short.gy/fox506au
 FOX 502,https://7pal.short.gy/fox502au
@@ -939,12 +932,11 @@ POLAND波兰,#genre#
 TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 polast sport,https://windnew.newkso.ru/wind/premium50/mono.m3u8
-TVP Seriale,http://185.236.229.62:9981/play/a02w
+
 TVP KULTURA,http://185.236.229.62:9981/play/a02t
 TVP HISTORIA,http://185.236.229.62:9981/play/a035
-TVP 2,http://185.236.229.62:9981/play/a07p
 TVP INFO,http://185.236.229.62:9981/play/a02j
-polsat sport news,http://185.236.229.62:9981/play/a06m
+
 
 
 
