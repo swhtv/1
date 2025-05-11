@@ -446,11 +446,14 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 SPORT体育 ,#genre#
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
+super Tennis,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 NHL SPORT,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-
+W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+TSN 1,http://fl5.moveonjoy.com/TSN_1/index.m3u8
+TSN 2,https://7pal.short.gy/tsn2ca
+TSN 3,https://7pal.short.gy/tsn3ca
 SKY F1,https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-
+UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 FUBO SPORT,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
@@ -489,7 +492,7 @@ ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 博斯綱球,http://litv.zapi.us.kg/?id=litv-longturn09
 博斯無限,https://litv.zapi.us.kg/?id=litv-longturn10
-
+TNT SPORT 1,https://7pal.short.gy/tntspts1
 
 NBA HD,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 NBA,https://stream1.freetv.fun/nba-tv-3.ctv
@@ -504,6 +507,12 @@ SKY SPORTS,https://stream1.freetv.fun/ef42e576f8a24709d94f6b066874c4ded7598151c9
 SKY SPORTS, https://stream1.freetv.fun/skysports-12.ctv
 DAZN 2,https://stream1.freetv.fun/8c7c78adfa78c249f74dcaa61acc797ff75da4f1f298af53fb1f6fc8ae0964d0.ctv
 DAZN 2,https://stream1.freetv.fun/eleven-sports-2---rec-1.ctv
+USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+a sport,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+akua 2025/5/7 17:21:26
+yes sport,https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
 
 
 KTV SPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
