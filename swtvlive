@@ -54,6 +54,7 @@ sky news,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 sky news 2,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+CNN,https://fl1.moveonjoy.com/CNN/index.m3u8
 CNN,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN UHD,http://supersonictv.live:8080/roelle0923/roelle0923/21764
@@ -62,6 +63,7 @@ CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOXNEWS,http://198.16.100.186:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 FOXNEWS,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+FOX News channel,fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News now ,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
@@ -92,9 +94,8 @@ CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3
 NHK 24 NEWS,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-MSNBC UHD,http://supersonictv.live:8080/roelle0923/roelle0923/21773
-MSNBC,https://stream1.freetv.fun/bdfba203d0ee852550fb5111603765212429c6a636f73131b8402aaf9ff64d13.ctv
-National_Geographic,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+MSNBC UHD,https://fl1.moveonjoy.com/MSNBC/index.m3u8
+MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 PBS KET2,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 PBS TV,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 PBS MPT,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
