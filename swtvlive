@@ -42,6 +42,8 @@ CNBC World LHD,http://supersonictv.live:8080/roelle0923/roelle0923/21763
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW English ,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC news,http://haoyunlai.serv00.net/Smartv-1.php?id=bbc1_antik
+
 Disney channel,http://38.96.178.201/live/Disney/index.m3u8
 Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 DISNEY JR,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -92,7 +94,7 @@ NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3
 
 MSNBC UHD,http://supersonictv.live:8080/roelle0923/roelle0923/21773
 MSNBC,https://stream1.freetv.fun/bdfba203d0ee852550fb5111603765212429c6a636f73131b8402aaf9ff64d13.ctv
-
+National_Geographic,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 PBS KET2,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 PBS TV,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 PBS MPT,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
@@ -124,7 +126,7 @@ New KPOP,https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Billiards TV,https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 News max TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Arirang English,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
+ITV,http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
 BNC news,https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 Estrella News (1080p),https://estrellanews-plex.amagi.tv/playlist.m3u8
 Panama City food,http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
@@ -195,6 +197,8 @@ TVB NEWS,http://43.251.102.18:4000/play/a00d
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+TVB無线新聞,http://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
+TVB無线新聞,http://110.235.82.60:8001/bysid/83
 
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
@@ -448,6 +452,8 @@ TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 super Tennis,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 NHL SPORT,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
+NFL ,https://7pal.short.gy/nflredz
 W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 TSN 1,http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -455,9 +461,16 @@ TSN 2,https://7pal.short.gy/tsn2ca
 TSN 3,https://7pal.short.gy/tsn3ca
 SKY F1,https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
+FOX 5,https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+FOX 13,https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
+
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-FUBO SPORT,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+Sky Football,https://32tech0steam0dp01.org/live/UK_SkySportsFootballFHD/chunks.m3u8
+SKY MIX,http://cord-cutter.net:8080/X5xRz0/944877/53706
+SKY SPORT,http://cord-cutter.net:8080/X5xRz0/944877/35243
+football uk,https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 astro football,http://wanicelife.com:8880/live/D12m3957/33390196/1721.ts
 assp football,https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp4
@@ -468,10 +481,13 @@ FOX 503,https://7pal.short.gy/fox503au
 FOX 504,https://7pal.short.gy/fox504au
 FOX 505,https://7pal.short.gy/fox505au
 FOX 506,https://7pal.short.gy/fox506au
-
+NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 UFC,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+ESPN US,https://7pal.short.gy/espnus
 ESPN,http://41.205.93.154/ESPN/index.m3u8
-ESPN 1,https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
+ESPN U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 UFC TV,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
