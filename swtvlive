@@ -3,6 +3,7 @@ SW-TV ,#genre#
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+CBC NEWS,https://apollo.production-public.tubi.io/live/ac-cbc2/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=c3b91a53-5b4c-4559-a01d-eef34c307b37&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=552f92bb72f31d5f7b7b98bee7aace2d
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 Global Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
@@ -31,18 +32,18 @@ TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+CNBC HD,https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 CNBC,http://41.205.93.154/CNBC/index.m3u8
-CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+CNBC 2,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
-CNBC,http://supersonictv.live:8080/roelle0923/roelle0923/21762
-CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
-CNBC World LHD,http://supersonictv.live:8080/roelle0923/roelle0923/21763
 
+CNBC World LHD,http://supersonictv.live:8080/roelle0923/roelle0923/21763
+CGTN news,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW English ,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
+OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 
 Euronews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 Disney channel,http://38.96.178.201/live/Disney/index.m3u8
@@ -68,11 +69,11 @@ FOX News channel,http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News now ,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
-
-
 FOX BUSINESS,https://fl5.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
 FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
 fox news now 720P,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX 5,https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+FOX 13,https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
 EURO NEWS,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -466,8 +467,6 @@ UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/p
 USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
 FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
-FOX 5,https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-FOX 13,https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8
 
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
