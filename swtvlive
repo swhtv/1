@@ -136,7 +136,7 @@ City food,http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 EWTN Asia-Pacific,https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 EWTN Canada,https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
-
+PTV NEWS,https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 Go USA,https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 
 Grace Network,https://livecdn.live247stream.com/grace/tv/playlist.m3u8
@@ -441,6 +441,7 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 SPORT体育 ,#genre#
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+SkySportsTennis,https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
 super Tennis,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 NHL SPORT,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -449,7 +450,9 @@ NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 TSN 1,http://fl5.moveonjoy.com/TSN_1/index.m3u8
 TSN 2,https://7pal.short.gy/tsn2ca
 TSN 3,https://7pal.short.gy/tsn3ca
-
+sportnet one,https://7pal.short.gy/sptsnet1
+SKY SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
+CBS SPORT,https://7pal.short.gy/cbssptnw
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
