@@ -364,7 +364,20 @@ NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 TSN 1,http://fl5.moveonjoy.com/TSN_1/index.m3u8
 TSN 2,https://7pal.short.gy/tsn2ca
 TSN 3,https://7pal.short.gy/tsn3ca
+SKY
+
+TSN 1 US,http://cord-cutter.net:8080/live/Ss5DKE/232455/57292.ts
+TSN 2 US,http://cord-cutter.net:8080/live/Ss5DKE/232455/16129.ts
 SKY SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
+CBS SPORT,https://7pal.short.gy/cbssptnw
+UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
+FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+football uk,https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
+BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+SKY sport,,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8 SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
 CBS SPORT,https://7pal.short.gy/cbssptnw
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
