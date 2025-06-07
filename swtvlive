@@ -375,12 +375,7 @@ NHL SPORT,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
  W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-TSN 1,http://fl5.moveonjoy.com/TSN_1/index.m3u8
-TSN 2,https://7pal.short.gy/tsn2ca
-TSN 3,https://7pal.short.gy/tsn3ca
 
-TSN 1 US,http://cord-cutter.net:8080/live/Ss5DKE/232455/57292.ts
-TSN 2 US,http://cord-cutter.net:8080/live/Ss5DKE/232455/16129.ts
 SKY SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
 CBS SPORT,https://7pal.short.gy/cbssptnw
 FOX SPORT 1,https://fl3.moveonjoy.com/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
