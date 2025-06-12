@@ -36,9 +36,11 @@ TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 CGTN news,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-MSNBC UHD,https://fl1.moveonjoy.com/MSNBC/index.m3u8
+MSNBC UHD,https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/chunklist_w1558699616_tkbmV3enN0YXJ0dGltZT0xNzQ5NzUxMTIxJm5ld3plbmR0aW1lPTE3NDk3NTgzMjEmbmV3emhhc2g9MUJvTWtsajk1dFhaV1hORkhUV3lwUlFlOEwxRnp5T00xY3dzZnA4RUdUSXdGY0F6bkZhbWZNVDd6SWR2TmZ2cmhpYzBnX2JPcWFUcUdMT3VndUY5cFE9PQ==.m3u8
+
 MSNBC,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
+
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
