@@ -465,6 +465,22 @@ one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
+GOLF KINGDOM,https://30a-tv.com/feeds/720p/53.m3u8
+ACCN NETWORK,https://fl3.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.ts.m3u8
+ACL ,https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV_v3.m3u8
+ADO TV,https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_360p/chunks.m3u8?nimblesessionid=15451421
+ADVENTURE SPORTS,https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438/variant/22100062.m3u8
+AFRO SPORT  NIGERIA,https://newproxy3.vidivu.tv/vidivu_afrosport/tracks-v1a1/mono.ts.m3u8
+BAHRAIN SPORTS 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1854918638_b978000.m3u8
+BAHRAIN SPORTS 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w333019043_b978000.m3u8
+bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
+BEK TVSPORT,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b546000_slENG.m3u8
+BILLIARD TV,https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+PRIMOCANALE SPORT,https://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8?nimblesessionid=139452209
+WORLD OF SPORTS,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/240p-cc/index.m3u8
+TVRI SPORT,https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20000.m3u8
+TURI SPORT,https://tvturf4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=5b03ef7e-d263-f50c-da37-da0e1b24e04c&q=&d=w
+
 a sport,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 yes sport,https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
 KTV SPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
