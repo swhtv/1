@@ -224,10 +224,20 @@ TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY資訊台,http://43.251.102.18:4000/play/a004
 HOY資訊台,http://live4play.uk/livehttpplay?channel_id=20191
 
 HOY資訊台,http://lzoq.serv00.net/daili/Smartv.php?id=viusix_twn
 有线新闻,http://43.251.102.18:4000/play/a004
+无线新闻AKtv,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8 
+ 无线翡翠AKtv,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8 
+ 无线明珠AKtv,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8 
+ 无线赛马AKtv,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8 
+ 无线星河AKtv,https://s1.m16tv.cfd/aktv2/tvb/AKTV.m3u8 
+ 无线翡剧AKtv,https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8 
+ 无线明剧AKtv,https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8 
+ 无线J1美AKtv,https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8 
+ VIUTV-粤AKtv,https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8 
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -386,7 +396,72 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 AWE,https://awe-lg.amagi.tv/playlist.m3u8
 AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
-
+Plus综合AKtv,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+ pₒₚc电影AKtv,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8 
+ 美亚电影AKtv,https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8 
+ 天映频道AKtv,https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8 
+ 凤凰中文AKtv,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8 
+ 凤凰资讯AKtv,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8 
+ 凤凰香港AKtv,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8 
+ 中天新闻AKtv,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8 
+ 
+ 爱奇剧场AKtv,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8 
+ tvbs新闻AKtv,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8 
+ 东森新闻AKtv,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8 
+ 东森洋片AKtv,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8 
+ 东森电影AKtv,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8 
+ 好莱电影AKtv,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8 
+ HBO电影AKtv,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8 
+ 民视第一AKtv,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8 
+ 纬来体育AKtv,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8 
+ channeluAKtv,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8 
+ channel5AKtv,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+  channel8AKtv,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8 
+  CNA新闻AKtv,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+   TVN韩综AKtv,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8 
+   KPoP+韩AKtv,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8 
+   朝鲜恩情AKtv,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8 
+   日-NEWSAKtv,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+    japan_24AKtv,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8 
+    rock影综AKtv,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8 
+    AXN电影AKtv,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8 
+    Plus综合AKtv,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8 
+    pₒₚc电影AKtv,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8 
+    美亚电影AKtv,https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8 
+    天映频道AKtv,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8 
+    凤凰中文AKtv,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8 
+    凤凰资讯AKtv,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8 
+    凤凰香港AKtv,https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8 
+    中天新闻AKtv,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8 
+    无线新闻AKtv,https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8 
+    无线翡翠AKtv,https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8 
+    无线明珠AKtv,https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8 
+    无线赛马AKtv,https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8 
+    无线星河AKtv,https://s2.m16tv.cfd/aktv2/tvb/AKTV.m3u8 
+    无线翡剧AKtv,https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8 
+    无线明剧AKtv,https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8 
+    无线J1美AKtv,https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8 
+    VIUTV-粤AKtv,https://s2.m16tv.cfd/aktv2/viutv/AKTV.m3u8 
+    爱奇剧场AKtv,https://s2.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8 
+    tvbs新闻AKtv,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8 
+    东森新闻AKtv,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8 
+    东森洋片AKtv,https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8 
+    东森电影AKtv,https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8 
+    好莱电影AKtv,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8 
+    HBO电影AKtv,https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8 
+    民视第一AKtv,https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8 
+    纬来体育AKtv,https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8 
+    channeluAKtv,https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8 
+    channel5AKtv,https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+     channel8AKtv,https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8 
+     CNA新闻AKtv,https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8 
+     TVN韩综AKtv,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8 
+     KPoP+韩AKtv,https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8 
+     朝鲜恩情AKtv,https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8 
+     日-NEWSAKtv,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8 
+     japan_24AKtv,https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8 
+     rock影综AKtv,https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8 
+ AXN电影AKtv,https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
 
 
 SPORT体育 ,#genre#
