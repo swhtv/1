@@ -419,6 +419,8 @@ ESPN U,https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 MLB,https://livetv-fa.tubi.video/mlb3/playlist_1024x576.m3u8
 MIB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 NBA,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
 NFL,https://apollo.production-public.tubi.io/live/ac-nfl2/854x480.m3u8?ap.debug=0&ap.pt=0&ap.sid=e6512a07-cba4-41f0-bcfc-d01ae787bdd3&ap.skip_fallback=0&ap.c=Cohort-2&ap.ss=2ece11146d9a8d7626cdf710f8fb9698
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 NHL,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
@@ -480,6 +482,43 @@ PRIMOCANALE SPORT,https://livetr.teleromagna.it/teleromagna/live/live/teleromagn
 WORLD OF SPORTS,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/240p-cc/index.m3u8
 TVRI SPORT,https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20000.m3u8
 TURI SPORT,https://tvturf4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=5b03ef7e-d263-f50c-da37-da0e1b24e04c&q=&d=w
+Campuslore tv,https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist_640x360.m3u8
+Canal di Inter,https://video01.soultv.com.br/internacional/internacional/chunklist_w2013957890.m3u8
+CBS SPORT NETWORD,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
+colimdo tv live,https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+Dudai Racing,https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b700000.m3u8
+Dudai Racing 2,https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8
+Dudai Racing 3,https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8
+Dudai sport 1,https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8
+Dudai sport 2,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
+Dudai sport 3,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
+FanDuel SPORTS NETWORD,https://fl3.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
+FanDuel tv,https://fl3.moveonjoy.com/TVG/tracks-v1a1/mono.ts.m3u8
+FUDO SPORTS NETWORD,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+FUEL TV,https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/640x360_985600/chunklist.m3u8
+Games+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+GEM FIT,https://ca-rt.onetv.app/gemfit/index-0.m3u8
+Hard Knocks,https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/1328e981-8fe7-4230-ad09-e88477b568ef/3.m3u8
+Horse TV,https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
+inter tv.https://insighttv-samsung-canada.amagi.tv/240p/index.m3u8
+IRIB 3,https://lenz.splus.ir/PLTV/88888888/224/3221226868/4.m3u8
+ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
+K9,https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+KCMN LD6,https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+LEquipe,https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+LEquipe live 1,https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+LEquipe live 2,https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+M-net Sport,https://live.mnet.mk/hls/mnet-sport.m3u8
+MadeinBO TV,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+MAVTV,https://d3h07n6l1exhds.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/53bd9a46-bf23-441c-8291-2aa7df3500f8/4.m3u8
+MNB SPORT,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+MORE THAN SPORTS TV,https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw3/chunks.m3u8?nimblesessionid=339570501
+MSG SPORT,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
+NAUTICAL TV,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
+OMAN SPORTS TV,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8
+RACING TV,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+MADRID TV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+RTA SPORT F1,https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/04.m3u8
 
 a sport,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 yes sport,https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
