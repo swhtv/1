@@ -10,7 +10,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key": "SW-MV大全","name": "華哥歡樂屋16萬3千4百歌库","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
-{ "key": "drpyS_KTV歌厅[听]", "name": "MV音乐", "type": 4, "api": "https://zhxy.eu.org/api/KTV歌厅[听]", "searchable": 2, "filterable": 1, "quickSearch": 0, "ext": "" },
+{ "key": "drpyS_KTV歌厅[听]", "name": "SW-KTV音乐", "type": 4, "api": "https://zhxy.eu.org/api/KTV歌厅[听]", "searchable": 2, "filterable": 1, "quickSearch": 0, "ext": "" },
 
 
 
