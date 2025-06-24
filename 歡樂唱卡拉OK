@@ -9,7 +9,7 @@
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-{ "key": "drpyS_KTV歌厅[听]", "name": "歡樂屋MV音乐", "type": 4, "api": "https://zhxy.eu.org/api/KTV歌厅[听]", "searchable": 2, "filterable": 1, "quickSearch": 0, "ext": "" },
+
 
 {"key": "SWMV大全","name": "華哥-歡樂屋16萬3千4百歌库","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},    
 
