@@ -791,8 +791,9 @@ CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 FRANCE 法語,#genre#
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
 
-Euronews,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+Assemblee nat du quebec,https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/chunklist.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
@@ -800,19 +801,21 @@ TVA QUEBEC,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3M
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 cpac,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=1400000.m3u8
 CHCOTV CA,https://temp4.isilive.ca/live/CHCOTV/live/chunklist.m3u8
+L'Esprit Sorcier TV ,https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+Le Figaro IDF,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+Sport En France (1080p),https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+Stormcast Novelas TV,https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 sky news,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 sky news,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-Africa news(FRANCE),https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
+
 CBC MONTREAL,https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-Caillou,https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
+
 Fashion TV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-FilmRise Binge Watch France,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/56f5b5ceafba4a8b/9991728/master.m3u8?ads.xumo_channelId=9991728
-Filmstream,https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 FilmStream Europe,https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 Generations TV (576p),https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
@@ -820,38 +823,6 @@ Generations TV (576p),https://edge.vedge.infomaniak.com/livecast/ik:generation-t
 HANDICAP TV France,https://srv.webtvmanager.fr:3697/stream/play.m3u8
 ILTV ,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 Juste pour Rire ,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
-
-L'Esprit Sorcier TV ,https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
-Le Figaro IDF,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-Sport En France (1080p),https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-Stormcast Novelas TV,https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-Action   (FR),https://stream1.freetv.fun/67f0b9d6e3391028b3e948a0c4f51225a7eac4bad6f29722c56b7c1114e653e7.m3u8
-Action   (FR),https://stream1.freetv.fun/8c695253de2d0c9a4961fa74e820d1121ce35af7bac16b625d4bb16c010a6171.m3u8
-Discovery Science   (FR),https://stream1.freetv.fun/a72f32709ac34f67aed0ce17aa8c0d02427dfd5d009eb1c675c5129e6167e5b0.ctv
-France 24 (French),https://stream1.freetv.fun/0678bfc6a92286d56932d0fb68b697a42ec6e12c5e1778716a8fbced6acbe3f6.ctv
-France 24 (French),https://stream1.freetv.fun/d64083cd648eefa273d0e41ea7e1062d426bb5df36f5bab531fb0a21aa85f154.m3u8
-France 24 (French),https://stream1.freetv.fun/33a8368198afd254ecf601bf71ae7edd73c21407449a1b2bd11848441e00d432.ctv
-France 24 (French),https://stream1.freetv.fun/58cb3d52c80a206560e75814aac1f62cf939ab0161bb8867dba2893ab3c3d8cb.m3u8
-France 24 English,https://stream1.freetv.fun/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
-France 24 English,https://stream1.freetv.fun/b233ff72bb757cc9efc1b67d00ca1b73dc6a25b35bf6dfdc91d5b2d6ebf42461.m3u8
-L'Equipe,https://stream1.freetv.fun/5ef65e35ce4b7b9766a8b38e55029eaae6af2accbab849926b11a63c3b4063ba.m3u8
-L'Equipe,https://stream1.freetv.fun/d9638ef99b144b41e434bd66f53e022185eeaa5f22626c2e152e35e335d3c7f0.m3u8
-M6 Music Black,https://stream1.freetv.fun/17c57f0696b476caf60b78a23f04f5473adb292ffd890bc8913acd3d5f93ef3a.m3u8
-M6 Music Hits,https://stream1.freetv.fun/486a2bcf2848af927c1d264205905b9cd0a34d21bbf83fed591f71edb7036b86.m3u8
-Trace Sport Stars,https://stream1.freetv.fun/96fe92536ccba4facd03ed8e987e8f759f751c0963ab2294a5bcc21bc757edd8.m3u8
-Trace Sport Stars,https://stream1.freetv.fun/b8463cb2534978a29321e67fb1f26a54a736eaf4638de6076ddffda6d4696efa.m3u8
-Trace Sports,https://stream1.freetv.fun/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8
-Trace Sports,https://stream1.freetv.fun/3e79450f7b013f3c987148125b93589b703bb686a8c99aaa559c7a902b79cacc.m3u8
-Trace Sports,https://stream1.freetv.fun/d8955500a1cc5ebcf66b5fa860f620b129b13f1e377f512a206347ac7395bb36.ctv
-Trace Urban,https://stream1.freetv.fun/5553cec6bcc68e2b2bf09029c0aebcb139d1fbf144ac730f4994ec2d62b0bb62.ctv
-Trace Urban,https://stream1.freetv.fun/3cffe01a9a03c2d1a6e159f85c7f7a295d07f2576c5795d6318a83fe1f82bfdd.ctv
-Trace Urban,https://stream1.freetv.fun/165df2286674ccee4163c5d39e205b894ad792cfc06918f792d791717b5d5da0.m3u8
-Trace Urban,https://stream1.freetv.fun/25982874a811e823a4e1e1577a6d553b9590406a9c7da221d5c907cf6df22782.m3u8
-Trace Urban,https://stream1.freetv.fun/dfa77ea576a7acdcd203ec9c9964ed378f1658738d12e4c9e2f7e1003bf110ff.m3u8
-Trace Urban,https://stream1.freetv.fun/7c8652c4c168e9c1d5b30d7c937d162ffd69147fb55c94f61415765c9b032f74.m3u8
-Trace Urban,https://stream1.freetv.fun/f9a239ca781bbfd86a147477da76e7ca98d6b8a013fa23a8119ffe4dc3d8ca19.m3u8
-
-
 
 
 Italia,#genre#
