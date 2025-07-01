@@ -825,6 +825,18 @@ Generations TV (576p),https://edge.vedge.infomaniak.com/livecast/ik:generation-t
 HANDICAP TV France,https://srv.webtvmanager.fr:3697/stream/play.m3u8
 ILTV ,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 Juste pour Rire ,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+LN 24,https://live-ln24.digiteka.com/1911668011/index.m3u8
+TELE MIX,https://haititivi.com/haiti/telemix1/index.m3u8
+TF1,https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xNzMuOTcuMTY5IiwiY21jZCI6IiIsImV4cCI6MTc1MTQxNTQ5NSwiZ2lkIjoiYjNjMmYyOTkwMDU1NDU2ZmFmOGVhYjY5MmE1ZThlODQiLCJpYXQiOjE3NTE0MDEwOTUsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJiM2MyZjI5OTAwNTU0NTZmYWY4ZWFiNjkyYTVlOGU4NCJ9.9irlvpSyn1GzxDq59v5LhRZgWgMwu5tUrdievKOApEk/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index_2.m3u8
+TVM3,https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+Africa 24,https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+WILDSIDE TV,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+BEL,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+ROUGE TV,https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+FX2,https://toonixhls.wns.live/hls/stream.m3u8
+
+
+
 
 Italia,#genre#
 Euronews Italian,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
