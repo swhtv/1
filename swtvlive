@@ -473,9 +473,8 @@ Plus综合AKtv,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 SPORT体育 ,#genre#
 TENNIS,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-Sky Tennis,https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
-
-SKY SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
+TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+SUPER TENNIS,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 GOLF,https://fl5.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
