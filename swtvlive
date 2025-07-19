@@ -405,6 +405,8 @@ NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
+
+Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
@@ -413,6 +415,16 @@ TSN_2,https://fl3.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
 TSN_3,https://fl3.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
 TSN_4,https://fl3.moveonjoy.com/TSN_4/tracks-v1a1/mono.ts.m3u8
 TSN_5,https://fl3.moveonjoy.com/TSN_5/tracks-v1a1/mono.ts.m3u8
+TSN2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
+TSN3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
+SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+Sky Sports Main Event,P2p://starvod.xyz:19806/0be128b9d8e247cc9a1a07d4eaa386d5.ts
+Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
+
+
+
+ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
+
 CBS SPORT,https://7pal.short.gy/cbssptnw
 CBS SPORT,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 CBS SPORT NETWORD,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
