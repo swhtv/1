@@ -4,6 +4,7 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 GLOBAL CA,https://fl3.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.ts.m3u8
+CTV News,P2p://starvod.xyz:19806/946d8a12422a43398efc10b1632817f4.ts
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
@@ -31,6 +32,7 @@ CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-
 cpac,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=1400000.m3u8
 CHCOTV CA,https://temp4.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 cable 14 hamilton,https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/chunklist_w876842286_b3360000_sleng.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU%3D&iimae0UC2astarttime=1665181720
+新時代1(西部),P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -433,6 +435,8 @@ BOXING TV,https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v0.m3u8
 ESPN U,https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 ESPN U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
+
+ESPN P,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 MLB,https://livetv-fa.tubi.video/mlb3/playlist_1024x576.m3u8
 MIB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
@@ -549,7 +553,21 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 日本JAPAN,#genre#
-
+NHK WORID,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
+日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
+フジテレビ,P2p://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
+読売テレビ,P2p://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
+朝日放送,P2p://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
+WOWOWライブ,P2p://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
+WOWOWシネマ,P2p://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
+BSアニマックス,P2p://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
+J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+Green Channel,P2p://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
+ゴルフネットワークHD,P2p://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
+時代劇専門チャンネル,P2p://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
+キッズステーションHD,P2p://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
+ディスカバリーチャンネル,P2p://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
 NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1 
@@ -810,33 +828,10 @@ VOX 1,https://hls.vox1.live/hls/stream.m3u8
 
 
 
-日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
-フジテレビ,P2p://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
-読売テレビ,P2p://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
-
-朝日放送,P2p://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
 
 
-WOWOWライブ,P2p://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
-WOWOWシネマ,P2p://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
-
-BSアニマックス,P2p://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
-
-J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
-
-Green Channel,P2p://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
-ゴルフネットワークHD,P2p://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
-時代劇専門チャンネル,P2p://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
-
-キッズステーションHD,P2p://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
-ディスカバリーチャンネル,P2p://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
 
 
-ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
-
-新時代1(西部),P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
-
-CTV News,P2p://starvod.xyz:19806/946d8a12422a43398efc10b1632817f4.ts
 
 
 
