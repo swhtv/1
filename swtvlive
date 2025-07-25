@@ -436,13 +436,13 @@ TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 TSN 2,http://cord-cutter.net:8080/live/Ss5DKE/232455/47442.ts
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
 TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
+
+TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 Sky Sports Main Event,P2p://starvod.xyz:19806/0be128b9d8e247cc9a1a07d4eaa386d5.ts
 Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
 
-
-
-ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 
 CBS SPORT,https://7pal.short.gy/cbssptnw
 CBS SPORT,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
@@ -452,7 +452,7 @@ BOXING TV,https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v0.m3u8
 ESPN U,https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 ESPN U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
-
+ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN P,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 MLB,https://livetv-fa.tubi.video/mlb3/playlist_1024x576.m3u8
