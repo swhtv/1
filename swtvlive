@@ -94,9 +94,9 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 Discovery_Channel,https://fl3.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
 DISCOVERY_FAMILY,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.m3u8
 DISCOVERY_LIFE,https://fl3.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
-Discovery HD,http://195.245.99.242/Discovery/playlist.m3u8
 Discovery,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/526.m3u8
 Discovery_Science,http://143.244.60.30/Discovery_Science/index.m3u8
+TBS,https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
 FOOD_NETWORK,https://fl3.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
 E!,https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.ts.m3u8
 TLC,https://fl3.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
@@ -120,7 +120,9 @@ SHOWTIME_2,https://fl1.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
 SHOWTIME_NEXT,https://fl1.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
 SHOWTIME_WEST,https://fl3.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
 Sony_Movie_Channel,https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
-TBS,https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
+Crave 2,https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
+Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
+Crave 4,https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -134,10 +136,7 @@ SKY News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngr
 QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
 
 The Weather channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-Crave 2,https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
-Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
 
-Crave 4,https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 NHK_World_Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
 NHK world,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
