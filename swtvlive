@@ -44,6 +44,7 @@ MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+CNBC HD,https://fl1.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 CNBC HD,https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 CNBC Africa,https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
@@ -98,10 +99,12 @@ Discovery,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/526.m3u8
 Discovery_Science,http://143.244.60.30/Discovery_Science/index.m3u8
 TBS,https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
 FOOD_NETWORK,https://fl3.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
+COOKING_CHANNEL,https://fl3.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.ts.m3u8
 E!,https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.ts.m3u8
 TLC,https://fl3.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
 HGTV,https://fl3.moveonjoy.com/HGTV/tracks-v1a1/mono.ts.m3u8
 DIY Netword,https://fl1.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
+TNT,https://fl1.moveonjoy.com/TNT/tracks-v1a1/mono.m3u8
 National_Geographic,https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 Nat_Geo_Wild,https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 Nat-Geo,http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
@@ -119,6 +122,7 @@ SHOWTIME,https://fl3.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
 SHOWTIME_2,https://fl1.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
 SHOWTIME_NEXT,https://fl1.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
 SHOWTIME_WEST,https://fl3.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
+BRAVO,https://fl1.moveonjoy.com/BRAVO/tracks-v1a1/mono.m3u8
 Sony_Movie_Channel,https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
 Crave 2,https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
 Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
@@ -456,7 +460,17 @@ GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+NBA TV,https://fl1.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
+NBA TV,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+BIG_TEN_NETWORK,https://fl3.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.ts.m3u8
+
+SEC_NETWORK,https://fl3.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.ts.m3u8
+MSG NETWORK,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
+MLB_NETWORK,https://fl1.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
+
+MARQUEE_SPORTS_NETWORK,https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 
 
 Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
@@ -464,8 +478,6 @@ Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 
 Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
-NBA,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
-NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 
 CBS SPORT,https://7pal.short.gy/cbssptnw
 CBS SPORT,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
