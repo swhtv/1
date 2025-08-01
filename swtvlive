@@ -439,7 +439,7 @@ DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
 
-TSN _1,https://tvpass.org/live/tsn1/hd
+TSN_1,https://tvpass.org/live/tsn1/hd
 TSN_1,https://fl3.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
 TSN_2,https://fl3.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
 TSN_3,https://fl3.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
@@ -508,14 +508,6 @@ FOX 504,https://7pal.short.gy/fox504au
 FOX 505,https://7pal.short.gy/fox505au
 FOX 506,https://7pal.short.gy/fox506au
 NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
-EURO SPORT 1,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-EURO SPORT 2,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-TNT SPORT 1,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-TNT SPORT 2,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-TNT SPORT 3,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-SKY F1,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-
 RACING TV,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
