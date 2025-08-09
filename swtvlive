@@ -5,6 +5,8 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 GLOBAL CA,https://fl3.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.ts.m3u8
 CP24 (T),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45831
+THE WEATHER NETWORK,http://xxip25.top:8080/0krQWV/810866/57470
+BNN BLOOMBERG,http://xxip25.top:8080/0krQWV/810866/57358
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
@@ -817,22 +819,25 @@ CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 FRANCE 法語,#genre#
+
+FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+LE MÉDIA TV,https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
+
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 BFM TV,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-RT FRANCE,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
-ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8 
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-TVA QUEBEC,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
+
 Montreal Greek TV,http://live.greektv.ca/hls1/greektv.m3u8
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 cpac,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=1400000.m3u8
 AFRICA 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 LCI,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
-LE MÉDIA TV,https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
+
 TV5MONDE INFO,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 BFM NEWS,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 BFM TV ,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
