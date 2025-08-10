@@ -7,6 +7,7 @@ GLOBAL CA,https://fl3.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.ts.m3u8
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/4583
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/8419
+CP24(TEST 2),http://cord-cutter.net:8080/25464931/30585186/57257
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
