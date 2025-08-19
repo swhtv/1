@@ -51,7 +51,7 @@ Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CNBC HD,https://fl1.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 CNBC HD,https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-CNBC Africa,https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -80,15 +80,12 @@ AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 CNN,https://fl1.moveonjoy.com/CNN/index.m3u8
 CNN  UHD,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-CNN INTERNATIONAL,http://supersonictv.live:8080/roelle0923/roelle0923/21765
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 FOX News channel,http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-FOX News channel H,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
-FOX NOW,https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 FOX News channel sd,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
+FOX NOW,https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX BUSINESS,https://fl5.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
 FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
@@ -133,21 +130,15 @@ Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
 Crave 4,https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-BFM Business,https://tra2-xdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTA3Mzk0OTMsImlhdCI6MTc1MDY5NjI5MywianRpIjoiMDI3aDJybjByN3R2dHBzZjNmbTAiLCJpc3MiOiJtaXQxLWNkbi1zcjAwIiwiaXAiOiI5OS4yMjguMjI3Ljk5Iiwic3ViIjoiQkZNX0JVU0lORVNTIn0.NM1YDRgqVRdqU-2Iwcxyfx9aVHMyKDKRNG9Ob_1eNU4/shls/LIVE$BFM_BUSINESS/index.m3u8/S!d2EQaGxzX2JmbV9tUnNYSnRtNhIGVP7...8BFgyf/Level(300000)/Segment(17506962683708420).ts
 Ausbiz tv,https://d9quh89lh7dtw.cloudfront.net/public-output/index_640x360_800k.m3u8
 Business 24,https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/business24_tv-avc1_400000=2-mp4a_98400=1.m3u8
 DeFiance TV,https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist216-hp.m3u8
-
 SKY News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/chunklist_b306000.m3u8
 QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
-
 The Weather channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-
 NHK_World_Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
 NHK world,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC ONE,https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb_output_0.m3u8?session=YKS73JZ8cUxHsnSCKiH3Rd
 BBC TWO,https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb_output_0.m3u8?session=J4zd2L7zpmsCoLqZZGG5jG
@@ -173,9 +164,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 PBS KET2,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 PBS TV,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 PBS MPT,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-PBS nature,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4
-PBS  antique roadshow,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636c2b3c55d2e700074105c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=45ec09d8-36de-4581-9848-35cbe70a0eb0
-PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 PBS KET Louisville KY (WKMJ-TV),https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 PBS KET World,https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 CBSN NEWS,http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -188,7 +176,7 @@ WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
@@ -266,7 +254,7 @@ TVB無线新聞,http://110.235.82.60:8001/bysid/83
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台 备,http://tri-metal.dsmynas.net:8000/bysid/1.m3u8
+
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -274,8 +262,7 @@ TVB無线新聞,http://110.235.82.60:8001/bysid/83
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB PLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
 HOY資訊台,http://43.251.102.18:4000/play/a004
 HOY資訊台,http://live4play.uk/livehttpplay?channel_id=20191
 
@@ -464,7 +451,7 @@ NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 NBA TV,https://fl1.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
 NBA TV,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
-NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+NBA h,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 BIG_TEN_NETWORK,https://fl3.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.ts.m3u8
 SEC_NETWORK,https://fl3.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.ts.m3u8
 MSG NETWORK,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
