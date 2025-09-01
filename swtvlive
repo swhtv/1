@@ -142,6 +142,17 @@ Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 DISNEY_JR,https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 DISNEY JR,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 CARTOON_NETWORK,https://fl3.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
+NBC 2,https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/tracks-v3a1/mono.ts.m3u8
+GAME,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+GH CANADA,https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/chunklist_w1753717874.m3u8
+GTN CANADA,https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8?
+GUSTO TV,https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/ed706700-7733-4616-856f-90d5a4dd3a92/0.m3u8
+HARD KNOCKS,https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/50c7c7c1-650f-4da8-91e5-fc6054747c33/3.m3u8
+LOVE NARURE,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/240p-cc/index.m3u8
+MUCH,https://fl1.moveonjoy.com/MUCH/tracks-v1a1/mono.m3u8
+NTV CANADA,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+CANAF54 TV,https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/chunklist_w805170870.m3u8
+
 
 TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -451,6 +462,7 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 GOLF,https://fl5.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
 WORLD_FISHING_NETWORK,https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
+SPORTSMAN_CHANNEL,https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL_NETWORK,https://fl1.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
