@@ -49,6 +49,8 @@ CNBC HD,https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+NBC,https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+NBC News NOW,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 
 ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
@@ -66,6 +68,7 @@ Travel_Channel,https://fl3.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.ts.m3u8
 HGTV,https://fl3.moveonjoy.com/HGTV/tracks-v1a1/mono.ts.m3u8
 DIY Netword,https://fl1.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
 TNT,https://fl1.moveonjoy.com/TNT/tracks-v1a1/mono.m3u8
+History,https://fl1.moveonjoy.com/history_channel/index.m3u8
 National_Geographic,https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 Nat_Geo_Wild,https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 Nat-Geo,http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
@@ -90,6 +93,25 @@ Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
 Crave 4,https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 FX,https://fl1.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
 FX_MOVIE,https://fl3.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.ts.m3u8
+FX East,https://fl5.moveonjoy.com/FX/index.m3u8
+FX Movie Channel (720p),https://tvpass.org/live/FXMovieChannel/hd
+FXM East,https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+FXX East,https://fl3.moveonjoy.com/FXX/index.m3u8
+FYI East,https://fl3.moveonjoy.com/FYI/index.m3u8
+AMC,http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+AMC All Weddings,https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
+AMC East (1080p),https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+AWE (720p),https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+AXS TV,https://fl3.moveonjoy.com/Axs_TV/index.m3u8
+Ayeneh TV,https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+Movies for Gamers,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
+Movies!,https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
+MovieSphere (1080p),https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
+
+
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
@@ -140,6 +162,15 @@ Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 DISNEY_JR,https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 DISNEY JR,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 CARTOON_NETWORK,https://fl3.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
+Nick Jr East,https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
+Nick Music (720p),https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
+NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
+
+
+
 NBC 2,https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/tracks-v3a1/mono.ts.m3u8
 GAME,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 GH CANADA,https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/chunklist_w1753717874.m3u8
@@ -241,6 +272,8 @@ Country tv,https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 Military_History,https://fl3.moveonjoy.com/Military_History/tracks-v1a1/mono.ts.m3u8
 W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 YES_NETWORK,https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.ts.m3u8
+Always Funny Videos,https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+
 
 SW-TV港台,#genre#
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -461,6 +494,7 @@ GOLF,https://fl5.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
 WORLD_FISHING_NETWORK,https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
 SPORTSMAN_CHANNEL,https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
+beIN Sports USA,http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL_NETWORK,https://fl1.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -509,7 +543,11 @@ FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 
 NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
+NBC Sports Bay Area (720p),https://tvpass.org/live/nbc-sports-bay-area/hd
+NBC Sports Boston (1080p),https://tvpass.org/live/nbc-sports-boston/hd
+NBC Sports Philadelphia (720p),https://tvpass.org/live/nbc-sports-philadelphia/hd
+NBC Universo West (720p),http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 Astro Arena,https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 Astro Arena 2,https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
