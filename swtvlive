@@ -13,7 +13,7 @@ CP24(TEST),http://panelguys.top:8080/7gxkVz/122352/57257
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 
-CPAC CA,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91919.ts.m3u8
+
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 MSNBC UHD,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
@@ -559,6 +559,18 @@ Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/pl
 Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 XFC MMA,https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 
+Eurosport 1 FHD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/1dd7d1b1-2dcc-466f-a89c-8cd8dc179803.m3u
+Eurosport 1 HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/e3a049a9-8dcf-4339-9ee0-5c7c154c4008.m3u
+Eurosport 1 SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/c3ceb99e-a399-472b-891d-e8d930f7b58b.m3u
+Eurosport 2 FHD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/6633d68f-88e4-4940-8d72-a205d24cef1a.m3u
+Eurosport 2 HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/29ce11e1-120a-46b5-894a-c1a7f02b4e1d.m3u
+Eurosport 2 SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/fe6cb40e-b0ea-4fd4-a991-41de3fe665ce.m3u
+DAZN LaLiga HD ?,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/b81de965-b43f-4ed7-bb72-f8165da5ec97.m3u
+DAZN LaLiga HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/6d549c00-e627-42a4-9171-77c212fc1517.m3u
+DAZN LaLiga SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/66383d51-7fbe-499e-88e7-eaa633bb1ce5.m3u
+M+ LaLiga TV HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/1ea1afcd-4870-4c59-a3db-bc34904ab3dc.m3u
+M+ LaLiga TV HD ?,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/d9aa6410-f84e-444e-aea2-0b1a74c6d584.m3u
+M+ LaLiga TV SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/6f15becd-fa9f-47cd-9e67-2d927e049f0b.m3u
 
 
 Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
