@@ -8,12 +8,12 @@ CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/4583
 CP24(TEST),http://xxip25.top:8080/85468216/20751659/57357
 CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
-CP24(TEST 2),http://cord-cutter.net:8080/25464931/30585186/57257
-CP24(TEST 2),http://panelguys.top:8080/7gxkVz/122352/57257
+CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
+CP24(TEST),http://panelguys.top:8080/7gxkVz/122352/57257
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
-CITY TORONTO,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91903.ts
-CPAC CA,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91919.ts
+
+CPAC CA,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91919.ts.m3u8
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 MSNBC UHD,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
@@ -135,14 +135,6 @@ BBC FOUR,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8_output_0
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 ABC,https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
-
-CTV 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91937.ts
-HISTORY,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/201.ts
-BNN,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91883.ts
-CTV TORONTO,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91933.ts
-WILD TV CA,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92077.ts
-
-
 
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/Video-1Mbps.m3u8
@@ -556,12 +548,7 @@ FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 
-NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-NBC Sports Bay Area (720p),https://tvpass.org/live/nbc-sports-bay-area/hd
-NBC Sports Boston (1080p),https://tvpass.org/live/nbc-sports-boston/hd
-NBC Sports Philadelphia (720p),https://tvpass.org/live/nbc-sports-philadelphia/hd
-NBC Universo West (720p),http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
 Astro Arena,https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 Astro Arena 2,https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
@@ -572,35 +559,7 @@ Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/pl
 Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 XFC MMA,https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 
-MAX SPORT 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/21962.ts
-MAX SPORT 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/21963.ts
-MAX SPORT 4,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91201.ts
-ARENA SPORT 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/305.ts
-ARENA APORT 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/310.ts
-ARENA SPORT -2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/17990.ts
-ARENA SPORT -4,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/312.ts
-ARENA SPORT 3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/307.ts
-ARENA SPORT 8,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/41262.ts
-ARENA SPORT-3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/17992.ts
-ARENA SPORT -1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/17988.ts
-ARENA SPORT 6,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/41265.ts
-MAX SPORT 3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91199.ts
-ARENA SPORT 5,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/313.ts
-ARENA SPORT 10,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/41264.ts
-ARENA SPORT PREMIUM 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/75424.ts
-ARENA SPORT 4,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/308.ts
-ARENA SPORT 7,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/41261.ts
-ARENA SPORT 9,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/41263.ts
-ARENA SPORT PREMIUM 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/75423.ts
-ARENA SPORT PREMIUM 3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/75425.ts
-SPORTSNET ONE,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92049.ts
-SPORTSNET 360,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92047.ts
-SPORTSNET PACIFIC,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92053.ts
-SPORTSNET WORLD,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92057.ts
-SPORTSNET WEST,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92055.ts
-TVA SPORT,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92163.ts
-TVA SPORT 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92165.ts
-SUPER SPORT 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/471.ts
+
 
 Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
