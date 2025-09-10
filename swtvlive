@@ -708,145 +708,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 
-
-
-
-
-
-日本JAPAN,#genre#
-NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-NHK WORID,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
-日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
-フジテレビ,P2p://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
-読売テレビ,P2p://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
-朝日放送,P2p://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
-WOWOWライブ,P2p://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
-WOWOWシネマ,P2p://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
-BSアニマックス,P2p://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
-J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
-Green Channel,P2p://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
-ゴルフネットワークHD,P2p://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
-時代劇専門チャンネル,P2p://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
-キッズステーションHD,P2p://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
-ディスカバリーチャンネル,P2p://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
-Green Channel,https://vn.utako.moe/green/index.m3u8
-Gaora Sports,https://vn.utako.moe/gaora/index.m3u8
-CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
-QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-
-
-
-
-韩国KOREA,#genre#
-
-
-CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-CJONSTYLE,http://mytv.dothome.co.kr/ch/catv/91.php
-CJONSTYLE+,http://mytv.dothome.co.kr/ch/catv/92.php
-
-EBS +1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS +2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-EBS 1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-EBS 1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-
-EBS 2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-EBS E,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS E,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-EBS 兒童頻道,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-
-
-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
-KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
-KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-NBS 韓國農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-NBS 韓國農業廣播,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-NBS 韓國農業廣播,http://n2086.securepoint.io:25461/6Byt5ktufakh/4tCGs3ACR43v/162629
-RedBull,http://mytv.dothome.co.kr/ch/catv/61.php
-SBS 강심장,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
-SBS 닥터스,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
-SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-SBS 런닝맨,https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?
-SBS 스페셜,https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
-SBS 집사부일체,https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?
-SBS 패밀리가 떴다,https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
-TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-TJBI SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
-Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
-
-YTN와이티엔,http://mytv.dothome.co.kr/ch/catv/261.php
-
-韓國職業廣播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-프란체스카,https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
-
-
-Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-Arirang 阿里郎,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang 阿里郎,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang 阿里郎,http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
-Arirang 阿里郎,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
-Arirang 阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-Arirang 阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang 阿里郎,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-
-BBS 佛教廣播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-BBS 佛教廣播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-
-广播电台RADIO,#genre#
-
-加拿大AM1430,https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
-加拿大AM1540,http://s2.voscast.com:9530/;
-加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
-加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/chunklist_w987170920.m3u8
-AM1320華僑之聲電台,http://stream.radiojar.com/nugqupcv8qzuv.mp3
-CHMB AM1320華僑之聲電台2,http://stream.radiojar.com/60sqadqu97zuv.mp3
-
-加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
-加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/chunklist_w441033106.m3u8
-
-香港D100PBS新聞時事,http://59.152.232.108:8000/Channel1-128AAC
-香港电台第一台,http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-香港电台第二台,http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-香港电台第三台,http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-香港电台第四台,http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-香港电台第五台,http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-香港电台普通話台,http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-新城電台知訊997,http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
-新城電台財經104,http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
-新城電台Metro Plus AM1044,http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
-講台talkonly,http://103.11.102.62:8000/talkonly.mp3
-
-
-加州KRRL-FM 92.3(Hip Hop),https://c8.prod.playlists.ihrhls.com/181/playlist.m3u8
-纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
-纽约WNYL-FM 92.3(另类摇滚),http://18053.live.streamtheworld.com/WNYLFMAAC_SC
-纽约WCBS-FM 101.1(Classic Hits),http://20843.live.streamtheworld.com/WCBSFMAAC_SC
-CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
-CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
-CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
-Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-
 FRANCE 法語,#genre#
 
 FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
@@ -1127,6 +988,145 @@ WILDSIDE TV,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 BEL,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 ROUGE TV,https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 FX2,https://toonixhls.wns.live/hls/stream.m3u8
+
+
+
+
+
+
+日本JAPAN,#genre#
+NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+NHK WORID,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
+日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
+フジテレビ,P2p://starvod.xyz:19806/89185d69da39411e987c3ba8c83ccb4e.ts
+読売テレビ,P2p://starvod.xyz:19806/0ee9d442c5b14c8e83b2c314ab9a4300.ts
+朝日放送,P2p://starvod.xyz:19806/7303e01149314ad4a5d8e5aa25b56975.ts
+WOWOWライブ,P2p://starvod.xyz:19806/efa7852398444fbab516e74d8aa19764.ts
+WOWOWシネマ,P2p://starvod.xyz:19806/9478166f644f46e2bfd81cf23c51ff31.ts
+BSアニマックス,P2p://starvod.xyz:19806/56a65f41367f497c84cc9538def3a614.ts
+J Sports 2,P2p://starvod.xyz:19806/a92d2208dd254a1198e66b739dc50157.ts
+Green Channel,P2p://starvod.xyz:19806/ede1dfdf91954f14817d55603428fd20.ts
+ゴルフネットワークHD,P2p://starvod.xyz:19806/1d7c15347e5e4a7c80c49936041649c6.ts
+時代劇専門チャンネル,P2p://starvod.xyz:19806/9d8cc1cbfca8462c9b7acfdea77e3936.ts
+キッズステーションHD,P2p://starvod.xyz:19806/efe841ff5d8045d9a230837bbcabcd1c.ts
+ディスカバリーチャンネル,P2p://starvod.xyz:19806/86b254a7f2764359bc6c4b0b4a6cf567.ts
+Green Channel,https://vn.utako.moe/green/index.m3u8
+Gaora Sports,https://vn.utako.moe/gaora/index.m3u8
+CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
+QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+
+
+
+韩国KOREA,#genre#
+
+
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+CJONSTYLE,http://mytv.dothome.co.kr/ch/catv/91.php
+CJONSTYLE+,http://mytv.dothome.co.kr/ch/catv/92.php
+
+EBS +1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS +2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS 1,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
+EBS 2,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS E,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS E,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+EBS 兒童頻道,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV CH05 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+NBS 韓國農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS 韓國農業廣播,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS 韓國農業廣播,http://n2086.securepoint.io:25461/6Byt5ktufakh/4tCGs3ACR43v/162629
+RedBull,http://mytv.dothome.co.kr/ch/catv/61.php
+SBS 강심장,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?
+SBS 닥터스,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?
+SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+SBS 런닝맨,https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?
+SBS 스페셜,https://d9elvao5pl5dr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l3cinzxwxwpnp-prod/hls-harvester2-1293-prod/us-east-1/cc-l3cinzxwxwpnp/master.m3u8?
+SBS 집사부일체,https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?
+SBS 패밀리가 떴다,https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1nujk65i146oc-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+TJBI SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+
+YTN와이티엔,http://mytv.dothome.co.kr/ch/catv/261.php
+
+韓國職業廣播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+프란체스카,https://dxkp9eljtcams.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i6xnah4o9mnn8-prod/Channel_MBC_6.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=
+
+
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Arirang 阿里郎,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang 阿里郎,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang 阿里郎,http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+Arirang 阿里郎,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+Arirang 阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+Arirang 阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang 阿里郎,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+
+BBS 佛教廣播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+BBS 佛教廣播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+广播电台RADIO,#genre#
+
+加拿大AM1430,https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8
+加拿大AM1540,http://s2.voscast.com:9530/;
+加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
+加拿大中文电台AM1470,https://5b2959fe11444.streamlock.net/radio/am1470.stream/chunklist_w987170920.m3u8
+AM1320華僑之聲電台,http://stream.radiojar.com/nugqupcv8qzuv.mp3
+CHMB AM1320華僑之聲電台2,http://stream.radiojar.com/60sqadqu97zuv.mp3
+
+加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+加拿大中文电台FM 96.1,https://5b2959fe11444.streamlock.net/radio/fm961.stream/chunklist_w441033106.m3u8
+
+香港D100PBS新聞時事,http://59.152.232.108:8000/Channel1-128AAC
+香港电台第一台,http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+香港电台第二台,http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+香港电台第三台,http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+香港电台第四台,http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+香港电台第五台,http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+香港电台普通話台,http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+新城電台知訊997,http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
+新城電台財經104,http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
+新城電台Metro Plus AM1044,http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
+講台talkonly,http://103.11.102.62:8000/talkonly.mp3
+
+
+加州KRRL-FM 92.3(Hip Hop),https://c8.prod.playlists.ihrhls.com/181/playlist.m3u8
+纽约WABH-AM 1380(Country),https://ice24.securenetsystems.net/WABH
+纽约WNYL-FM 92.3(另类摇滚),http://18053.live.streamtheworld.com/WNYLFMAAC_SC
+纽约WCBS-FM 101.1(Classic Hits),http://20843.live.streamtheworld.com/WCBSFMAAC_SC
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 
 
