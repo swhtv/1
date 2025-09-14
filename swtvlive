@@ -23,14 +23,14 @@ OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-CNN,https://fl4.moveonjoy.com/CNN/index.m3u8
+CNN,https://fl4.moveonjoy.com/CNN/tracks-v1a1/mono.m3u8
 CNN  UHD,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX_NEWS_CHANNEL,https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 
-Fox newschannel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX News channel sd,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX NOW,https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 CBS news,https://fl4.moveonjoy.com/CBSEAST/tracks-v1a1/mono.ts.m3u8
@@ -66,7 +66,7 @@ Discovery_Science,http://143.244.60.30/Discovery_Science/index.m3u8
 TBS,https://fl4.moveonjoy.com/TBS/tracks-v1a1/mono.m3u8
 FOOD_NETWORK,https://fl4.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
 COOKING_CHANNEL,https://fl4.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
-COOKING_CHANNEL,https://fl3.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.ts.m3u8
+
 E!,https://fl4.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
 E_ENTERTAINMENT,https://fl4.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
 TLC,https://fl4.moveonjoy.com/TLC/tracks-v1a1/mono.m3u8
@@ -179,12 +179,12 @@ cable 14 hamilton,https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/ch
 DISNEY,https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 DISNEY,https://fl4.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-DISNEY_JR,https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
-DISNEY JR,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-CARTOON_NETWORK,https://fl3.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
-Nick Jr East,https://fl3.moveonjoy.com/NICK_JR/index.m3u8
+DISNEY_JR,https://fl4.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
+DISNEY JR,https://fl4.moveonjoy.com/DISNEY_JR/index.m3u8
+CARTOON_NETWORK,https://fl4.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
+Nick Jr East,https://fl4.moveonjoy.com/NICK_JR/index.m3u8
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
-Nick Music (720p),https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+Nick Music (720p),https://fl4.moveonjoy.com/NICK_MUSIC/index.m3u8
 Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
@@ -290,8 +290,8 @@ The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amag
 TRUE HISTORY,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_webvtt.m3u8
 Country tv,https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 Military_History,https://fl3.moveonjoy.com/Military_History/tracks-v1a1/mono.ts.m3u8
-W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-YES_NETWORK,https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.ts.m3u8
+W network,https://fl4.moveonjoy.com/W_NETWORK/index.m3u8
+YES_NETWORK,https://fl4.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.ts.m3u8
 Always Funny Videos,https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
 
@@ -521,7 +521,7 @@ NBC GOLF,https://fl4.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 GOLF,https://fl4.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
 WORLD_FISHING_NETWORK,https://fl4.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
-SPORTSMAN_CHANNEL,https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
+SPORTSMAN_CHANNEL,https://fl4.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
 SPORTSMAN_CHANNEL,https://fl4.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
 ACC sports_NETWORK,https://fl4.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.m3u8
 beIN Sports USA,https://fl4.moveonjoy.com/BEIN_SPORTS/tracks-v1a1/mono.m3u8
@@ -545,12 +545,12 @@ CBS SPORT NETWORD,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.
 MSG SPORT,https://fl4.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
 ESPN_2,https://fl4.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
 ESPN_U,https://fl4.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
-ESPN_U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN P,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
-ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 ESPN UFC,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/651b40b8-0788-427a-bc9d-4a2eccd6c1d2.m3u
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
