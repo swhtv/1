@@ -3,7 +3,7 @@ SW-華哥TV ,#genre#
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
-GLOBAL CA,https://fl1.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
+GLOBAL CA,https://fl4.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
 
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/4583
@@ -13,7 +13,7 @@ CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
 
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
-THE_WEATHER_CHANNEL,https://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/tracks-v1a1/mono.ts.m3u8
+THE_WEATHER_CHANNEL,https://fl4.moveonjoy.com/THE_WEATHER_CHANNEL/tracks-v1a1/mono.ts.m3u8
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 MSNBC UHD,https://fl4.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 
@@ -120,10 +120,10 @@ FYI East,https://fl4.moveonjoy.com/FYI/tracks-v1a1/mono.m3u8
 AMC,http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 AMC All Weddings,https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-AMC East (1080p),https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+AMC East (1080p),https://fl4.moveonjoy.com/AMC_NETWORK/index.m3u8
 AWE (720p),https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-AXS TV,https://fl3.moveonjoy.com/Axs_TV/index.m3u8
+AXS TV,https://fl4.moveonjoy.com/Axs_TV/index.m3u8
 Ayeneh TV,https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 Movies for Gamers,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
 Movies!,https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -176,9 +176,9 @@ CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-
 cpac,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=1400000.m3u8
 CHCOTV CA,https://temp4.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 cable 14 hamilton,https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/chunklist_w876842286_b3360000_sleng.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU%3D&iimae0UC2astarttime=1665181720
-DISNEY,https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 DISNEY,https://fl4.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
-Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+DISNEY,https://fl4.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+Disney XD,https://fl4.moveonjoy.com/DISNEY_XD/index.m3u8
 DISNEY_JR,https://fl4.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 DISNEY JR,https://fl4.moveonjoy.com/DISNEY_JR/index.m3u8
 CARTOON_NETWORK,https://fl4.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
@@ -198,7 +198,7 @@ GTN CANADA,https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3
 GUSTO TV,https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/ed706700-7733-4616-856f-90d5a4dd3a92/0.m3u8
 HARD KNOCKS,https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/50c7c7c1-650f-4da8-91e5-fc6054747c33/3.m3u8
 LOVE NARURE,https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/240p-cc/index.m3u8
-MUCH,https://fl1.moveonjoy.com/MUCH/tracks-v1a1/mono.m3u8
+MUCH,https://fl4.moveonjoy.com/MUCH/tracks-v1a1/mono.m3u8
 NTV CANADA,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 CANAF54 TV,https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/chunklist_w805170870.m3u8
 
@@ -529,19 +529,19 @@ NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL_NETWORK,https://fl4.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 NBA TV,https://fl4.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
-NBA TV,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
-NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+NBA TV,https://fl4.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+NBA,https://fl4.moveonjoy.com/NBA_TV/index.m3u8
 BIG_TEN_NETWORK,https://fl4.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.m3u8
 SEC_NETWORK,https://fl4.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.m3u8
 MSG NETWORK,https://fl4.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
 MLB_NETWORK,https://fl4.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
-MLB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
+MLB NETWORD,https://fl4.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 MARQUEE_SPORTS_NETWORK,https://fl4.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
-CBS SPORT NETWORD,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+CBS SPORT NETWORD,https://fl4.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 MSG SPORT,https://fl4.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
 ESPN_2,https://fl4.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
 ESPN_U,https://fl4.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
@@ -549,7 +549,7 @@ ESPN_U,https://fl4.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN P,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
-ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
+ESPN NEWS,https://fl4.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
 
 ESPN UFC,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/651b40b8-0788-427a-bc9d-4a2eccd6c1d2.m3u
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
@@ -615,8 +615,8 @@ Sport TV 6,https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 RACING TV,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-FanDuel SPORTS NETWORD,https://fl3.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
-FanDuel tv,https://fl3.moveonjoy.com/TVG/tracks-v1a1/mono.ts.m3u8
+FanDuel SPORTS NETWORD,https://fl4.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
+FanDuel tv,https://fl4.moveonjoy.com/TVG/tracks-v1a1/mono.ts.m3u8
 FUDO SPORTS NETWORD,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 FUEL TV,https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/640x360_985600/chunklist.m3u8
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
@@ -629,7 +629,7 @@ LEquipe live 1,https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9
 LEquipe live 2,https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
 
 GOLF KINGDOM,https://30a-tv.com/feeds/720p/53.m3u8
-ACCN NETWORK,https://fl3.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.ts.m3u8
+ACCN NETWORK,https://fl4.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.ts.m3u8
 ACL ,https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV_v3.m3u8
 ADVENTURE SPORTS,https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438/variant/22100062.m3u8
 AFRO SPORT  NIGERIA,https://newproxy3.vidivu.tv/vidivu_afrosport/tracks-v1a1/mono.ts.m3u8
