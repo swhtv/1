@@ -656,8 +656,23 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 CCTV 5,https://yunmei.tv/cctv/cctv-5.m3u8
 CCTV 5+,https://yunmei.tv/cctv/cctv-5+.m3u8
-CCTV 7,https://timetv.shop/http://203.205.191.53/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226002/index.m3u8
-CCTV 13,https://timetv.shop/http://203.205.191.53/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221226062/index.m3u8
+CCTV1,http://118.81.194.174:9003/hls/1/index.m3u8
+CCTV2,http://118.81.194.174:9003/hls/2/index.m3u8
+CCTV3,http://118.81.194.174:9003/hls/3/index.m3u8
+CCTV4,http://118.81.194.174:9003/hls/4/index.m3u8
+CCTV5,http://118.81.194.174:9003/hls/5/index.m3u8
+CCTV5+,http://118.81.194.174:9003/hls/6/index.m3u8
+CCTV6,http://118.81.194.174:9003/hls/7/index.m3u8
+CCTV7,http://118.81.194.174:9003/hls/8/index.m3u8
+CCTV8,http://118.81.194.174:9003/hls/9/index.m3u8
+CCTV9,http://118.81.194.174:9003/hls/10/index.m3u8
+CCTV11,http://118.81.194.174:9003/hls/12/index.m3u8
+CCTV12,http://118.81.194.174:9003/hls/13/index.m3u8
+CCTV13,http://118.81.194.174:9003/hls/14/index.m3u8
+CCTV14,http://118.81.194.174:9003/hls/15/index.m3u8
+CCTV15,http://118.81.194.174:9003/hls/16/index.m3u8
+CCTV16,http://118.81.194.174:9003/hls/17/index.m3u8
+CCTV17,http://118.81.194.174:9003/hls/18/index.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 
@@ -677,7 +692,7 @@ CCTV 13,https://timetv.shop/http://203.205.191.53/zycfcdn.gdwlcloud.com/TVOD/888
 -鳳凰衛視香港台,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 凤凰卫视标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 星空卫视标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
-澳亚卫视高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
+
 凤凰卫视标清,http://119.32.12.17:2901/udp/224.1.100.3:11111
 
 FRANCE 法語,#genre#
