@@ -123,6 +123,35 @@ WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oan
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+
+HBO,https://fl25.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
+
+HBO 2,https://fl25.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+
+HBO_COMEDY,https://fl25.moveonjoy.com/HBO_COMEDY/tracks-v1a1/mono.m3u8
+
+HBO_FAMILY,https://fl25.moveonjoy.com/HBO_FAMILY/tracks-v1a1/mono.m3u8
+SHOWTIME_EXTREME,https://fl25.moveonjoy.com/SHOWTIME_EXTREME/tracks-v1a1/mono.m3u8
+SHOWTIME,https://fl25.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.m3u8
+SHOWTIME_2,https://fl25.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
+SHOWTIME_NEXT,https://fl25.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
+BRAVO,https://fl25.moveonjoy.com/BRAVO/tracks-v1a1/mono.m3u8
+Sony_Movie_Channel,https://fl25.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.m3u8
+Sony_Movie_Channel,https://fl25.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
+
+Crave 1,https://fl25.moveonjoy.com/CRAVE_1/tracks-v1a1/mono.m3u8
+Crave 2,https://fl25.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.m3u8
+Crave 3,https://fl25.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.m3u8
+Crave 4,https://fl25.moveonjoy.com/CRAVE_4/tracks-v1a1/mono.m3u8
+
+FX,https://fl25.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
+FX_MOVIE,https://fl25.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
+FX East,https://fl25.moveonjoy.com/FX/tracks-v1a1/mono.m3u8
+FX Movie Channel (720p),https://tvpass.org/live/FXMovieChannel/hd
+FXM East,https://fl25.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
+FXX East,https://fl25.moveonjoy.com/FXX/tracks-v1a1/mono.m3u8
+FYI East,https://fl25.moveonjoy.com/FYI/tracks-v1a1/mono.m3u8
+
 HBO,http://212.102.60.231:80/HBO/index.m3u8
 HBO,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/162.ts
 HBO 2,http://212.102.60.231/HBO_2/index.m3u8
@@ -513,7 +542,7 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 SPORT体育 ,#genre#
 TENNIS_CHANNEL,http://212.102.60.231:80/TENNIS_CHANNEL/index.m3u8
-TENNIS_CHANNEL,https://fl7.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
+TENNIS_CHANNEL,https://fl25.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -523,31 +552,59 @@ DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 SPORTSNET NY,http://212.102.60.231:80/SNY/index.m3u8
 SPORTSNET ONE,http://212.102.60.231:80/SPORTSNET/index.m3u8
+TSN_1,https://fl25.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
 TSN_1,http://212.102.60.231:80/TSN_1/index.m3u8
 TSN_1,https://tvpass.org/live/tsn1/hd
 TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 TSN 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92029.ts
 TSN_2,http://212.102.60.231:80/TSN_2/index.m3u8
+TSN_2,https://fl25.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
 TSN 2,http://cord-cutter.net:8080/live/Ss5DKE/232455/47442.ts
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
+TSN_3,https://fl25.moveonjoy.com/TSN_3/tracks-v1a1/mono.m3u8
 TSN_3,http://212.102.60.231:80/TSN_3/index.m3u8
 TSN_3,https://fl7.moveonjoy.com/TSN_3/tracks-v1a1/mono.m3u8
 TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
 TSN_4,http://212.102.60.231:80/TSN_4/index.m3u8
-TSN_4,https://fl7.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
+TSN_4,https://fl25.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
 TSN 4,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92041.ts
-TSN_5,https://fl7.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
+TSN_5,https://fl25.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 TSN 5,http://212.102.60.231:80/TSN_5/index.m3u8
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+NBC GOLF,https://fl25.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 GOLF,http://212.102.60.231:80/GOLF/index.m3u8
-ACCN NETWORK,,http://212.102.60.231:80/ACC_NETWORK/index.m3u8
+ACCN NETWORK,http://212.102.60.231:80/ACC_NETWORK/index.m3u8
 WORLD_FISHING_NETWORK,http://212.102.60.231:80/WORLD_FISHING_NETWORK/index.m3u8
+
+SPORTSMAN_CHANNEL,https://fl25.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
+
+beIN Sports USA,https://fl25.moveonjoy.com/BEIN_SPORTS/tracks-v1a1/mono.m3u8
 SPORTSMAN_CHANNEL,http://212.102.60.231:80/SPORTSMAN_CHANNEL/index.m3u8
-SPORTSMAN_CHANNEL,https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
-SPORTSMAN_CHANNEL,https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
-ACC sports_NETWORK,http://212.102.60.231:80/SPORTSMAN_CHANNEL/index.m3u8
+SPORTSMAN_CHANNEL,https://fl25.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
+
+
 beIN Sports USA,http://212.102.60.231:80/SPORTSMAN_CHANNEL/index.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
+
+NHL_NETWORK,https://fl25.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
+
+NBA TV,https://fl25.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
+
+BIG_TEN_NETWORK,https://fl25.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.m3u8
+SEC_NETWORK,https://fl25.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.m3u8
+MSG NETWORK,https://fl25.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
+MLB_NETWORK,https://fl25.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
+MLB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
+
+MARQUEE_SPORTS_NETWORK,https://fl25.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
+SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
+CBS SPORT NETWORD,https://fl25.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+MSG SPORT,https://fl25.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
+ESPN_2,https://fl25.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
+ESPN_U,https://fl25.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
+
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NFL_NETWORK,http://212.102.60.231:80/NHL_NETWORK/index.m3u8
 NBA TV,http://212.102.60.231:80/NBA_TV/index.m3u8
@@ -577,7 +634,8 @@ ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
+FOX_Sports_1,https://fl25.moveonjoy.com/FOX_Sports_1/index.m3u8
+FOX_Sports_2,https://fl25.moveonjoy.com/FOX_Sports_2/index.m3u8
 FOX_Sports_1,http://212.102.60.231:80/FOX_Sports_1/index.m3u8
 
 FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
