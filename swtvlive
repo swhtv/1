@@ -6,12 +6,15 @@ CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36
 GLOBAL CA,http://212.102.60.231:80/CA_GLOBAL/index.m3u8
 GLOBAL CA,https://fl25.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
+CP24(TEST),http://fortv.cc:8080/b6twFE/414151/57401
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/4583
 CP24(TEST),http://xxip25.top:8080/85468216/20751659/57357
 CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
+CP24(TEST 2),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
 
 CP24俻,http://fortv.cc:8080/b6twFE/414151/57257
+CP24俻,http://fortv.cc:8080/b6twFE/414151/57345
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 THE_WEATHER_CHANNEL,http://212.102.60.231:80/THE_WEATHER_CHANNEL/index.m3u8
@@ -91,6 +94,7 @@ HGTV,https://fl25.moveonjoy.com/HGTV/tracks-v1a1/mono.m3u8
 HLN TV,https://fl25.moveonjoy.com/HLN/tracks-v1a1/mono.m3u8
 DIY Netword,https://fl25.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
 TNT,https://fl25.moveonjoy.com/TNT/tracks-v1a1/mono.m3u8
+TNT,http://fortv.cc:8080/b6twFE/414151/10455
 History,https://fl25.moveonjoy.com/history_channel/index.m3u8
 TBS,http://41.205.93.154/TBS/index.m3u8
 FOOD_NETWORK,http://212.102.60.231:80/FOOD_NETWORK/index.m3u8
@@ -552,13 +556,13 @@ TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m
 DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
-SPORTSNET NY,http://212.102.60.231:80/SNY/index.m3u8
-SPORTSNET ONE,http://212.102.60.231:80/SPORTSNET/index.m3u8
+
 TSN_1,https://fl25.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
 TSN_1,http://212.102.60.231:80/TSN_1/index.m3u8
 TSN_1,https://tvpass.org/live/tsn1/hd
 TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 TSN 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92029.ts
+TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
 TSN_2,http://212.102.60.231:80/TSN_2/index.m3u8
 TSN_2,https://fl25.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
 TSN 2,http://cord-cutter.net:8080/live/Ss5DKE/232455/47442.ts
@@ -573,8 +577,14 @@ TSN 4,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92041.ts
 TSN_5,https://fl25.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 TSN 5,http://212.102.60.231:80/TSN_5/index.m3u8
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+SPORTSNET NY,http://212.102.60.231:80/SNY/index.m3u8
+SPORTSNET ONE,http://212.102.60.231:80/SPORTSNET/index.m3u8
+Sportsnet East,http://fortv.cc:8080/b6twFE/414151/57298
+Sportsnet Ontario,http://fortv.cc:8080/b6twFE/414151/57463
+
 NBC GOLF,https://fl25.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 GOLF,http://212.102.60.231:80/GOLF/index.m3u8
+Sky Golf,http://fortv.cc:8080/b6twFE/414151/35240
 ACCN NETWORK,http://212.102.60.231:80/ACC_NETWORK/index.m3u8
 WORLD_FISHING_NETWORK,http://212.102.60.231:80/WORLD_FISHING_NETWORK/index.m3u8
 
