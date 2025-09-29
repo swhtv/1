@@ -38,6 +38,151 @@
 
 
 { "key": "360资源", "name": "360资源-采集", "type": 1, "api": "https://360zy.com/api.php/seaxml/vod/", "searchable": 1, "changeable": 1, "categories": [ "国产动漫", "日韩动漫", "国产剧", "韩国剧", "日本剧", "电影片", "香港剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "欧美剧", "记录片", "台湾剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ] },
+
+ {
+      "key": "csp_Jpys",
+      "name": "🥇️金牌",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_Jpys"
+    },
+    
+     {
+      "key": "潮流",
+      "name": "🏜┃潮流┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+    
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "梦回",
+      "name": "🏈┃梦回┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_AppRJ",
+      "ext": "http://v.lkuys.cn"
+    },
+    
+    {
+      "key": "肥猫",
+      "name": "🐼┃肥猫┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mac.555618.xyz",
+        "dataKey": "#getapp@TMD@2025",
+        "siteApi": "get",
+        "version": "201"
+      }
+    },
+    {"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
+   
+    {
+      "key": "再来",
+      "name": "✌️┃再来┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+        "dataKey": "37kj83zs1q16jk6t",
+        "siteApi": "qiji",
+        "version": ""
+      }
+    },
+    
+    {
+      "key": "仓鼠",
+      "name": "🐹┃耗子┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "siteApi": "qiji",
+        "version": ""
+      }
+    },
+    {
+      "key": "蔬菜",
+      "name": "🫛┃蔬菜┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "dataKey": "huohushipingetap",
+        "siteApi": "get",
+        "version": "140"
+      }
+    },
+    
+    {
+      "key": "永永",
+      "name": "♾️┃永永┃APP",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.guangyingmi.com",
+        "dataKey": "230fnsodfsdhfon2",
+        "siteApi": "get",
+        "version": ""
+      }
+    },
+   
+    {
+      "key": "csp_Wwys",
+      "name": "🌾️┃农民┃影视",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn"
+    },
+   
+    {
+      "key": "csp_Xlys",
+      "name": "🏔️┃修罗┃磁力",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_Xlys",
+      "ext": "https://xl01.com.de"
+    },
+   
+  
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥┃火火┃影视",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_Gz360",
+      "playerType": 2
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎┃苹果┃影视",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   
+    {
+      "key": "猎手影视",
+      "name": "🐆┃猎手┃影视",
+      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+
+
+
 {"key":"csp_XBPQ_金牌","name":"華sw金牌(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"作者":"小可乐/2408/第五版","站名":"金牌影院","请求头":"User-Agent$PC_UA","编码":"UTF-8","图片代理":"0","主页url":"https://m.cfkj86.com","首页":"120","起始页":"1","分类url":"/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/page/{catePg};;mrcWR","分类":"电影&剧集&综艺&动漫","分类值":"1&2&3&4","二次截取":"默认--list\":\\[&&\\]||首页--data\":{\"home&&newestShortTvPageData","数组":"{&&}","标题":"vodName\":\"&&\"","图片":"https://ywxohs.com+obs.gduamoe.com&&\"","副标题":"vodRemarks\":\"&&\"+_+vodDoubanScore\":&&,","链接":"/detail/+vodId\":&&,","影片年代":"vodYear\":\"&&\"","影片地区":"vodArea\":\"&&\"","影片类型":"vodClass\":\"&&\"","状态":"vodRemarks\":\"&&\"","导演":"vodDirector\":\"&&\"","主演":"vodActor\":\"&&\"","简介":"vodContent\":\"&&\"","线路二次截取":"episodeList\":&&\"likeData","线路数组":"\\[&&\\]","线路标题":".:雷蒙影视:.","播放二次截取":"episodeList\":&&\"likeData[替换:nid\":>>nid\":/1/]","播放数组":"\\[&&\\]","播放列表":"{&&}","播放标题":"name\":\"&&\"","播放链接":"nid\":&&,","播放链接前缀":"https://m.cfkj86.com/vod/play/+play/&&/","直接播放":"0","嗅探词":".mp4#.m3u8","搜索请求头":"User-Agent$PC_UA","搜索url":"/vod/search/{wd}","搜索模式":"1","搜索二次截取":"result*list\":\\[&&\\]","搜索数组":"{&&}","搜索标题":"vodName\":\"&&\"","搜索图片":"vodPic\":\"&&\"","搜索副标题":"vodRemarks\":\"&&\"+_+vodDoubanScore\":&&,","搜索链接":"/detail/+vodId\":&&,","筛选":"1","类型":"喜剧片$1/type/22#动作片$1/type/23#科幻片$1/type/30#爱情片$1/type/26#悬疑片$1/type/27#奇幻片$1/type/87#剧情片$1/type/37#恐怖片$1/type/36#犯罪片$1/type/35#动画片$1/type/33#惊悚片$1/type/34#战争片$1/type/25#冒险片$1/type/31#灾难片$1/type/81#理论片$1/type/83#其他片$1/type/43||国产剧$2/type/14#欧美剧$2/type/15#港台剧$2/type/16#日韩剧$2/type/62#其他剧$2/type/68||国产综艺$3/type/69#港台综艺$3/type/70#日韩综艺$3/type/72#欧美综艺$3/type/73#其他综艺$3/type/74||国产动漫$4/type/75#日韩动漫$4/type/76#欧美动漫$4/type/77","剧情":"空||古装&战争&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&短片||真人秀&音乐&脱口秀||喜剧&科幻&热血&冒险&动作&运动&战争&儿童","剧情值":"*","地区":"中国大陆&中国香港&中国台湾&美国&日本&韩国&印度&泰国&其他||中国大陆&中国香港&中国台湾&日本&韩国&美国&泰国&其他||中国大陆&中国香港&中国台湾&日本&韩国&美国&其他||中国大陆&日本&美国&其他","地区值":"*","年份":"2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010&2009~2000||2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010||2025&2024&2023&2022&2021&2020||2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010","年份值":"*","语言":"国语&英语&粤语&韩语&日语&其他||普通话&英语&粤语&韩语&日语&泰语&其他||国语&英语&粤语&韩语&日语&其他||国语&英语&日语&其他","语言值":"*"}},
 
 {"key":"csp_XBPQ_欧洲","name":"雷蒙影视 | 🍚欧洲(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://euvod.tv/","分类url":"https://euvod.tv/vodshow/{cateId}--------{catePg}---.html","分类数组":"library-item&&</a>","分类ID":"/vodshow/&&-----------.html","分类标题":">&&</a>","数组":"module-item-pic&&</div>","标题":"title=\"&&\"","图片":"data-src=\"&&\"","链接":"href=\"&&\"","播放数组":"scroll-content&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","线路数组":"data-dropdown-value&&</div>","线路标题":".:雷蒙影视:.+<span>&&</span>","搜索数组":"video-info&&</h3>","搜索url":"https://euvod.tv/vodsearch/-------------.html?wd={wd}"}},
@@ -876,4 +1021,5 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
