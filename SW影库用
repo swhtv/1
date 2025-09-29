@@ -41,14 +41,14 @@
 
  {
       "key": "csp_Jpys",
-      "name": "🥇️金牌",
+      "name": "SW🥇️金牌",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_Jpys"
     },
     
      {
       "key": "潮流",
-      "name": "🏜┃潮流┃APP",
+      "name": "SW潮流",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
     
       "api": "csp_AppRJ",
@@ -56,7 +56,7 @@
     },
     {
       "key": "梦回",
-      "name": "🏈┃梦回┃APP",
+      "name": "SW梦回",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_AppRJ",
       "ext": "http://v.lkuys.cn"
@@ -64,7 +64,7 @@
     
     {
       "key": "肥猫",
-      "name": "🐼┃肥猫┃APP",
+      "name": "SW肥猫",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_AppGet",
       "ext": {
@@ -78,7 +78,7 @@
    
     {
       "key": "再来",
-      "name": "✌️┃再来┃APP",
+      "name": "SW再来",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_AppGet",
       "ext": {
@@ -91,7 +91,7 @@
     
     {
       "key": "仓鼠",
-      "name": "🐹┃耗子┃APP",
+      "name": "SW🐹耗子",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_AppGet",
       "ext": {
@@ -103,7 +103,7 @@
     },
     {
       "key": "蔬菜",
-      "name": "🫛┃蔬菜┃APP",
+      "name": "SW蔬菜",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_AppGet",
       "ext": {
@@ -116,7 +116,7 @@
     
     {
       "key": "永永",
-      "name": "♾️┃永永┃APP",
+      "name": "SW永永SW",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_AppGet",
       "ext": {
@@ -129,7 +129,7 @@
    
     {
       "key": "csp_Wwys",
-      "name": "🌾️┃农民┃影视",
+      "name": "SW🌾️农民",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
@@ -137,7 +137,7 @@
    
     {
       "key": "csp_Xlys",
-      "name": "🏔️┃修罗┃磁力",
+      "name": "SW🏔️修罗",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_Xlys",
       "ext": "https://xl01.com.de"
@@ -146,7 +146,7 @@
   
     {
       "key": "csp_SaoHuo",
-      "name": "🔥┃火火┃影视",
+      "name": "SW🔥┃火火┃",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -154,14 +154,14 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视",
+      "name": "SW🍉┃瓜子┃",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_Gz360",
       "playerType": 2
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎┃苹果┃影视",
+      "name": "SW🍎┃苹果┃",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -170,8 +170,8 @@
     },
    
     {
-      "key": "猎手影视",
-      "name": "🐆┃猎手┃影视",
+      "key": "猎手",
+      "name": "SW🐆┃猎手┃",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
       "searchable": 1,
@@ -1021,5 +1021,6 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
