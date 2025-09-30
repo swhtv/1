@@ -556,7 +556,6 @@ TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m
 DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
-
 TSN_1,https://fl25.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
 TSN_1,http://212.102.60.231:80/TSN_1/index.m3u8
 TSN_1,https://tvpass.org/live/tsn1/hd
@@ -581,42 +580,33 @@ SPORTSNET NY,http://212.102.60.231:80/SNY/index.m3u8
 SPORTSNET ONE,http://212.102.60.231:80/SPORTSNET/index.m3u8
 Sportsnet East,http://fortv.cc:8080/b6twFE/414151/57298
 Sportsnet Ontario,http://fortv.cc:8080/b6twFE/414151/57463
-
+Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
+Astro Football,https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+CBS SPORT NETWORD,https://fl25.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 NBC GOLF,https://fl25.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 GOLF,http://212.102.60.231:80/GOLF/index.m3u8
 Sky Golf,http://fortv.cc:8080/b6twFE/414151/35240
 ACCN NETWORK,http://212.102.60.231:80/ACC_NETWORK/index.m3u8
 WORLD_FISHING_NETWORK,http://212.102.60.231:80/WORLD_FISHING_NETWORK/index.m3u8
-
+Fishing,http://fortv.cc:8080/b6twFE/414151/10477
 SPORTSMAN_CHANNEL,https://fl25.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
-
-beIN Sports USA,https://fl25.moveonjoy.com/BEIN_SPORTS/tracks-v1a1/mono.m3u8
 SPORTSMAN_CHANNEL,http://212.102.60.231:80/SPORTSMAN_CHANNEL/index.m3u8
 SPORTSMAN_CHANNEL,https://fl25.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
-
-
-beIN Sports USA,http://212.102.60.231:80/SPORTSMAN_CHANNEL/index.m3u8
+beIN Sports USA,https://fl25.moveonjoy.com/BEIN_SPORTS/tracks-v1a1/mono.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
-
+beIN Sports USA,http://212.102.60.231:80/SPORTSMAN_CHANNEL/index.m3u8
 NHL_NETWORK,https://fl25.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
-
 NBA TV,https://fl25.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
-
 BIG_TEN_NETWORK,https://fl25.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.m3u8
 SEC_NETWORK,https://fl25.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.m3u8
 MSG NETWORK,https://fl25.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
 MLB_NETWORK,https://fl25.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
 MLB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
-
 MARQUEE_SPORTS_NETWORK,https://fl25.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
-Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
-SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
-CBS SPORT NETWORD,https://fl25.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 MSG SPORT,https://fl25.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
 ESPN_2,https://fl25.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
 ESPN_U,https://fl25.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
-
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NFL_NETWORK,http://212.102.60.231:80/NHL_NETWORK/index.m3u8
 NBA TV,http://212.102.60.231:80/NBA_TV/index.m3u8
@@ -625,7 +615,6 @@ SEC_NETWORK,http://212.102.60.231:80/SEC_NETWORK/index.m3u8
 MSG_NETWORK,http://212.102.60.231:80/MSG/index.m3u8
 MLB_NETWORK,http://212.102.60.231:80/MLB_NETWORK/index.m3u8
 MARQUEE_SPORTS_NETWORK,http://212.102.60.231:80/MARQUEE_SPORTS_NETWORK/index.m3u8
-Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 CBS SPORT NETWORD,http://212.102.60.231:80/CBS_SPORTS_NETWORK/index.m3u8
 MSG SPORT,http://212.102.60.231:80/MSG/index.m3u8
@@ -658,13 +647,9 @@ BEIN SPORT2,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
 FIGHT SPORT,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 
 
-
-Astro Arena,https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-Astro Arena 2,https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-Astro Premier League 2,https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-Astro Grandstand,https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
-Astro Football,https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
+TNT SPORT PR,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7950
+TNT SPORT PR 2,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/9925
+TNT SPORT PR 3,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/112996
 Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 TVRI SPORT,https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -673,12 +658,7 @@ W-SPORT,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 Sportv 3,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
-Sport TV 1,https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-Sport TV 2,https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
-Sport TV 3,https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
-Sport TV 4,https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
-Sport TV 5,https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
-Sport TV 6,https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
+
 
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
