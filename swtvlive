@@ -1182,6 +1182,20 @@ SBS 패밀리가 떴다,https://d1rio2j9o2hqtj.cloudfront.net/v1/master/3722c60a
 TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 TJBI SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
 Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+KBS LIVECAM DOKDO,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+HOME SHOPPING,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+CJ ONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ ONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+EBS EN,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+EBS KIDS,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+EBS 1,https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS 2,https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+EBS+1,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+EBS+2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u
+GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GUGAK TV,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+BTN TV,https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+BBS TV 불교,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
 YTN와이티엔,http://mytv.dothome.co.kr/ch/catv/261.php
 
@@ -1267,6 +1281,28 @@ TCM BRASIL,https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 TV cultura BRASIL,https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 TV digitalbirigui  ,http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 TV NOVA,http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+unisul tv,https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+uma,https://acesso.ecast.site:3011/live/umatvlive.m3u8
+tvnbn,https://cdn.live.br1.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
+tvideonews,https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1256650854.m3u8
+tve rs,https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1492989722.m3u8
+tvcom df,https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/chunklist_w807909646_b1000000_slen.m3u8
+tvc rio,https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w1392033791.m3u8
+tv zoom,https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+tv vila real,https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+tv universal,https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_58b72708-5a26-49c6-9886-96806e9d2f15.m3u8
+tv thathi sbt,https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_58b72708-5a26-49c6-9886-96806e9d2f15.m3u8
+1001 noites,https://cdn.live.br1.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1131072.m3u8
+adesso tv,https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+amazon sat,https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+awtv,https://acesso.ecast.site:3070/live/awtvlive.m3u8
+boas novas,https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+canal 25,https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+canal 38,https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+canal do criador,https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w382428026_b159600_sleng.m3u8
+canal educacao,https://canaleducacao-stream.ebc.com.br/EDUCACAO-mp4a_128000=20000.m3u8
+canal gov,https://canalgov-stream.ebc.com.br/GOV-mp4a_128000=20000.m3u8
+
 
 
 
