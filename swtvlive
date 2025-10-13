@@ -6,14 +6,11 @@ CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36
 CBC NEWS,https://livetv-fa.tubi.video/cbc2/master360P.m3u8
 GLOBAL CA,http://212.102.60.231:80/CA_GLOBAL/index.m3u8
 GLOBAL CA,https://fl7.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
+CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
-CP24(TEST),http://fortv.cc:8080/b6twFE/414151/57401
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/4583
-CP24(TEST),http://xxip25.top:8080/85468216/20751659/57357
 CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 CP24(TEST 2),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
-
 CP24俻,http://fortv.cc:8080/b6twFE/414151/57257
 CP24俻,http://fortv.cc:8080/b6twFE/414151/57345
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
@@ -586,6 +583,11 @@ SPORTSNET NY,http://212.102.60.231:80/SNY/index.m3u8
 SPORTSNET ONE,http://212.102.60.231:80/SPORTSNET/index.m3u8
 Sportsnet East,http://fortv.cc:8080/b6twFE/414151/57298
 Sportsnet Ontario,http://fortv.cc:8080/b6twFE/414151/57463
+sportsnet 360,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45805
+Sportsnet East,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45806
+sportsnet west,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45810
+Sportsnet Ontario,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45808
+sportsnet pac,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45809
 Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 Astro Football,https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 CBS SPORT NETWORD,https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
