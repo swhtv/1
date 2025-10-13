@@ -743,11 +743,11 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN Espanol,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
+
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 CCTV 13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/index.m3u8
-
-
+广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
+CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 CCTV 5,https://yunmei.tv/cctv/cctv-5.m3u8
 CCTV 5+,https://yunmei.tv/cctv/cctv-5+.m3u8
@@ -759,18 +759,13 @@ CCTV 4 hd,https://xv4766.kylintv.tv/live/cctv4hd_iphone.m3u8
 凤凰美洲,https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
--鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85.m3u8
--鳳凰衛視香港台,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
+
+
 
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 
-凤凰卫视标清,http://119.32.12.17:2901/udp/224.1.100.3:11111
-凤凰卫视标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
-星空卫视标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
-CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
@@ -816,7 +811,8 @@ FRANCE 法語,#genre#
 
 FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 LE MÉDIA TV,https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
-
+i24 NEWS FR,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+LN24 BE,https://live-ln24.digiteka.com/1911668011/index.m3u8
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 BFM TV,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -828,7 +824,8 @@ RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 Montreal Greek TV,http://live.greektv.ca/hls1/greektv.m3u8
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-cpac,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=1400000.m3u8
+MOSELLE TV,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+VOSGES TV,https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 LCI,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 TV5MONDE INFO,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 BFM TV ,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -842,18 +839,14 @@ BFM 2 (backup),https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9
 BFM BUSINESS ,https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 BFM BUSINESS,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 LE FIGARO IDF,https://static.lefigaro.fr/secom/tnt.m3u8
-i24 NEWS FR,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-LN24 BE,https://live-ln24.digiteka.com/1911668011/index.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-TV FINANCE,https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
 LE MÉDIA TV (backup),https://raw.githubusercontent.com/BG47510/tube/main/lemedia.m3u8
 LE FIGARO IDF (backup),https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 CHÉRIE 25,https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 GÉNÉRATIONS TV,https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 ALPE D'HUEZ TV,https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 IL TV,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-MOSELLE TV,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-VOSGES TV,https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+
 PUISSANCE TÉLÉVISION,https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 CANNES LÉRINS TV,https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 TV8 MONTBLANC,https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
