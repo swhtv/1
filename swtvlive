@@ -5,16 +5,15 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 CBC NEWS,https://livetv-fa.tubi.video/cbc2/master360P.m3u8
 
-GLOBAL CA,https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+GLOBAL CA,https://fl1.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
 
-
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
+CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
+
 CP24(TEST 2),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
-CP24俻,http://fortv.cc:8080/b6twFE/414151/57257
-CP24俻,http://fortv.cc:8080/b6twFE/414151/57345
+
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
@@ -26,7 +25,7 @@ MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 
 MSNBC,http://fl31.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
-
+NBC,http://41.205.93.154/NBC/index.m3u8
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -44,7 +43,7 @@ Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 fox-now,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 FOX BUSINESS,https://fl31.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
 FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
-
+ABC NEWS,http://41.205.93.154/ABC/index.m3u8
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
