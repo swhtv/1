@@ -4,9 +4,10 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 CBC NEWS,https://livetv-fa.tubi.video/cbc2/master360P.m3u8
-
-GLOBAL CA,https://fl1.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
-
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
+CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 
@@ -14,7 +15,7 @@ CP24(TEST 2),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
 
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
+
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 
@@ -32,7 +33,7 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 CNN,https://fl41.moveonjoy.com/CNN/index.m3u8
-CNN  UHD,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -46,12 +47,7 @@ FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playli
 ABC NEWS,http://41.205.93.154/ABC/index.m3u8
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-BBC_WORLD_NEWS,http://212.102.60.231:80/BBC_WORLD_NEWS/index.m3u8
-
-BBC NEWS 24,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
 sky news 2,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -305,7 +301,7 @@ TVB NEWS,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-
+香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -343,11 +339,11 @@ VIU SIX,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 -ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
 -ViuTVsix,http://tri-metal.dsmynas.net:8000/bysid/96.m3u8
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-美亚电影粤,http://php.jdshipin.com:8880/smt.php?id=meiya
-千禧香港台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+
+千禧香港台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+
 無线娱乐台,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -373,7 +369,7 @@ CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
@@ -656,7 +652,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN Espanol,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
+大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
+大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 CCTV 13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/index.m3u8
 广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
@@ -996,7 +997,7 @@ FX2,https://toonixhls.wns.live/hls/stream.m3u8
 
 日本JAPAN,#genre#
 NHK World Premium,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-NHK WORID,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+
 NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
 日本テレビ,P2p://starvod.xyz:19806/75a479a865ec43bea6b69c8890995012.ts
