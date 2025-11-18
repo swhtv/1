@@ -723,7 +723,22 @@ CCTV5+,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
-
+CCTV-1,http://123.10.78.134:808/hls/1/index.m3u8
+CCTV-2,http://123.10.78.134:808/hls/2/index.m3u8
+CCTV-3,http://123.10.78.134:808/hls/3/index.m3u8
+CCTV-4,http://123.10.78.134:808/hls/4/index.m3u8
+CCTV-5,http://123.10.78.134:808/hls/5/index.m3u8
+CCTV-6,http://123.10.78.134:808/hls/6/index.m3u8
+CCTV-7,http://123.10.78.134:808/hls/7/index.m3u8
+CCTV-8,http://123.10.78.134:808/hls/8/index.m3u8
+CCTV-9,http://123.10.78.134:808/hls/9/index.m3u8
+CCTV-11,http://123.10.78.134:808/hls/11/index.m3u8
+CCTV-10,http://123.10.78.134:808/hls/10/index.m3u8
+CCTV-12,http://123.10.78.134:808/hls/12/index.m3u8
+CCTV-13,http://123.10.78.134:808/hls/13/index.m3u8
+CCTV-14,http://123.10.78.134:808/hls/14/index.m3u8
+CGTN,http://123.10.78.134:808/hls/16/index.m3u8
+CCTV-15,http://123.10.78.134:808/hls/15/index.m3u8
 
 
 USTV(TEST SOMETIME WORK) ,#genre#
