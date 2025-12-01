@@ -2155,6 +2155,10 @@ Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 
 
+
+
+
+
 Italia,#genre#
 Rai NEWS 24,https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1800/chunklist.m3u8
 Rai Premium,https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=1800000.m3u8
@@ -2173,7 +2177,91 @@ Kiss Kiss Italia TV,https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playl
 TV Yes Italia,https://stream1.aswifi.it/radioyes/live/index.m3u8
 Cusano Italia TV,https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
+Mexico,#genre#
 
+Vision Television,https://cloudvideo.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
+Vb media,https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/tracks-v3a1/mono.m3u8
+UMTV,https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunklist_w241958955.m3u8
+ULTRA TV PUEBLA,https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w1213766304_b478000_sleng.m3u8
+8NTV,https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1861214848.m3u8
+15TV,https://cdn.fastocloud.com/leonel.m3u8
+ADN 40,https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/26bad5f3-280c-4d2b-9af4-b8d910e364bc:MRN2/variant/4b96ab136e9961c5ed98d3c79d66a874/bandwidth/915200.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=26bad5f3-280c-4d2b-9af4-b8d910e364bc%3AMRN2&pid=dYMWOJsaHGFAW4Eh7ZxSdJrCqqVcaaRE&sid=7DJNXZaHhs7pb85t0NNYv204AigMW0o7&uid=Y5tl4BtH9Uik0Br3SDBjUpTAVgTruQTf&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1764611668742&ot=7X728G7namolT3_wg9moGg&proto=https&pz=us
+AlcanceTV,https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w379604704.m3u8
+AMX,https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w697787921.m3u8
+ANTENA TV,https://5ca9af4645e15.streamlock.net/grd/videogrd/chunklist_w1153073548.m3u8
+AZTECA,https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
+CALIFORNIA,https://s5.mexside.net:1936/medios/medios/chunklist_w1114252121.m3u8
+Canal 10 durango，https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/chunklist_w588855911.m3u8
+CANAL 15 ILCE,https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/chunklist_w483173554_b476608.m3u8
+CANAL 26,https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w401728348_b1428000_sleng.m3u8
+CANAL 33,https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w202418393.m3u8
+CANAL 44,https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w516216682.m3u8
+canal CATORCE,https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+CANAL PARLAMENTO,https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/chunklist_w127032916_b1428000_sleng.m3u8
+conecta tv，https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+EI 15 TV,https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/chunklist_w1325534651_vo.m3u8?_HLS_skip=YES
+El sonorensehttps://s5.mexside.net:1936/elsonorense/elsonorense/chunklist_w859816495.m3u8
+EXPRESA TV,https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w343062243_b478000_sleng.m3u8
+filmex,https://filmex-filmex-xumo.amagi.tv/240p-cc/index.m3u8
+filmexclasico,https://filmex-filmexclasico-xumo.amagi.tv/240p-cc/index.m3u8
+GOLDEN TV,https://rpn.bozztv.com/gusa/gusa-goldentv/tracks-v1a1/mono.m3u8?nimblesessionid=1324928346
+ITV DEPORTES,https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
+JUSTICIA,https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/chunklist.m3u8
+LOBO TV,https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1578271904.m3u8
+Maria vision,https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b478000.m3u8 
+mexiquense,https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1557282801.m3u8
+Nayarittv,https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+Nuevetv,https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w405752872.m3u8
+ONCE MEXICO,https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+PSN,https://srspsn.live/live/livestream.m3u8
+RALY TV,https://cloudvideo.servers10.com:8081/8072/tracks-v1a1/mono.m3u8
+RCG TV,https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w450313531.m3u8
+RTQ QUERETARO,https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+SENAL ESPANA,https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+SIPSE TV,https://webprod.sipse.com.mx:8080/show/merida.m3u8
+SUPER CHANNEL 12,https://servilive.com:3263/live/channel12live.m3u8
+TELE YUCATAN,https://servilive.com:3263/live/channel12live.m3u8
+TV CUATRO,https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/chunklist_w72171149_b448000_sleng.m3u8
+TV CUATRO,https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/chunklist_w72171149_b448000_sleng.m3u8
+TV LOBO DURANGO,https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/chunklist_w1153816898.m3u8
+TV MAR LA PAZ,https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/chunklist_w1382923163_b148000_sleng.m3u8
+TV MAR LOS CABOS,https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/chunklist_w1654001553_b4128000_sleng.m3u8
+TV NUEVO LEON CANAL 28,https://s5.mexside.net:1936/canal28/canal28/chunklist_w201749822.m3u8
+TV UJAT,https://5e50264bd6766.streamlock.net/ujat/videoujat/chunklist_w425276474.m3u8
+TV MAS,https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/chunklist_w1931567483_b1428000_sleng.m3u8
+TVP CULIACAN,https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w1612286705_b978000_sleng.m3u8
+TVP LOS MOCHIS,https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w605213313_b978000_sleng.m3u8
+TVP MAZATLAN,https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w951764249_b978000_sleng.m3u8
+TVP OBREGON,https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w878195131_b978000_sleng.m3u8
+ULTRA TV PUEBLA,https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w681770629_b478000_sleng.m3u8
+UMTV,https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunklist_w2092642433.m3u8
+VB MEDIA TV,https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/tracks-v2a1/mono.m3u8
+VISION TELEVISION,https://cloudvideo.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
+
+COMBODIA,#genre#
+TVK1,https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+TVK2,https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+TV5 CAMBODIA,https://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/chunks.m3u8
+SEATV,https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+NETLINK TV,https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+MY TV,https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/chunks.m3u8
+EAC NEWS,https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+CTV8,https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/chunks.m3u8
+CTN,https://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/chunks.m3u8
+CNC,https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/chunks.m3u8
+APSARA TV11,https://live.ams.com.kh/app/stream/playlist.m3u8
+
+CHILE,#genre#
+TVR,https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream2/chunks.m3u8?nimblesessionid=8018914130
+TVU,https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/tvu/livestream2/chunks.m3u8?nimblesessionid=267219456
+U LOS LAGOS TV,https://tv.ulagos.cl/web/live.m3u8
+UCV TV,https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?nimblesessionid=540874592
+UESTV,https://tls-cl.cdnz.cl/uestv/live/chunklist_w1345339806.m3u8
+UTV,https://v2.tustreaming.cl/utv/tracks-v1a1/mono.m3u8
+V CLASSIC,https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w665818677.m3u8
+VC ONLINE,https://panel.tvstream.cl:1936/8024/8024/chunklist_w430194916.m3u8
+VISION PLUS,https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/chunklist_w2069770241.m3u8
+VTV VALLE,https://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream2/chunks.m3u8?nimblesessionid=8019073468
 
 BRASIL巴西,#genre#
 
