@@ -170,7 +170,28 @@
 	{ "key": "okzy", "name": "OK | 采集", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/ok%E8%B5%84%E6%BA%90.json" },
 	
 	{ "key": "Euvod影视", "name": "Euvod | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/Euvod%E5%BD%B1%E8%A7%86.json" }, 
-	    
+	{
+            "key": "莫小影视",
+            "name": "🎬莫小｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E8%8E%AB%E5%B0%8F%E5%BD%B1%E8%A7%86.json"
+        },
+       
+        {
+            "key": "永乐影视",
+            "name": "🎎永乐｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "三九影视",
+            "name": "❄️三九｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
+        },    
 
  
 
@@ -981,6 +1002,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
