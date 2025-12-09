@@ -5,16 +5,6 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 CBC NEWS,https://livetv-fa.tubi.video/cbc2/master360P.m3u8
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-CPAC,https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=600000.m3u8
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
-CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
-
-CP24(TEST),http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -22,8 +12,16 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
+ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 
+CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
+CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
+CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
+CP24(TEST),http://fortv.cc:8080/b6twFE/414151/47218
+CP24(TEST),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
+MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
@@ -44,7 +42,7 @@ Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 fox-now,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 FOX BUSINESS,https://fl31.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
 FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
-
+CPAC,https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=600000.m3u8
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -66,6 +64,8 @@ CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 CNBC 2,https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+CNBC HD,https://tv.casindo.org/hls/58/58.m3u8
+
 
 
 ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -566,7 +566,9 @@ W-SPORT,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 Sportv 3,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
-
+SPO TV 1,https://tv.casindo.org/hls/15/15.m3u8
+SPO TV 2,https://tv.casindo.org/hls/86/86.m3u8
+TVRI SPORT,https://tv.casindo.org/hls/49/49.m3u8
 
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
