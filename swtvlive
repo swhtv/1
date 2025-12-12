@@ -14,7 +14,7 @@ ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 CP24(TEST),http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
+CP24(TEST),http://nocable.cc:8080/5AGbfz/324331/57257
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 
@@ -483,8 +483,10 @@ TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
-TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
+TSN 2,http://nocable.cc:8080/5AGbfz/324331/47442
 
+TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
+TSN 3,http://nocable.cc:8080/5AGbfz/324331/47444
 TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 
@@ -497,13 +499,10 @@ NHL Centre Ice 5,http://fl1.moveonjoy.com/NHL_5/index.m3u8
 NHL Centre Ice 4,http://fl1.moveonjoy.com/NHL_4/index.m3u8
 SPORTSNET NY,https://fl1.moveonjoy.com/SNY/index.m3u8
 
-Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
+
 CBS SPORT NETWORD,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 NBC GOLF,https://fl1.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 
-SKY F1 HD,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/7342/index.m3u8
-SKY NBA,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/19134/index.m3u8
-SKY GOLF,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/7344/index.m3u8
 
 
 WORLD_FISHING_NETWORK,https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
@@ -521,17 +520,17 @@ MLB_NETWORK,https://fl1.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
 MARQUEE_SPORTS_NETWORK,https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
 
-ESPN_2,https://fl1.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
-ESPN_U,https://fl1.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
-
 TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
+TNT 1,https://tzh911.qzz.io/play-smt.php?id=tntsport1
 TNT 2,https://tzh911.qzz.io/play-smt.php?id=d9a76a79cc
-TNT 3,http://iptv.4666888.xyz/iptv2A.php?id=3
+TNT 2,https://tzh911.qzz.io/play-smt.php?id=tntsport2
+TNT 3,https://tzh911.qzz.io/play-smt.php?id=tntsport3
 TNT 4,https://tzh911.qzz.io/play-smt.php?id=tntsport4
-
+Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 TVA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 ESPN,http://41.205.93.154/ESPN/index.m3u8
+ESPN_U,https://fl1.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
 ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
 ESPN,https://e3.thetvapp.to/hls/ESPN/mono.m3u8
@@ -544,6 +543,9 @@ Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 UFC H,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+SKY F1 HD,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/7342/index.m3u8
+SKY NBA,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/19134/index.m3u8
+SKY GOLF,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/7344/index.m3u8
 
 SONY TEN 1 HD,https://www.redbooks.site/x11.php?id=167570.m3u8
 SONY TEN 2 HD,https://www.redbooks.site/x11.php?id=167571.m3u8
@@ -555,14 +557,19 @@ FOX CRICKET,https://www.redbooks.site/x11.php?id=167593.m3u8
 SKY SPORTS CRICKET,https://www.redbooks.site/x11.php?id=167594.m3u8
 BEIN SPORT CRICKET,https://www.redbooks.site/x11.php?id=167584.m3u8
 
-
+NOW SPORTS PL 1 HD,https://www.redbooks.site/x11.php?id=223056.m3u8
+NOW SPORTS PL 2 HD,https://www.redbooks.site/x11.php?id=223057.m3u8
+NOW SPORTS PL 3 HD,https://www.redbooks.site/x11.php?id=223058.m3u8
+NOW SPORTS PL 4 HD,https://www.redbooks.site/x11.php?id=223059.m3u8
+NOW SPORTS PL 5 HD,https://www.redbooks.site/x11.php?id=223060.m3u8
+NOW SPORTS PL 6 HD,https://www.redbooks.site/x11.php?id=223061.m3u8
 
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 
-USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
 Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 FOX_Sports_1,https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -573,10 +580,6 @@ SPORTSTARS,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 SPORTSTARS 2,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
 FIGHT SPORT,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-
-
-
-TNT SPORT PR 2,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/9925
 
 Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
