@@ -15,12 +15,11 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-CP24(TEST),http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST),http://nocable.cc:8080/5AGbfz/324331/57257
-CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
-CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
+CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
+CP24(TEST1),http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
+CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
+CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
 
-CP24(TEST),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
