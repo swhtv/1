@@ -67,6 +67,11 @@ Discovery_Channel,https://fl1.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m
 Discovery_Channel HD,https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
 DISCOVERY_FAMILY,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.m3u8
 DISCOVERY_LIFE,https://fl1.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.m3u8
+Discovery Channel,https://a1xs.vip/300034
+Science Channel,https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+Animal Planet,https://a1xs.vip/300035
+History Channel,http://143.244.60.30/history_channel/index.m3u8
+Smithsonian Channel,http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 FOOD_NETWORK,https://fl41.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
 COOKING_CHANNEL,https://fl1.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
 E!,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
@@ -112,6 +117,28 @@ FX Movie Channel (720p),https://tvpass.org/live/FXMovieChannel/hd
 FXM East,https://fl1.moveonjoy.com/FX_MOVIE/tracks-v1a1/mono.m3u8
 FXX East,https://fl1.moveonjoy.com/FXX/tracks-v1a1/mono.m3u8
 FYI East,https://fl1.moveonjoy.com/FYI/tracks-v1a1/mono.m3u8
+HBO,http://143.244.60.30/HBO/index.m3u8
+Showtime 2,http://143.244.60.30/SHOWTIME_2/index.m3u8
+Showtime Women,http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+Starz movies,http://143.244.60.30/STARZ/index.m3u8
+Starz Encore Action,http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+Starz Encore Classic,http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+Starz Encore Westerns,http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+Cinemax,http://143.244.60.30/CINEMAX_EAST/index.m3u8
+Cinemax Hits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+Cinemax Classics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+MGM+,http://fl1.moveonjoy.com/EPIX/index.m3u8
+MGM+ Marquee,http://fl1.moveonjoy.com/EPIX_2/index.m3u8
+MGM+ Drive-In,http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+MGM+ Hits,http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+Sky Atlantic,https://a1xs.vip/210001
+Sky Cinema Hits,https://a1xs.vip/210002
+Sky Cinema Select,https://a1xs.vip/210004
+Sky Cinema Action,https://a1xs.vip/210006
+Sky Cinema Comedy,https://a1xs.vip/210005
+Sky Cinema Family,https://a1xs.vip/210007
+FX,http://143.244.60.30/FX/index.m3u8
+AMC,http://143.244.60.30/AMC_NETWORK/index.m3u8
 
 AMC,http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
@@ -127,6 +154,26 @@ Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 MovieSphere (1080p),https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+Fox News Channel,http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+CNBC,http://143.244.60.30/CNBC/index.m3u8
+
+itv1,https://a1xs.vip/1000011
+itv2,https://a1xs.vip/1000012
+itv3,https://a1xs.vip/1000013
+itv4,https://a1xs.vip/1000014
+
+
+
+TNT,https://a1xs.vip/300001
+
+
+BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
+Paramount Network,http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+USA Network,http://143.244.60.30/USA_NETWORK/index.m3u8
+
+
+
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 Business 24,https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/business24_tv-avc1_400000=2-mp4a_98400=1.m3u8
@@ -496,7 +543,15 @@ UFC H,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138a
 SKY F1 HD,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/7342/index.m3u8
 SKY NBA,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/19134/index.m3u8
 SKY GOLF,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/7344/index.m3u8
-
+beIN Sports USA,http://143.244.60.30/BEIN_SPORTS/index.m3u8
+beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
+Sky Sports Main Event 4K,https://a1xs.vip/2000015
+Sky Sports F1 4K,https://a1xs.vip/2000016
+Sky Sports Football,https://a1xs.vip/2000003
+Sky Sports Cricket,https://a1xs.vip/2000006
+Sky Sports Golf,https://a1xs.vip/2000009
+Sky Sports Tennis,https://a1xs.vip/2000013
+TNT Sports Ultimate 4K,https://a1xs.vip/2000031
 SONY TEN 1 HD,https://www.redbooks.site/x11.php?id=167570.m3u8
 SONY TEN 2 HD,https://www.redbooks.site/x11.php?id=167571.m3u8
 SONY TEN 3 HD,https://www.redbooks.site/x11.php?id=167572.m3u8
