@@ -4,6 +4,8 @@
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
 
+{"key":"T4-mybili","name":"sw華哥音樂mv","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
+
 {"name":"16万•MV","type":0,"url":"https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/mv2.txt"}
 
 ],
