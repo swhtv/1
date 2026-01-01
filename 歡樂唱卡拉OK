@@ -15,7 +15,7 @@
 
 {"key":"T4-mybili","name":"sw華哥音樂MV","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
 
-{"key":"lf_js_lf_live","name":"SWEETHOME 卡拉OK","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/if%E5%8D%A1%E6%8B%89OK"}
+{"key":"lf_js_lf__live","name":"SWEETHOME卡拉OK","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/if%E5%8D%A1%E6%8B%89OK"}
 
 
 ],
