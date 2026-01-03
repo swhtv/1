@@ -27,6 +27,8 @@ MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
+global ca,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
+City Toronto，http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 CNN,https://fl41.moveonjoy.com/CNN/index.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
