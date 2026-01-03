@@ -28,7 +28,7 @@ MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 global ca,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
-City Toronto，http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
+City Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 CNN,https://fl41.moveonjoy.com/CNN/index.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -315,6 +315,12 @@ TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW live,https://hls.168.us.kg/u/331/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f51a193b2008a1dfa6345d8a5cf4feeff6af1349b6f&uid=3611753169
+NOW Sport 1,http://iptvpro.pw:35451//live/swtv123/87654321/97.ts
+NOW Sport 2,http://iptvpro.pw:35451//live/swtv123/87654321/98.ts
+NOW Sport 3,http://iptvpro.pw:35451//live/swtv123/87654321/99.ts
+NOW 英超1,http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
+NOW 英超2,http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
+NOW 英超3,http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -570,8 +576,10 @@ Sky Sports Golf,https://a1xs.vip/2000009
 Sky Sports Tennis,https://a1xs.vip/2000013
 TNT Sports Ultimate 4K,https://a1xs.vip/2000031
 
+NOW sport 1,http://iptvpro.pw:35451//live/swtv123/87654321/97.ts
+NOW sport 2,http://iptvpro.pw:35451//live/swtv123/87654321/98.ts
+NOW sport 3,http://iptvpro.pw:35451//live/swtv123/87654321/99.ts
 NOW英超1,http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
-
 NOW英超2,http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
 NOW英超3,http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
 
