@@ -22,6 +22,7 @@ CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
 CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
 FOX_NEWS_CHANNEL,https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 FOX_NEWS_CHANNEL,https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
+FOX_NEWS_CHANNEL,http://iptvpro.pw:35451//live/swtv123/87654321/1183.ts
 Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
@@ -83,7 +84,7 @@ WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oan
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 Smithsonian Channel,http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
-Food Network,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfAxPeWiElTOss3TdVBWCpv4WPlz1h6GkbhhH56cvDc-Z
+
 FOOD_NETWORK,https://fl41.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
 COOKING_CHANNEL,https://fl1.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
 E!,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
@@ -590,21 +591,7 @@ ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-SKY SPORTS EVENTS 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR6gGa1k9s1TsnGTujrLIIiy
-SKY SPORTS EVENTS 2,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR5OtpSEhQtjT-saI-Y7xZAF
-SKY SPORTS EVENTS 3,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR7cT-cea5bCRwDcubXGense
-SKY SPORTS EVENTS 4,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR5pXYpoZcqp_T5SiQkww2Pe
-SKY SPORTS EVENTS 5,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR7dJrbqeBcCp7ngtPnRiOmP
-SKY SPORTS HD,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR6rV9j8eUVeeZ2VCitUnXd_
-SKY SPORTS 24,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR4KJf4M-xeOg93cq5H3nJCY
-SKY SPORTS Formula 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfOd4ZjRaRXUbstJqFAJvY6r0SbhkIO2qGLsOl3wpJNpg
-DAZN F1 SD,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITsw7EX7LsUpHyKdBgBlaCPL6
-DAZN F1 FHD,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITswmPcaC6aJ-k8kZ1OmJGwmu
-DAZN 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITsxHIrGaoo26fkDro_0KVQj5
-DAZN 4,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITsxp1OUXQ63PC5nqO_8qFCKz
-La 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfFK5m4EKTdPNwFGDRLczUmAEfnTnIrj4766073ZCl1Ed
-La 2,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfFK5m4EKTdPNwFGDRLczUmBz8mkUVeeg-Z652ejrM4J0
-UFC Fight Pass,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfAFoI4Q8_SViFVgV-fio20kg8k9c_qrRO21nHqeaxKMl
+
 
 Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
