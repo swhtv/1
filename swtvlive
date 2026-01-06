@@ -26,6 +26,7 @@ FOX_NEWS_CHANNEL,https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3
 FOX_NEWS_CHANNEL,http://iptvpro.pw:35451//live/swtv123/87654321/1183.ts
 Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Fox news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
+Fox news channel,http://nocable.cc:8080/5AGbfz/324331/1818
 MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
@@ -113,6 +114,7 @@ SHOWTIME,https://fl1.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.m3u8
 SHOWTIME_2,https://fl1.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
 SHOWTIME_NEXT,https://fl1.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
 BRAVO,https://fl1.moveonjoy.com/BRAVO/tracks-v1a1/mono.m3u8
+BRAVO,http://41.205.93.154/BRAVO/index.m3u8
 Sony_Movie_Channel,https://fl1.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.m3u8
 Sony_Movie_Channel,https://fl1.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
 
@@ -168,25 +170,14 @@ Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 MovieSphere (1080p),https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-Fox News Channel,http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
-
 
 itv1,https://a1xs.vip/1000011
 itv2,https://a1xs.vip/1000012
 itv3,https://a1xs.vip/1000013
 itv4,https://a1xs.vip/1000014
-
-
-
 TNT,https://a1xs.vip/300001
 
-
-
 Paramount Network,http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
-
-USA Network,http://143.244.60.30/USA_NETWORK/index.m3u8
-
-
 
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
@@ -425,6 +416,10 @@ RTHK34,http://113.117.74.19:8081/hls/38/index.m3u8
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
+广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+
+
 鳳凰HK,http://live4play.uk/livehttpplay?channel_id=30014
 
 民视频道,rtmp://f13h.mine.nu/sat/tv051
@@ -461,6 +456,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 民视HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
+澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
+澳门卫视,https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w27593303.m3u8
+澳门MACAU,https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w1839236055.m3u8
+
 澳视澳门 ,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视澳门 ,http://61.244.22.4/ch1/ch1.live/chunklist_w1769233607.m3u8
 澳视澳门 ,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
