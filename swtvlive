@@ -83,6 +83,7 @@ WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oan
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 Smithsonian Channel,http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+Food Network,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfAxPeWiElTOss3TdVBWCpv4WPlz1h6GkbhhH56cvDc-Z
 FOOD_NETWORK,https://fl41.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
 COOKING_CHANNEL,https://fl1.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
 E!,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
@@ -155,6 +156,8 @@ AMC East,https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 AWE,https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 Disney XD,https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+Disney Channel,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfAxPeWiElTOss3TdVBWCpv5AUY0RPBPllUjNygH1WOFI
+TNT Novelas (M)(SD),http://tv.zapping.life:8080/tadegarcia1/YJNFyDSNsR/9737
 Nick Jr East,https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 Nick Music (720p),https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
@@ -587,7 +590,21 @@ ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-
+SKY SPORTS EVENTS 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR6gGa1k9s1TsnGTujrLIIiy
+SKY SPORTS EVENTS 2,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR5OtpSEhQtjT-saI-Y7xZAF
+SKY SPORTS EVENTS 3,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR7cT-cea5bCRwDcubXGense
+SKY SPORTS EVENTS 4,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR5pXYpoZcqp_T5SiQkww2Pe
+SKY SPORTS EVENTS 5,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR7dJrbqeBcCp7ngtPnRiOmP
+SKY SPORTS HD,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR6rV9j8eUVeeZ2VCitUnXd_
+SKY SPORTS 24,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfEihY7UlNDcdUjHEVLdozR4KJf4M-xeOg93cq5H3nJCY
+SKY SPORTS Formula 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfOd4ZjRaRXUbstJqFAJvY6r0SbhkIO2qGLsOl3wpJNpg
+DAZN F1 SD,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITsw7EX7LsUpHyKdBgBlaCPL6
+DAZN F1 FHD,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITswmPcaC6aJ-k8kZ1OmJGwmu
+DAZN 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITsxHIrGaoo26fkDro_0KVQj5
+DAZN 4,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfDmh_o8nwCUVvqgOAFVITsxp1OUXQ63PC5nqO_8qFCKz
+La 1,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfFK5m4EKTdPNwFGDRLczUmAEfnTnIrj4766073ZCl1Ed
+La 2,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfFK5m4EKTdPNwFGDRLczUmBz8mkUVeeg-Z652ejrM4J0
+UFC Fight Pass,http://sdmx.vip:80/play/7AaW30wjSPbKYR9QuUmNfAFoI4Q8_SViFVgV-fio20kg8k9c_qrRO21nHqeaxKMl
 
 Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
