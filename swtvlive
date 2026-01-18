@@ -31,6 +31,8 @@ Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Fox news channel,https://a1xs.vip/300011
 Fox news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
 Fox news channel,http://nocable.cc:8080/5AGbfz/324331/1818
+
+Fox news channel,http://96.44.160.246:9999/smt.php?id=foxnews_twn
 MSNBC UHD,http://41.205.93.154/MSNBC/index.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
@@ -322,7 +324,7 @@ TVB無线新聞,http://rihou.cc:555/tv/[Mt]无线新闻
 NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 NOW live,https://hls.168.us.kg/u/331/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f51a193b2008a1dfa6345d8a5cf4feeff6af1349b6f&uid=3611753169
-
+now sport 603,https://yang-1989.eu.org/live/now-630
 NOW 英超1,http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
 NOW 英超2,http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
 NOW 英超3,http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
@@ -586,8 +588,11 @@ ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
 ESPN,https://e3.thetvapp.to/hls/ESPN/mono.m3u8
 ESPN 2,https://e3.thetvapp.to/hls/ESPN2/mono.m3u8
-
-
+astro football,http://96.44.160.246:9999/smt.php?id=go_assp4
+super sport 1,http://96.44.160.246:9999/smt.php?id=Assp1
+super sport 2,http://96.44.160.246:9999/smt.php?id=Assp2
+super sport 3,http://96.44.160.246:9999/smt.php?id=Assp3
+super sport 4,http://96.44.160.246:9999/smt.php?id=Assp4
 
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
