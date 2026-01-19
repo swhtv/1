@@ -42,7 +42,7 @@
       "type": 3, 
       "api": "csp_LiteApple", 
       "searchable": 1, 
-        "jar": "https://github.com/swhtv/1/raw/refs/heads/main/APPLE.txt", 
+        "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar", 
       "quickSearch": 1, 
       "changeable": 1 
     }, 
@@ -977,6 +977,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
