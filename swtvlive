@@ -34,7 +34,9 @@ Fox news channel,http://nocable.cc:8080/5AGbfz/324331/1818
 
 Fox news channel,http://96.44.160.246:9999/smt.php?id=foxnews_twn
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
-
+MSNBC,http://iptvpro.pw:35451//live/SUPER-F/87654321/1273.ts
+MSNBC HD,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1273.ts
+MSNBC HD,http://iptvpro.pw:35451//live/iptvsw0016/sw87654321/1273.ts
 NBC,http://41.205.93.154/NBC/index.m3u8
 
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
@@ -324,9 +326,12 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 NOW live,https://hls.168.us.kg/u/331/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f51a193b2008a1dfa6345d8a5cf4feeff6af1349b6f&uid=3611753169
 now sport 603,https://yang-1989.eu.org/live/now-630
-NOW 英超1,http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
-NOW 英超2,http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
-NOW 英超3,http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
+NOW 英超1,http://iptvpro.pw:35451//live/swtv116a/ak87654321/89.ts
+NOW 英超2,http://iptvpro.pw:35451//live/swtv116a/ak87654321/90.ts
+NOW 英超3,http://iptvpro.pw:35451//live/swtv116a/ak87654321/91.ts
+NOW 英超1,http://iptvpro.pw:35451//live/iptvsw0016/sw87654321/89.ts
+NOW 英超2,http://iptvpro.pw:35451//live/iptvsw0016/sw87654321/90.ts
+NOW 英超3,http://iptvpro.pw:35451//live/iptvsw0016/sw87654321/91.ts
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
