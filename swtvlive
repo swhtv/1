@@ -33,10 +33,8 @@ Fox news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/pr
 Fox news channel,http://nocable.cc:8080/5AGbfz/324331/1818
 
 Fox news channel,http://96.44.160.246:9999/smt.php?id=foxnews_twn
-MSNBC,http://41.205.93.154/MSNBC/index.m3u8
-MSNBC,http://iptvpro.pw:35451//live/SUPER-F/87654321/1273.ts
-MSNBC HD,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1273.ts
-MSNBC HD,http://iptvpro.pw:35451//live/iptvsw0016/sw87654321/1273.ts
+MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
+
 NBC,http://41.205.93.154/NBC/index.m3u8
 
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
@@ -320,6 +318,8 @@ SW-TV港台,#genre#
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB無线新聞,http://rihou.cc:555/tv/[Mt]无线新闻
 
+新時代1,http://194.147.100.173/jsy/p.php/?id=3_DSXE6MQhQwy6TV3qxApw
+新時代2,http://194.147.100.173/jsy/p.php/?id=24a3up0nxnU4KZ5HDFstxQ
 
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 NOW新闻台,https://cdn.163189.xyz/163189/now
@@ -635,12 +635,32 @@ beIN Sports USA,http://143.244.60.30/BEIN_SPORTS/index.m3u8
 beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 
 
-NOW sport 1,http://iptvpro.pw:35451//live/swtv123/87654321/97.ts
-NOW sport 2,http://iptvpro.pw:35451//live/swtv123/87654321/98.ts
-NOW sport 3,http://iptvpro.pw:35451//live/swtv123/87654321/99.ts
-NOW英超1,http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
-NOW英超2,http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
-NOW英超3,http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
+now sport 603,https://yang-1989.eu.org/live/now-630
+
+NowSports1,http://194.147.100.173/jsy/p.php/?id=vteo9KY9dz1YjwRc4TD7Dg
+NowSports2,http://194.147.100.173/jsy/p.php/?id=KhDE7KvHcC3ylcFX-Jf_7w
+NowSports3,http://194.147.100.173/jsy/p.php/?id=R6sMzjLwGv4Pm_rK8jBo0w
+NowSports4,http://194.147.100.173/jsy/p.php/?id=CVeR9_lL_c7TzYVt8yqTZQ
+NowSports5,http://194.147.100.173/jsy/p.php/?id=j_vbA00o3XA8Z0R63VeFBQ
+NowSports6,http://194.147.100.173/jsy/p.php/?id=BbwoUXcrdKX53Pv3qBHHmA
+NowSports7,http://194.147.100.173/jsy/p.php/?id=lOIzI_bWmwkVRqv8I9cjpw
+NowSports英超,http://194.147.100.173/jsy/p.php/?id=TlBUGA4Q4KI2rlkIn3NakA
+NowSports英超1台,http://194.147.100.173/jsy/p.php/?id=Abjidkw_KqJJpt74m7hmFw
+NowSports英超2台,http://194.147.100.173/jsy/p.php/?id=2stFT9UmCKcPsM_XciFxIQ
+NowSports英超3台,http://194.147.100.173/jsy/p.php/?id=jehV0gyOtiRSYMby1QL_jw
+NowSports英超4台,http://194.147.100.173/jsy/p.php/?id=T1iGp8BjkVteYkpinhhbzA
+NowSports英超5台,http://194.147.100.173/jsy/p.php/?id=C4LJ3ZHQQaIFnl8Ijmqs4w
+NowSports英超6台,http://194.147.100.173/jsy/p.php/?id=CRl0rgIDhfScpW6k5vaJqQ
+bEIN Sports 1,http://194.147.100.173/jsy/p.php/?id=EfbDLWgjWYocrAOZ2O3Olw
+bEIN Sports 2,http://194.147.100.173/jsy/p.php/?id=QcCCWPMFdU1YG7NCVp9gOQ
+bEIN Sports 3,http://194.147.100.173/jsy/p.php/?id=BzR-D19BpbNo_IPA7pSXDw
+NowGolf 2,http://194.147.100.173/jsy/p.php/?id=3jUbG4_Po8aPJMlflO4gJw
+NowGolf 3,http://194.147.100.173/jsy/p.php/?id=jHjX-tqtSIjL6QGbSsalBg
+Now630体育台,http://194.147.100.173/jsy/p.php/?id=Y7GLIE5NxvtEXOwuOowIWA
+NowSports641,http://194.147.100.173/jsy/p.php/?id=Ig_dD2W55YbMe1oJqX7NAQ
+NowSportsPlus,http://194.147.100.173/jsy/p.php/?id=coeHpn5jdtw_0-mzEjw_fQ
+NBA TV,http://194.147.100.173/jsy/p.php/?id=XhA6MctuWU3zOpw93R7vIA
+mySUPER獎門人,http://194.147.100.173/jsy/p.php/?id=6zNd0xzq-uDOGtDN_Evu2w
 
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
@@ -795,7 +815,57 @@ CCTV12,http://rihou.cc:555/tv/[JR]CCTV-12
 CCTV13,http://rihou.cc:555/tv/[JR]CCTV-13
 CCTV16,https://67886.sdmdbb.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1762525328-0-0-e8b17d026863af9480f352ba9cfc5a46
 
-
+CCTV-1 综合 ,http://23.237.228.134/live5/CCTV1.m3u8
+CCTV-2 财经,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-3 综艺,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-4 中文国际,http://23.237.228.134/live5/CCTV4.m3u8
+CCTV-5 体育频道,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5+ 体育赛事,http://23.237.228.134/live5/CCTV5p.m3u8
+CCTV-6 电影,http://23.237.228.134/live5/CCTV6.m3u8
+CCTV-7 军事农业,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV-8 电视剧 ,http://23.237.228.134/live5/CCTV8.m3u8
+CCTV-9 记录 ,http://23.237.228.134/live5/CCTV9.m3u8
+CCTV-10 科教,http://23.237.228.134/live5/CCTV10.m3u8
+CCTV-11 戏曲,http://23.237.228.134/live3/CCTV11.m3u8
+CCTV-12 社会与法,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV-13 新闻频道,http://23.237.228.134/live3/CCTV13.m3u8
+CCTV-14 少儿http://23.237.228.134/live3/CCTV14.m3u8
+CCTV-15 音乐,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV-17 农业,http://23.237.228.134/live3/CCTV17.m3u8
+CGTN,http://23.237.228.134/live3/CGTN.m3u8
+北京卫视,http://23.237.228.134/live3/beijing.m3u8
+东方卫视,http://23.237.228.134/live3/dongfang.m3u8
+江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
+东南卫视,http://23.237.228.134/live6/dongnan.m3u8
+广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+湖北卫视,http://23.237.228.134/live6/hubei.m3u8
+四川卫视,http://23.237.228.134/live6/sichuan.m3u8
+河南卫视,http://23.237.228.134/live6/henan.m3u8
+海南卫视,http://23.237.228.134/live6/hainan.m3u8
+黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
+重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
+山东卫视,http://23.237.228.134/live8/shandong.m3u8
+内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
+云南卫视,http://23.237.228.134/live8/yunnan.m3u8
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+青海卫视,http://23.237.228.134/live8/qinghai.m3u8
+吉林卫视,http://23.237.228.134/live8/jilin.m3u8
+辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
+天津卫视,http://23.237.228.134/live8/tianjing.m3u8
+江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
+安徽卫视,http://23.237.228.134/live8/anhui.m3u8
+陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
+河北卫视,http://23.237.228.134/live8/hebei.m3u8
+甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
+广东南方卫视,http://zb.xpgtv.net/ysp/smt.php?id=nanfang_twn
+珠江台,http://zb.xpgtv.net/ysp/smt.php?id=zhujiang
+凤凰卫视,http://zb.xpgtv.net/ysp/smt.php?id=phoenixtv_hd
+凤凰资讯,http://zb.xpgtv.net/ysp/smt.php?id=phoenixinfo_hd
 
 
 
