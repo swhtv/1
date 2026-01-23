@@ -21,13 +21,14 @@ CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
 CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
 FOX NEWS CHANNEL,https://a1xs.vip/300011
+FOX NEWS CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 FOX NEWS CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX NEWS CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+Fox-news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 Fox-news channel,https://a1xs.vip/300011
-Fox-news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
 Fox-news channel,http://nocable.cc:8080/5AGbfz/324331/1818
-
 MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
+MSNBC HD,https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/chunklist_w742319325_tkbmV3enN0YXJ0dGltZT0xNzY5MTg0NjEzJm5ld3plbmR0aW1lPTE3NjkxOTE4MTMmbmV3emhhc2g9MmFnWWJOb2pPYTRZaDZza3FiRExOMWZLQ3U2OW1FWDlZelBZT0tmaE93U2JsQkpJQ3JuU29tdGlKUzRLVjV1dmFUVnI1RWQ4YUxLa1U5X3JNNDVYUGc9PQ==.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
