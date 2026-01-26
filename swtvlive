@@ -858,6 +858,19 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 
 
 
+解码选（内置）播放,#genre#
+XINGSHIDAI E,http://iptvpro.pw:35451//live/SUPER-F/87654321/445.ts
+XINGSHIDAI W ,http://iptvpro.pw:35451//live/SUPER-F/87654321/446.ts
+XINGSHIDAI HD,http://iptvpro.pw:35451//live/SUPER-F/87654321/447.ts
+OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
+MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
+CP24 B,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
+CP24,http://iptvpro.pw:35451//live/swtv123/87654321/1429.ts
+CTV  Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.ts
+City TV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
+BNN,http://iptvpro.pw:35451//live/swtv123/87654321/1356.ts
+
+
 FRANCE 法語,#genre#
 
 FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
