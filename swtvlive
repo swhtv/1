@@ -399,7 +399,24 @@ VIU SIX,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 -ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
 -ViuTVsix,http://tri-metal.dsmynas.net:8000/bysid/96.m3u8
 
-
+翡翠台-CH1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台-CH2,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台-CH3,http://hls.168.us.kg/u/81/master.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻 - CH07,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/mzt/
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 
 無綫娛樂台,http://rihou.cc:555/tv/[PL]无线娱乐
 無线娱乐台,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
