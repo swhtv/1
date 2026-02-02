@@ -17,15 +17,11 @@ FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
-CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
 FOX NEWS-CHANNEL,https://a1xs.vip/300011
 FOX NEWS-CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX NEWS-CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 FOX NEWS-CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-Fox-news channel,http://nocable.cc:8080/5AGbfz/324331/1818
+Fox-news channel,FOX NEWS-CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Fox-news channel,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Fox-news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
@@ -41,7 +37,7 @@ BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
 
 SKY NEWS,https://a1xs.vip/1000018
-CNN,https://fl41.moveonjoy.com/CNN/index.m3u8
+CNN HD,https://fl41.moveonjoy.com/CNN/index.m3u8
 CNN UK,https://a1xs.vip/1000016
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
@@ -98,7 +94,10 @@ TLC,http://143.244.60.30/TLC/index.m3u8
 
 Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
 Travel_Channel,https://fl1.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.m3u8
+Travel_Channel,http://143.244.60.30/Travel_Channel/index.m3u8
+
 HGTV,https://fl1.moveonjoy.com/HGTV/tracks-v1a1/mono.m3u8
+HGTV,http://143.244.60.30/HGTV/index.m3u8
 HLN TV,https://fl1.moveonjoy.com/HLN/tracks-v1a1/mono.m3u8
 DIY Netword,https://fl1.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
 
@@ -399,24 +398,7 @@ VIU SIX,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 -ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
 -ViuTVsix,http://tri-metal.dsmynas.net:8000/bysid/96.m3u8
 
-翡翠台-CH1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台-CH2,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台-CH3,http://hls.168.us.kg/u/81/master.m3u8
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻 - CH07,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
-明珠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/mzt/
-华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
-Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
-Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
-TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+
 
 無綫娛樂台,http://rihou.cc:555/tv/[PL]无线娱乐
 無线娱乐台,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
