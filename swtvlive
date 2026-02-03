@@ -447,7 +447,6 @@ TSN4,http://194.147.100.173/jsy/p.php/?id=ryY6B0Q8icXM77L-VC3NCA
 TSN5,http://194.147.100.173/jsy/p.php/?id=y6aG6XGBAui23dWZMzsbwA
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
-
 SPORTSNET NY,https://fl1.moveonjoy.com/SNY/index.m3u8
 SPORTSNET NY,http://143.244.60.30/SNY/index.m3u8
 CBS SPORT NETWORD,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
@@ -455,6 +454,8 @@ CBS SPORT NETWORD,http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 NBC GOLF,https://fl1.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 GOLF,http://143.244.60.30/GOLF/index.m3u8
 WORLD_FISHING_NETWORK,https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
+FOX_Sports_1,https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -462,7 +463,8 @@ BIG_TEN_NETWORK,https://fl1.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.m3u8
 SEC_NETWORK,https://fl1.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.m3u8
 MSG NETWORK,https://fl1.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
 MLB_NETWORK,https://fl1.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
- MARQUEE_SPORTS_NETWORK,https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+FanDuel SPORTS NETWORD,https://fl41.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
+MARQUEE_SPORTS_NETWORK,https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 TVA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
@@ -490,54 +492,27 @@ Now630体育台,http://194.147.100.173/jsy/p.php/?id=04RgWhnLtNVOfYLMAPQIrw
 88跑马,http://194.147.100.173/jsy/p.php/?id=S6mg18-MfQqirnoeqmKQOA
 Now668跑马,http://194.147.100.173/jsy/p.php/?id=19TaCfqV8C7kqkmYfUGiQA
 Now336跑马,http://194.147.100.173/jsy/p.php/?id=NSf0HQBk9oPiVMZw81S2hg
-
-
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-
 Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-FOX_Sports_1,https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
-
 SPORTSTARS,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 SPORTSTARS 2,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-
 FIGHT SPORT,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-
 Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 W-SPORT,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
-
 Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 Sportv 3,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
-SPO TV 1,https://tv.casindo.org/hls/15/15.m3u8
-SPO TV 2,https://tv.casindo.org/hls/86/86.m3u8
-TVRI SPORT,https://tv.casindo.org/hls/49/49.m3u8
-
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 FanDuel SPORTS NETWORD,https://fl41.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
-FanDuel tv,https://fl1.moveonjoy.com/TVG/tracks-v1a1/mono.ts.m3u8
 FUDO SPORTS NETWORD,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 FUEL TV,https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/640x360_985600/chunklist.m3u8
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 SportsGrid,https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-Eurosport Asia,https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-LEquipe,https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-LEquipe live 1,https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
-
 GOLF KINGDOM,https://30a-tv.com/feeds/720p/53.m3u8
-
-
-AFRO SPORT  NIGERIA,https://newproxy3.vidivu.tv/vidivu_afrosport/tracks-v1a1/mono.ts.m3u8
-BAHRAIN SPORTS 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1854918638_b978000.m3u8
-BAHRAIN SPORTS 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/chunklist_w333019043_b978000.m3u8
 
 BEK TVSPORT,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b546000_slENG.m3u8
 BILLIARD TV,https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
