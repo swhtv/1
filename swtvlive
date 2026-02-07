@@ -295,6 +295,7 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 NOW live,https://hls.168.us.kg/u/331/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f51a193b2008a1dfa6345d8a5cf4feeff6af1349b6f&uid=3611753169
 
+
 now sport 603,https://yang-1989.eu.org/live/now-630
 now sport,http://rihou.cc:555/tv/[Mt]Now体育
 無綫体育,http://rihou.cc:555/tv/[Hk]无线体育
@@ -676,38 +677,10 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 
 解码选(内置)播放,#genre#
 CP24 ,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
-CP24 A,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1350.ts
-CP24 B,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1350.ts
-Weather Networks,http://iptvpro.pw:35451//live/swtv123/87654321/1372.ts
-OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
-MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
-Global Ontario,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
-FOX News,http://iptvpro.pw:35451//live/swtv123/87654321/1183.ts
-CTV  Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.ts
-CTV 2,http://iptvpro.pw:35451//live/swtv123/87654321/1428.ts
-City TV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
-TSN 1,http://iptvpro.pw:35451//live/swtv123/87654321/1395.ts
-TSN 2,http://iptvpro.pw:35451//live/swtv123/87654321/1396.ts
-TSN 3,http://iptvpro.pw:35451//live/swtv123/87654321/1397.ts
-TSN 4,http://iptvpro.pw:35451//live/swtv123/87654321/1398.ts
-TSN 5,http://iptvpro.pw:35451//live/swtv123/87654321/1399.ts
-Sportsnet 1,http://iptvpro.pw:35451//live/swtv123/87654321/1443.ts
-Sportsnet 1 A,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1443.ts
-Sportsnet ONT,http://iptvpro.pw:35451//live/swtv123/87654321/1445.ts
-Sportsnet ONT A,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1445.ts
-Sportsnet P,http://iptvpro.pw:35451//live/swtv123/87654321/1446.ts
-F1,http://iptvpro.pw:35451//live/swtv123/87654321/1563.ts
-Premier Sports 1,http://iptvpro.pw:35451//live/swtv123/87654321/1509.ts
-Premier Sports 2,http://iptvpro.pw:35451//live/swtv123/87654321/1510.ts
-Now 英超1台 CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
+
 Now 英超1台 (EN) CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
 Now 英超2台 CH622 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
 Now 英超3台CH623 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/92.ts
-Now 英超4台 CH624 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/93.ts
-Now 英超5台 CH625 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/94.ts
-Now 英超6台 CH626 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/95.ts
-HK NBA TV,http://iptvpro.pw:35451//live/swtv123/87654321/65070.ts
-
 
 SW-FRANCE 法語,#genre#
 
@@ -1382,3 +1355,4 @@ N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channe
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
+
