@@ -52,7 +52,7 @@ CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX BUSINESS,https://fl31.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
-
+TBS,https://tvpass.org/live/TBSEast/sd
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
@@ -80,6 +80,11 @@ Discovery Channel,https://tvpass.org/live/DiscoveryChannelEast/sd
 Discovery Family Channel,https://tvpass.org/live/DiscoveryFamily/sd
 Discovery Life Channel,https://tvpass.org/live/DiscoveryLife/sd
 Discovery Channel,https://a1xs.vip/300034
+History Channel,https://tvpass.org/live/HistoryEast/sd
+History ,https://tv.iill.top/4gtv/4gtv-live026
+CIS,https://tv.iill.top/4gtv/4gtv-live027
+MagellanTV,https://tv.iill.top/4gtv/4gtv-live123
+HLN,https://tvpass.org/live/HLN/sd
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
@@ -122,8 +127,11 @@ Bravo,https://tvpass.org/live/BravoEast/sd
 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
 A&E,https://tvpass.org/live/AEEast/sd
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
-
-
+FX Movie ,https://tvpass.org/live/FXMovieChannel/sd
+FX ,https://tvpass.org/live/FXEast/sd
+FXX ,https://tvpass.org/live/FXXEast/sd
+Showtime ,https://tvpass.org/live/ShowtimeEast/sd
+Showtime 2,https://tvpass.org/live/Showtime2East/sd
 Sky Cinema Action,https://a1xs.vip/210006
 Sky Cinema Family,https://a1xs.vip/210007
 
@@ -428,10 +436,20 @@ HUB Premier 7,https://hls.iill.top/api/Hub-Premier-7/index.m3u8
 HUB Premier 8,https://hls.iill.top/api/Hub-Premier-8/index.m3u8
 HUB SPORT 1,https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 HUB SPORT 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
+Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
+Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
+Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
 
-
-FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -456,6 +474,21 @@ ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
 ESPN News,https://tvpass.org/live/ESPNews/sd
 ESPN U,https://tvpass.org/live/ESPNU/sd
 ESPN2,https://tvpass.org/live/ESPN2/sd
+MLB Network,https://tvpass.org/live/MLBNetwork/sd
+Monumental Sports Network,https://tvpass.org/live/monumental-sports-network/sd
+NBA TV USA,https://tvpass.org/live/NBATV/sd
+NBC (KNBC) Los Angeles,https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+NY,https://tvpass.org/live/WNBCDT1/sd
+NBC Sports Bay Area,https://tvpass.org/live/nbc-sports-bay-area/sd
+NBC Sports Boston,https://tvpass.org/live/nbc-sports-boston/sd
+NBC Sports California,https://tvpass.org/live/nbc-sports-california/sd
+NBC Sports Philadelphia,https://tvpass.org/live/nbc-sports-philadelphia/sd
+New England Sports Network,https://tvpass.org/live/new-england-sports-network/sd
+NewsMax TV,https://tvpass.org/live/NewsmaxTV/sd
+NFL Network,https://tvpass.org/live/NFLNetwork/sd
+NFL RedZone,https://tvpass.org/live/NFLRedZone/sd
+NHL Network USA,https://tvpass.org/live/NHLNetwork/sd
+
 Fanduel Sports Indiana,https://tvpass.org/live/fanduel-sports-indiana/sd
 Fanduel Sports Network Detroit,https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
 Fanduel Sports Network Florida,https://tvpass.org/live/fanduel-sports-network-florida/sd
