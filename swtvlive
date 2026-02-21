@@ -7,10 +7,9 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 新時代1 W,http://208.87.242.55/livehttpplay?channel_id=50258
 新時代2,http://208.87.242.55/livehttpplay?channel_id=50208
 新时代 1 E 备,http://208.87.242.55/livehttpplay?channel_id=50318
-
 新時代 1 w 備,http://208.87.242.55/livehttpplay?channel_id=50258
 新时代 2 备,http://208.87.242.55/livehttpplay?channel_id=50208
-CP24,http://208.87.242.55/livehttpplay?channel_id=50205
+
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
@@ -566,23 +565,17 @@ Dudai Racing 3,https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubas
 Dudai sport 1,https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8
 Dudai sport 2,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
 Dudai sport 3,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
-
 Games+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Horse TV,https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
-
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
 KCMN LD6,https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 M-net Sport,https://live.mnet.mk/hls/mnet-sport.m3u8
 MadeinBO TV,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 MNB SPORT,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-
 NAUTICAL TV,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 OMAN SPORTS TV,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8
-
 MADRID TV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
 KTV SPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-
 sport TV 1,https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 trace sport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 Nile Sport,http://149.100.11.235:8080/NileSport/index.m3u8
@@ -598,41 +591,33 @@ Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.am
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
 解碼 選(內置),#genre#
-
 TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
-
 TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
-
 TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
-
 TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
-
 TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
-
 Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
 Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
 Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
 Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
-
 Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
 Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
-
 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
 NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
-
 SKY F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
-
-
+TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
+TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 OMNI 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
-
 新时代多伦多,http://iptvpro.pw:35451//live/87654321/12345678/445.ts
 新时代温哥华,http://iptvpro.pw:35451//live/87654321/12345678/446.ts
 新时代2 hd , http://iptvpro.pw:35451//live/87654321/12345678/447.ts
+
+
+
 SW-CCTV+卫视,#genre#
 CCTV 13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
-
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
