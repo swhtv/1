@@ -110,6 +110,7 @@ TLC TV,https://tvpass.org/live/TLCEast/sd
 TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+outdoor,http://104.255.88.155/outdoor/tracks-a1/mono.ts.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 TNT,https://a1xs.vip/300001
 
@@ -450,7 +451,12 @@ TNT 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 TNT 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
 TNT 4,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 TNT 5,https://hls.iill.top/api/TNT-Sports-5/index.m3u8
-HUB Premier 1,https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+
+HubPremier 1,http://208.87.242.55/livehttpplay?channel_id=13307
+HubPremier 2,http://208.87.242.55/livehttpplay?channel_id=13308
+HubPremier 3,http://208.87.242.55/livehttpplay?channel_id=13309
+
+UB Premier 1,https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 HUB Premier 2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
 HUB Premier 3,https://hls.iill.top/api/Hub-Premier-3/index.m3u8
 HUB Premier 4,https://hls.iill.top/api/Hub-Premier-4/index.m3u8
@@ -653,6 +659,14 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
+江蘇衛視,http://rihou.cc:555/tv/[mg]江苏卫视
+東方,http://rihou.cc:555/tv/[mg]东方卫视
+浙江,http://rihou.cc:555/tv/[mg]浙江卫视
+广东体育,http://r.jdshipin.com/LiYdg
+珠江台,http://r.jdshipin.com/sE5vO
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+
+
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -661,14 +675,17 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
-CCTV 5,http://rihou.cc:555/tv/[mg]CCTV-05
-cctv 5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
-cctv 5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
-CCTV 1,http://rihou.cc:555/tv/[mg]CCTV-01
+
+
+
+cctv5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
+cctv5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
+CCTV 1 h,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV 2,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV 3,http://rihou.cc:555/tv/[mg]CCTV-03
 CCTV 4,http://rihou.cc:555/tv/[mg]CCTV-04
 CCTV 5,http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV 5 +,http://rihou.cc:555/tv/[mg]CCTV-5p
 CCTV 6,http://rihou.cc:555/tv/[mg]CCTV-06
 CCTV 7,http://rihou.cc:555/tv/[mg]CCTV-07
 CCTV 8,http://rihou.cc:555/tv/[mg]CCTV-08
