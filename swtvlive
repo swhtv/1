@@ -409,8 +409,7 @@ DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/play
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 
-NBA TV,https://tvpass.org/live/NBATV/sd
-Golf Channel,https://tvpass.org/live/GolfChannel/sd
+
 TSN 1 HD,http://208.87.242.55/livehttpplay?channel_id=50206
 TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
 TSN1,https://tvpass.org/live/tsn1/sd
@@ -423,8 +422,10 @@ TSN_ 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 3,http://nocable.cc:8080/5AGbfz/324331/47444
 TSN 3,https://7pal.short.gy/tsn3ca
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-TSN 4,https://7pal.short.gy/tsn4ca
+TSN-4,https://7pal.short.gy/tsn4ca
 TSN 5,https://7pal.short.gy/tsn5ca
+TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+
 Pickleball,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pickleball-now/playlist.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=144646&ads.show_id=5387&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CLifestyle%2CDocumentary%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Pickleball%20Now&ads.episodetitle=Pickleball%20Now&ads.keywords=pickleball%2Cpickleball%20live%2Cpickleball%20highlights%2Cpickleball%20tv%2Cpickleball%20tournaments%2Cpickleball%20players%2Cpickleball%20interviews%2Cpickleball%20league%2Cpickleball%20training%2Cpickleball%20rules%2Cpickleball%20tips%2Cglobal%20pickleball%2Cpickleball%20matches%2Cpickleball%20now%2Cpickleball%20now%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=5W2fQMT03fO
 sportnet 360,http://208.87.242.55/livehttpplay?channel_id=28000
 sportnet Ontario,http://208.87.242.55/livehttpplay?channel_id=40133
@@ -437,7 +438,13 @@ Premier League HD,http://208.87.242.55/livehttpplay?channel_id=13302
 Astro Sports Plus HD, http://208.87.242.55/livehttpplay?channel_id=13306
 Astro Badminton 2 HD,http://208.87.242.55/livehttpplay?channel_id=13305
 Astro Grandstand HD,http://208.87.242.55/livehttpplay?channel_id=13301
-
+Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
 TNT 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 TNT 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 TNT 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
@@ -456,14 +463,8 @@ HUB SPORT 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
 Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
 Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
 Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
-TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
-Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
-Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
-beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
-beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
-beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+
+
 Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
 Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
 
@@ -485,7 +486,8 @@ Chicago Sports Network,https://tvpass.org/live/chicago-sports-network/sd
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
+NBA TV,https://tvpass.org/live/NBATV/sd
+Golf Channel,https://tvpass.org/live/GolfChannel/sd
 ESPN,http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN U,http://nor1live.win/livehttpplay?channel_id=23122
