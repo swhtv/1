@@ -274,7 +274,10 @@ TVB無线新聞,http://rihou.cc:555/tv/[Mt]无线新闻
 
 NOW新闻台,https://cdn.163189.xyz/163189/now
 
+HOY新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
 
+HOY 77,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -659,12 +662,10 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
-江蘇衛視,http://rihou.cc:555/tv/[mg]江苏卫视
-東方,http://rihou.cc:555/tv/[mg]东方卫视
-浙江,http://rihou.cc:555/tv/[mg]浙江卫视
+
+
 广东体育,http://r.jdshipin.com/LiYdg
 珠江台,http://r.jdshipin.com/sE5vO
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
@@ -674,7 +675,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
+CCTV 4H,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 
 
 
@@ -703,7 +704,10 @@ CCTV 16,http://rihou.cc:555/tv/[mg]CCTV-16
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 浙江衛視,http://qq1231.us:80/4r9abwQEf3/mYUa7YJRrA/123652
 東方衛視,http://qq1231.us:80/4r9abwQEf3/mYUa7YJRrA/123640
-深圳衛視,http://rihou.cc:555/tv/[mg]深圳卫视
+
+
+深圳衛視,http://rihou.cc:555/tv/[mg]深
+圳卫视
 海南卫视,http://69.30.246.194/live/hnws.m3u8
 山东衛視,http://rihou.cc:555/tv/[mg]山东卫视
 湖北衛視,http://rihou.cc:555/tv/[mg]湖北卫视
