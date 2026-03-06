@@ -282,6 +282,16 @@ TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 
 NOW新闻台,https://cdn.163189.xyz/163189/now
+now新聞台now News,http://208.87.242.79/livehttpplay?channel_id=20041
+HKN財經臺,http://208.87.242.79/livehttpplay?channel_id=13000
+NOW SPORTS 1,http://208.87.242.79/livehttpplay?channel_id=13007
+NOW SPORTS 2,http://208.87.242.79/livehttpplay?channel_id=13008
+NOW SPORTS 3,http://208.87.242.79/livehttpplay?channel_id=13009
+NOW SPORTS 4,http://208.87.242.79/livehttpplay?channel_id=13010
+NOW SPORTS 5,http://208.87.242.79/livehttpplay?channel_id=13011
+NOW SPORTS 6,http://208.87.242.79/livehttpplay?channel_id=13012
+NOW Premier,http://74.91.26.218:82/live/nowxy.m3u8
+NOWSportsPrime,http://61.163.58.154:1321/ms/IPTV.php?id=140
 
 HOY新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
 
@@ -446,7 +456,12 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 
 NOW SPORTS 1,http://208.87.242.79/livehttpplay?channel_id=13007
 NOW SPORTS 2,http://208.87.242.79/livehttpplay?channel_id=13008
+NOW SPORTS 3,http://208.87.242.79/livehttpplay?channel_id=13009
+NOW SPORTS 4,http://208.87.242.79/livehttpplay?channel_id=13010
+NOW SPORTS 5,http://208.87.242.79/livehttpplay?channel_id=13011
+NOW SPORTS 6,http://208.87.242.79/livehttpplay?channel_id=13012
 NOW Premier,http://74.91.26.218:82/live/nowxy.m3u8
+NOWSportsPrime,http://61.163.58.154:1321/ms/IPTV.php?id=140
 
 Pickleball,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pickleball-now/playlist.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=144646&ads.show_id=5387&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CLifestyle%2CDocumentary%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Pickleball%20Now&ads.episodetitle=Pickleball%20Now&ads.keywords=pickleball%2Cpickleball%20live%2Cpickleball%20highlights%2Cpickleball%20tv%2Cpickleball%20tournaments%2Cpickleball%20players%2Cpickleball%20interviews%2Cpickleball%20league%2Cpickleball%20training%2Cpickleball%20rules%2Cpickleball%20tips%2Cglobal%20pickleball%2Cpickleball%20matches%2Cpickleball%20now%2Cpickleball%20now%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=5W2fQMT03fO
 sportnet 360,http://208.87.242.55/livehttpplay?channel_id=28000
