@@ -133,48 +133,6 @@
 
 {"key":"csp_XBPQ_四海","name":"雷蒙影视 | 🍚四海(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","主页":"https://www.lngwyw.com/","数组":"默认--/img/lazyload&&</p||首页--/img/lazyload&&</p","标题":"默认--alt=\"&&\"||首页--name\">*\">&&<","图片":"src=\"&&\"","副标题":"默认--rgba1\">&&<||首页--rgba1 ba-r\">&&</","链接":"href=\"&&\"","播放数组":"<div id=\"stab_11\" class=\"stab_list\"&&</div>","播放列表":"<a&&a>","播放链接":"href=\"&&\"","播放标题":">&&</","线路数组":"ptit clearfix\">&&</div>","线路标题":".:雷蒙影视:.+\">&&</p>","搜索url":"https://www.lngwyw.com/search/{wd}----------{pg}---.html","简介":"<p>&&</p>","跳转播放链接":"var player_*\"url\":\"&&\"","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$33","分类url":"https://www.lngwyw.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32||女频恋爱$34#反转爽剧$35#古装仙侠$36#年代穿越$37#脑洞悬疑$38#现代都市$39"}},
 
-(T4)","type":4,"api":"https://catbox.n13.club/t9/qingting.php"},
-
-{"key": "T4-qiyi", "name": "影视-七壹APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/七壹APP.php"},
-  {"key": "T4-youtu", "name": "影视-优兔APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/优兔APP.php"},
-  {"key": "T4-xiaozhu", "name": "影视-小猪APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/小猪APP.php"},
-
-  {"key": "T4-shuzi", "name": "影视-数字APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/数字APP.php"},
-  {"key": "T4-juzi", "name": "影视-橘子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/橘子APP.php"},
-  {"key": "T4-duanyou", "name": "影视-段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
-  {"key": "T4-huomao", "name": "影视-火猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/火猫APP.php"},
-  {"key": "T4-linghu", "name": "影视-灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
-  {"key": "T4-aiying", "name": "影视-爱盈APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/爱盈APP.php"},
-  {"key": "T4-wangzi", "name": "影视-王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
-  {"key": "T4-yuanmeng", "name": "影视-缘梦APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/缘梦APP.php"},
-  {"key": "T4-laoying", "name": "影视-老鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/老鹰APP.php"},
-  {"key": "T4-moli", "name": "影视-茉莉APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/茉莉APP.php"},
-  {"key": "T4-lanying", "name": "影视-蓝鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/蓝鹰APP.php"},
-  {"key": "T4-zhuiyi", "name": "影视-追忆APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/追忆APP.php"},
-  {"key": "T4-jinpai", "name": "影视-金牌APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/金牌APP.php"},
-  {"key": "T4-guwo", "name": "影视-顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
-  {"key": "T4-yizhan", "name": "影视-驿站APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/驿站APP.php"},
-  {"key": "T4-jingyu", "name": "影视-鲸鱼APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/鲸鱼APP.php"},
-  {"key": "T4-heimao", "name": "影视-黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
-  {
-  "key": "T4-zhuiyi",
-  "name": "影视-追忆APP(T4)",
-  "type": 4,
-  "api": "https://catbox.n13.club/ai/追忆APP.php"
-},
-{
-  "key": "T4-lanying",
-  "name": "影视-蓝鹰APP(T4)",
-  "type": 4,
-  "api": "https://catbox.n13.club/ai/蓝鹰APP.php"
-},
-{
-  "key": "T4-huomao",
-  "name": "影视-火猫APP(T4)",
-  "type": 4,
-  "api": "https://catbox.n13.club/ai/火猫APP.php"
-},
-
 
 {
       "key": "潮流",
@@ -977,6 +935,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
