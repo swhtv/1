@@ -431,7 +431,207 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-	 
+  {
+            "key": "橘皮",
+            "name": "💡橘皮 華哥",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 1,
+            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E6%A9%98%E7%9A%AE.jar",
+            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+        },
+ {
+            "key": "巧技五",
+            "name": "🔍艘艘 sw",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E6%A9%98%E7%9A%AE.jar",
+            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+        },
+
+   {
+            "key": "优兔",
+            "name": "👑优兔 華哥",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+                "dataKey": "UrWKPnmQWJA8AQzd",
+                "dataIv": "UrWKPnmQWJA8AQzd"
+            }
+        },
+        {
+            "key": "王子",
+            "name": "👑王子｜華哥",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.95112475.xyz",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "dataIv": "5a9w6x58dsq6z3a6"
+            }
+        },
+        {
+            "key": "爱盈",
+            "name": "👑爱盈｜華哥",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
+                "dataKey": "sjvlwnhk6h9znl61",
+                "dataIv": "sjvlwnhk6h9znl61",
+                "version": "305",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+       {
+            "key": "奇奇",
+            "name": "👑奇奇｜華哥",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://110.42.67.221:8009",
+                "dataKey": "123456789abcdefg",
+                "dataIv": "123456789abcdefg",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },	 
+
+{"key": "T4-qiyi", "name": "華哥七壹APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/七壹APP.php"},
+  {"key": "T4-youtu", "name": "華哥优兔APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/优兔APP.php"},
+  {"key": "T4-xiaozhu", "name": "華哥小猪APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/小猪APP.php"},
+{"key": "T4-shuzi", "name": "華哥数字APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/数字APP.php"},
+  {"key": "T4-juzi", "name": "SW橘子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/橘子APP.php"},
+  {"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
+  {"key": "T4-huomao", "name": "SW火猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/火猫APP.php"},
+  {"key": "T4-linghu", "name": "SW灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
+  {"key": "T4-aiying", "name": "SW爱盈APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/爱盈APP.php"},
+  {"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
+  {"key": "T4-yuanmeng", "name": "SW缘梦APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/缘梦APP.php"},
+  {"key": "T4-laoying", "name": "SW老鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/老鹰APP.php"},
+
+  {"key": "T4-lanying", "name": "SW蓝鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/蓝鹰APP.php"},
+
+  {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
+  {"key": "T4-yizhan", "name": "SW驿站APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/驿站APP.php"},
+  
+  {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
+
+ {
+			"key": "zhuanxiang",
+			"name": "🦄专享4K｜追剧",
+			"type": 4,
+			"api": "http://sspa8.top:99/php/%E4%B8%93%E4%BA%AB.php"
+		},
+		{
+			"key": "T4-哇哇",
+			"name": "🦄哇哇影视｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/哇哇影视.php"
+		},
+        {
+            "name": "🦄糖心｜追剧",
+            "key": "TnewGr",
+            "type": 3,
+            "api": "csp_TnewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png" 
+        },
+        {
+            "name": "🦄金牌｜追剧",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+         {
+            "name": "🦄伊外｜追剧",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+        {
+            "key": "还行",
+            "name": "🦄还行4K｜追剧",
+            "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://m51.gotto.top/api.php/v1.vod"
+        },
+        {
+			"key": "T4-huaxiaozhu111",
+			"name": "🦄花小猪｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/huaxiaozhu.php"
+		},
+        {
+            "key": "量子2k",
+            "name": "🦄量子影视｜追剧",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playurl": "json:https://lziplayer.com/?url=",
+            "categories": [
+               "国产剧",
+               "国产动漫",
+               "泰国剧",
+               "台湾剧",
+               "香港剧",
+               "欧美剧",
+               "韩国剧",
+               "日本剧",
+               "动漫",
+               "体育",
+               "剧情片",
+               "动作片",
+               "爱情片",
+               "喜剧片"
+       ]
+       },
+       {
+			"key": "爱瓜TV",
+			"name": "🦄爱瓜TV｜追剧",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/aigua1.php"
+		},
+        {    
+            "key": "热播影视",
+            "name": "🦄热播影视｜追剧",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+            "url": "http://v.rbotv.cn"
+            }
+        },
 
 {"key":"T4-6v","name":"磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
 {"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
