@@ -35,10 +35,22 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
+ {
+            "key": "sw洽洽-金牌",
+            "name": "☀金牌🔹華哥",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+        },
+
 
  {
             "key": "金牌影视",
-            "name": "☀金牌🔹華哥",
+            "name": "☀金牌-華哥",
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
