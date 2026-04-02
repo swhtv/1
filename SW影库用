@@ -61,6 +61,35 @@
         },
 
 
+ {
+            "key": "永乐",
+            "name": "🧿永乐｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.jar",
+            "ext": {
+                "副标题": "華哥专属",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.ylys.tv/;;!H"
+            }
+        },
+
+
+        {
+            "key": "农民",
+            "name": "🧿农民｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.jar",
+            "ext": {
+                "副标题": "華哥专属",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://vip.wwgz.cn:5200/;;!H"
+            }
+        },
+
   {
             "key": "橘皮",
             "name": "💡橘皮 華哥",
