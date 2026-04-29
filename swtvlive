@@ -95,8 +95,8 @@ DIY,http://fl51.moveonjoy.com/DIY/tracks-v1a1/mono.ts.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO 2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
-HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
+HBO+,http://nor3live.win:80/livehttpplay?channel_id=23359
+
 HBO FAMILY HD,http://104.250.145.76/livehttpplay?channel_id=23358
 HBO FAMILY HD,http://nor1live.win/livehttpplay?channel_id=23049
 HBO HD,http://104.250.145.76/livehttpplay?channel_id=23356
@@ -535,8 +535,9 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
-
+N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 GOLF USA,http://nor1live.win/livehttpplay?channel_id=23130
+NBA,http://nor3live.win:80/livehttpplay?channel_id=23346
 NBA USA,http://nor1live.win/livehttpplay?channel_id=23128
 FOX PREMIUM HD,http://nor1live.win/livehttpplay?channel_id=23054
 TENNIS USA,http://nor1live.win/livehttpplay?channel_id=23129
