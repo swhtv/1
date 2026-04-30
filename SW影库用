@@ -174,6 +174,14 @@
 
 
 
+  {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
+        },
+   
 
 
 
@@ -302,6 +310,65 @@
  {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
 { "key": "360-资源", "name": "360-采集", "type": 1, "api": "https://360zy.com/api.php/seaxml/vod/", "searchable": 1, "changeable": 1, "categories": [ "国产动漫", "日韩动漫", "国产剧", "韩国剧", "日本剧", "电影片", "香港剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "欧美剧", "记录片", "台湾剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ] },
 { "key": "哔哩｜APP", "name": "哔哩｜APP", "type": 3, "api": "https://jiekou.netlify.app/py/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.py", "ext": { "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt" } },
+ {
+            "key":"瓜子",
+            "name":"🦄瓜子影视｜追剧",
+            "type":3,
+            "api":"csp_Guazi",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "playerType":1,
+            "changeable":1,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
+         },
+         {
+            "key": "API_如意",
+            "name": "🦄如意影视｜追剧",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "ext": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+      
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "短剧",
+           "动作片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "恐怖片",
+        "预告片",
+        "剧情片",
+        "记录片",
+        "动画电影",
+        "电影解说",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+         ]
+        },
 
 
 
@@ -363,7 +430,14 @@
 
 {"key":"夜貓_drpy_xb","name":"SW小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 
-
+{
+            "key": "唐人街影院",
+            "name": "唐人街影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
+        },
+       
  
 
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
