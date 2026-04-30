@@ -34,6 +34,10 @@ CNBC hd,http://41.205.93.154/CNBC/tracks-v1a1/mono.m3u8
 CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
+
+MSNBC HD,https://tvpass.org/live/MSNBC/sd
+MSNBC HD,https://tvpass.org/live/MSNBC/hd
+
 MSNBC ,http://nor1live.win/livehttpplay?channel_id=23116
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
