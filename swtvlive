@@ -527,7 +527,9 @@ TSN 2,https://tvpass.org/live/tsn2/hd
 TSN_ 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 TSN-4,https://7pal.short.gy/tsn4ca
+TSN4,https://tvpass.org/live/tsn4/sd
 TSN 5,https://7pal.short.gy/tsn5ca
+TSN5,https://tvpass.org/live/tsn5/sd
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
@@ -656,6 +658,56 @@ TNT SPORTS CHILE HD,http://104.250.128.34/livehttpplay?channel_id=23558
 TIGO SPORTS 1 BO HD,http://104.250.128.34/livehttpplay?channel_id=23600
 FOX SPORTS CHILE HD,http://104.250.128.34/livehttpplay?channel_id=23559
 FOX SPORTS 2 HD ARG,http://104.250.128.34/livehttpplay?channel_id=23701
+
+
+Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
+Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
+SNY Sportsnet New York Comcast,https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+Space City Home Network,https://tvpass.org/live/space-city-home-network/sd
+Spectrum SportsNet LA,https://tvpass.org/live/spectrum-sportsnet-la/sd
+Spectrum Sportsnet Lakers,https://tvpass.org/live/spectrum-sportsnet/sd
+Sportsnet (East),https://tvpass.org/live/sportsnet-east/sd
+Sportsnet 360,https://tvpass.org/live/sportsnet-360/sd
+Sportsnet One,https://tvpass.org/live/sportsnet-one/sd
+Sportsnet Ontario,https://tvpass.org/live/sportsnet-ontario/sd
+Sportsnet Pacific,https://tvpass.org/live/sportsnet-pacific/sd
+Sportsnet Pittsburgh,https://tvpass.org/live/sportsnet-pittsburgh/sd
+Sportsnet West,https://tvpass.org/live/sportsnet-west/sd
+NBC (KNBC) Los Angeles,https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+NY,https://tvpass.org/live/WNBCDT1/sd
+NBC Sports Bay Area,https://tvpass.org/live/nbc-sports-bay-area/sd
+NBC Sports Boston,https://tvpass.org/live/nbc-sports-boston/sd
+NBC Sports California,https://tvpass.org/live/nbc-sports-california/sd
+NBC Sports Philadelphia,https://tvpass.org/live/nbc-sports-philadelphia/sd
+CBS (KCBS) Los Angeles,https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+NY,https://tvpass.org/live/WCBSDT1/sd
+CBS Sports Network USA,https://tvpass.org/live/CBSSportsNetworkUSA/sd
+Chicago Sports Network,https://tvpass.org/live/chicago-sports-network/sd
+ESPN,https://tvpass.org/live/ESPN/sd
+ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
+ESPN News,https://tvpass.org/live/ESPNews/sd
+ESPN U,https://tvpass.org/live/ESPNU/sd
+ESPN2,https://tvpass.org/live/ESPN2/sd
+Fanduel Sports Indiana,https://tvpass.org/live/fanduel-sports-indiana/sd
+Fanduel Sports Network Detroit,https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+Fanduel Sports Network Florida,https://tvpass.org/live/fanduel-sports-network-florida/sd
+Fanduel Sports Network Great Lakes,https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+Fanduel Sports Network North,https://tvpass.org/live/fanduel-sports-network-north/sd
+Fanduel Sports Network Ohio Cleveland,https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+Fanduel Sports Network Oklahoma,https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+Fanduel Sports Network San Diego,https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+Fanduel Sports Network Socal,https://tvpass.org/live/fanduel-sports-network-socal/sd
+Fanduel Sports Network South Carolinas,https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+Fanduel Sports Network South Tennessee,https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+Fanduel Sports Network West,https://tvpass.org/live/fanduel-sports-network-west/sd
+Fanduel Sports Network Wisconsin,https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+Fanduel Sports Southeast Georgia,https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+Fanduel Sports Southeast North Carolina,https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+Fanduel Sports Southeast South Carolina,https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+Fanduel Sports Southeast Tennessee Nashville,https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+Fanduel Sports Sun,https://tvpass.org/live/fanduel-sports-sun/sd
+Fanduel Sports Tennessee East,https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+
 
 
 
