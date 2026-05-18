@@ -98,6 +98,18 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
+
+ {
+            "key": "🚬独播库",
+            "name": "華哥 独播",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        }, 
  {
             "key": "华谊",
             "name": "🎭华谊｜華哥",
