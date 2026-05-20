@@ -110,6 +110,26 @@
             },
             "changeable": 1
         }, 
+
+{
+            "key": "麦田",
+            "name": "華哥🌾麦田",
+            "type": 3,
+            "api": "csp_AppV6",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/260508.jpg",
+            "ext": "http://172.247.227.203:25321/mtys.php"
+        },
+ {
+            "key": "新首发",
+            "name": "華哥👻顺溜",
+            "type": 3,
+            "api": "csp_AppGet",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/20260428.zip",
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+        },
+
+
+
  {
             "key": "华谊",
             "name": "🎭华谊｜華哥",
