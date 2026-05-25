@@ -433,6 +433,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 寰宇新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGzBGO_5rjP_x_fBbIjWnn4LHjBH2ukJK6v_-VCP5x3tP1unCAxP9T392rhTgwF2O68ij3NP5pn1khx_QGEDs3LBNfg0cvWaFBYAjUA5S7_ZcVfKe_a-GD7-HESRwIQt42LkfGPQMCUPZTHQ4NwQ0YviYaezVyIO3YlWngG6wrgWv5GWj9uhg7CvxEhYXI9tmgvxlroN0VhBpAwE3kBxLtVQ.m3u8?u=1757123819
 寰宇台湾,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-NsW6bSFcgEjK8p4ZtP-qEnEKjjD6eb_Hv9ytKbTQ5H2giI6H_2Tu8K-Gu2bk8h3W-O-obbn2XVao8W6T4KSnqpkY6v7Pg2Hj3Zx4-9lz8YgzGMxmDCPSgnFl7iQip9fuHsB9eM3t14UjftDSchHSbF5SksuSS2_nlQANM4-dmUfZe5-3nGhZuSvBa9HNWKHLa78cN9Bf1SwHev-eG5S_A.m3u8?u=1757123819
 中天新聞,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS H新聞台,https://tv.iill.top/4gtv/media-live073
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -496,13 +497,11 @@ CH8,http://cdn6.163189.xyz/163189/ch8
 
 SW-SPORT体育 ,#genre#
 
-
 NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
-
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
-
 TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-
+DAZN 1,rtmp://f13h.mine.nu/sat/tv731
+DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
@@ -529,10 +528,6 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 
 N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-
-
-
-
 
 Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
 Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
@@ -562,6 +557,12 @@ ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
 ESPN News,https://tvpass.org/live/ESPNews/sd
 ESPN U,https://tvpass.org/live/ESPNU/sd
 ESPN2,https://tvpass.org/live/ESPN2/sd
+ESPN BRASIL 1,http://46.151.196.223:14432
+ESPN BRASIL 2,http://46.151.196.223:14438
+ESPN BRASIL 3,http://46.151.196.223:14444
+ESPN BRASIL 4,http://46.151.196.223:14450
+ESPN BRASIL 5,http://46.151.196.223:14456
+ESPN BRASIL 6,http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 Fanduel Sports Indiana,https://tvpass.org/live/fanduel-sports-indiana/sd
 Fanduel Sports Network Detroit,https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
 Fanduel Sports Network Florida,https://tvpass.org/live/fanduel-sports-network-florida/sd
