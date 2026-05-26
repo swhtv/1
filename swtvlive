@@ -668,6 +668,11 @@ EURO SPORT,https://7pal.short.gy/eusport2
 SPORTS TV,http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 TRACE SPORT STARS,http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
+
+Astro Arena TS,http://103.107.198.46:8080/live/ZZA21216/zxe36880/154.ts
+Astro Arena 2 TS,http://103.107.198.46:8080/live/ZZA21216/zxe36880/400.ts
+HGTV,http://103.107.198.46:8080/live/ZZA21216/zxe36880/85.ts
+
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
