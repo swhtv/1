@@ -1,9 +1,9 @@
 #大全XC
 
 {
- "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
+//"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
 //"spider":"https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
-//"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
 //"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
 //"spider":"https://github.com/swhtv/1/blob/main/Xspider.jar",
