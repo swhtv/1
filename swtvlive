@@ -253,38 +253,15 @@ cctv5,https://timetv.fit/http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/
 cctv5,https://timetv.fit/http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 cctv5,https://cors-proxy.cooks.fyi/http://69.30.245.50/live/cctv5.m3u8
 cctv5 +,https://timetv.fit/http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
-TSN 1,https://tvsen5.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
-TSN 2,https://tvsen5.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
-TSN 3,https://tvsen5.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
-TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-PREMIER SPORTS 1,https://cors-proxy.cooks.fyi/http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/376
-PREMIER SPORTS 2,https://cors-proxy.cooks.fyi/http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89090.ts
-FOX SPORT 1,https://tvsen7.aynaott.com/foxsports1/tracks-v1a1/mono.ts.m3u8
-FOX SPORT 2,https://tvsen7.aynaott.com/foxsports2/tracks-v1a1/mono.ts.m3u8
-FOX SPORT,https://timetv.shop/http://84.17.50.102/fox/tracks-v1a1/mono.ts.m3u8
-FOX SPORT 1,https://cors-proxy.cooks.fyi/http://41.223.30.230/FOXSPORTS1/tracks-v1a1/2026/06/09/20/22/48-05005.ts
-FOX SPORT 2,https://cors-proxy.cooks.fyi/http://41.223.30.230/FOXSPORTS2/tracks-v1a1/2026/06/09/20/22/48-05005.ts
+
+广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 fox sports 1,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
 fox sports 2,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
 X FOXSPORTS,http://168.205.87.198:8555/live/1350/123456/309.m3u8
 PX SPORTS,http://108.181.20.255:27347/livehttpplay?channel_id=23543
 FOX-SPORTS,https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-NBC SPORTS,
-https://d1m1xk35ma8qfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/ca1dc152-f991-4ff5-8267-cd98f97ef946/4.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-ESPN 1,https://tvsen7.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
-ESPN 1,https://timetv.shop/http://84.17.50.102/espn/tracks-v1a1/mono.ts.m3u8
-
-ESPN BRASIL 1,http://46.151.196.223:14432
-ESPN BRASIL 2,http://46.151.196.223:14438
-ESPN BRASIL 3,http://46.151.196.223:14444
-ESPN BRASIL 4,http://46.151.196.223:14450
-ESPN BRASIL 5,http://46.151.196.223:14456
-ESPN BRASIL 6,http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
-
-TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 
 
 
