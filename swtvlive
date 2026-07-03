@@ -295,7 +295,7 @@ CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 SW-TV港台,#genre#
 
-TVB 新聞,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+TVB 新聞,https://rtmp.play.live.tieba.com/live//WX-XTncUyverrEAumydD9rS3sSHJA0JA8ufjCwh6JJtemBozIX1d3zr5ItgD7PuFTwAXCKEmeqeVnwpQFD2g3PEGDgF.flv
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 無綫新聞台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
