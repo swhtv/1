@@ -43,7 +43,7 @@ CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
-MSNBC HD,https://trs1.aynaott.com/msnbc/tracks-v1a1/mono.ts.m3u8
+MSNBC HD,http://41.223.30.230/MSNBC/tracks-v1a1/mono.m3u8
 
 MSNBC ,http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
 
@@ -244,12 +244,11 @@ FIFA 2026 WORLD CUP,#genre#
 广东体育 1,http://198.204.228.26/live/gdty.m3u8
 广东体育 2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 DE • FUSSBALL FIFA HD,http://hatmantechx.xyz:8080/live/aytacsavaroffice/9UCN2WP7K7/301599.m3u8
-Unite8 Sports 2 HD,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
-ELTA 爱尔达FIFA,http://176868.cloud/62bd2e0bb90d159c313667cb0580be71/3f922633172fa67da8be4294b52012a7/0f0f6e4de311759b46b41243cd4988a5/index.m3u8
+ESP-DAZN MUNDIAL FHD,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465830.m3u8
 CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-ESP-DAZN MUNDIAL FHD,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465830.m3u8
+
 tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
 tsn 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
@@ -270,11 +269,12 @@ fox sports 2,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
 NOW FIFA,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465863
 NOW FIFA 2,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465861
 
-ARG | DSPORTS 2 FHD,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465840.m3u8
+
 ELTA 1,http://176868.cloud/62bd2e0bb90d159c313667cb0580be71/3f922633172fa67da8be4294b52012a7/0f0f6e4de311759b46b41243cd4988a5/index.m3u8
 ELTA 2,http://176868.cloud/6769ec6e0eda658ed719643b2066bc46/3f922633172fa67da8be4294b52012a7/184096cd77c62b4012eac9084590b794/index.m3u8
 ELTA 3,http://176868.cloud/f8e7095727d4726022f417c94674bc43/3f922633172fa67da8be4294b52012a7/b8433e2fde3673d975fc68a7a4238bff/index.m3u8
 ELTA 4,http://176868.cloud/eeb0dc332dd8d3e9ae8d203c11d42792/3f922633172fa67da8be4294b52012a7/8a9c90323343e39b3b02a8231d0a26a6/index.m3u8
+Unite8 Sports 2 HD,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
 
 CCTV-5体育,http://207.56.13.146:81/cdnlive/cctv5.m3u8
 CCTV-5HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -299,7 +299,6 @@ SW-TV港台,#genre#
 TVB 新聞,https://cdn6.cc.cd/163189/wxxw
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 無綫新聞台,https://cdn6.cc.cd/163189/wxxw
-TVB無线新聞,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0qKioq
 TVB無綫新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠 台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
@@ -326,23 +325,12 @@ TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 鳳凰 中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 鳳凰 中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+
 ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
 
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-TVB千禧经典,https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
+
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
 TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
