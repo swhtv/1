@@ -308,7 +308,9 @@ TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 HOY资讯台,http://rihou.cc:555/tv/[Pd]有线新闻
 有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
 Now 新闻台,https://cdn.123.rr.kg/163189/now
-now新聞,http://rihou.cc:555/tv/[Hk]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Hk]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
 鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -320,12 +322,39 @@ TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 
 
-TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+有线综合tv,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
 
-TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
-
+无线翡翠tv,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽tv,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠tv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线翡剧tv,http://rihou.cc:555/tv/[Pd]无线翡剧
+无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐|
+无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐
+无线星河tv,http://rihou.cc:555/tv/[Pd]无线星河
+无线经典tv,http://rihou.cc:555/tv/[Pd]无线经典
+无线功夫tv,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门tv,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星tv,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育tv,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺tv,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花tv,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合tv,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典tv,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影tv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典tv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像tv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩tv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧tv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+八度空间tv,http://rihou.cc:555/tv/[Pd]八度空间
+CHU综合tv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合tv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合tv,http://rihou.cc:555/tv/[Pd]CH8综合
+astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
@@ -354,6 +383,10 @@ TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
 大湾区卫视 3,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
+广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
+广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
+
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视频道,rtmp://f13h.mine.nu/sat/tv071
 中视频道,rtmp://f13h.mine.nu/sat/tv091
