@@ -248,11 +248,13 @@ CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 
-Tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
+TSN 1,http://40.160.24.55/TSN_1/index.m3u8
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
-
+TSN 2,http://40.160.24.55/TSN_2/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
+TSN 4,http://40.160.24.55/TSN_4/index.m3u8
+TSN 5,http://40.160.24.55/TSN_5/index.m3u8
 TSN 4,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
 CH5 FIFA,https://cdn6.123.rr.kg/163189/ch5
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
