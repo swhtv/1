@@ -489,6 +489,11 @@ tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 
+CA : TSN 1,http://rocketfx.uk:8080/live/henry/henry/30081705-3f1c-4e0b-a513-65bf847928c2.ts
+CA : TSN 2,http://rocketfx.uk:8080/live/henry/henry/26a7aca3-4744-41f2-a910-a62a08884031.ts
+CA : TSN 3,http://rocketfx.uk:8080/live/henry/henry/14f0ad84-d48b-42b7-bc54-f310884e3d66.ts
+CA : TSN 4,http://rocketfx.uk:8080/live/henry/henry/e7bf3c9f-fad2-4e35-8759-d2cd850738aa.ts
+CA | TSN 5,http://rocketfx.uk:8080/live/henry/henry/b55a36c4-92c4-4d61-9405-e0f5d500edf2.ts
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 sportsnet one,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119329
 sportsnet ca,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119328
