@@ -8,7 +8,9 @@ City News Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Region
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+CBC NEWS,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6442/index.m3u8
 CBC NEWS,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+CBC TORONTO,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6442/index.m3u8
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 NTV CANADA,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
@@ -40,9 +42,9 @@ CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 
-MSNBC HD,http://iptvpro.pw:35451/live/IPTV26071930d/tv260719/1273.ts
-MSNBC ,http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
-MSNBC,http://kytv.xyz:80/live/brendan1/brendan1/228579.ts
+MSNBC HD,http://bgdc.live:25461/rodneyb5777/5777/31407
+MSNBC h,http://lunar.pm:8080/live/kita/Twin/9326.ts
+MSNBC,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102192.ts
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
@@ -118,12 +120,7 @@ QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/Video-1Mbps.m3u8
 Global Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
-CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-CBC Vancouver,https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-CBC Calgary,https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-CBC Edmonton,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-CBC Ottawa,https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-CBC MONTREAL,https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
 Global British Columbia,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8?checkedby:iptvcat.com
 Global News Calgary, https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8?checkedby:iptvcat.com
 Global News Edmonton,https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8?checkedby:iptvcat.com
