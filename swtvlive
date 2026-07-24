@@ -400,7 +400,8 @@ TVB J1,http://cdn6.123.rr.kg/163189/j1
 澳门 莲花,http://cdn6.123.rr.kg/163189/amlh
 NOW星影台,http://173.208.234.146/live/nowxy.m3u8
 NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
-
+VIUTV,https://cdn.123.rr.kg/163189/viu
+ViuTV,https://cdn.qd.je/163189.php?id=viu
 TVB 1,https://cdn6.cc.cd/163189/tvb1
 TVB 1,https://cdn.qd.je/163189.php?id=tvb1
 TVBJ1,https://cdn6.cc.cd/163189/j1
@@ -568,11 +569,7 @@ TSN-3,http://40.160.24.55/TSN_3/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 TSN-4,http://40.160.24.55/TSN_4/index.m3u8
 TSN 5,http://40.160.24.55/TSN_5/index.m3u8
-CA : TSN 1,http://rocketfx.uk:8080/live/henry/henry/30081705-3f1c-4e0b-a513-65bf847928c2.ts
-CA : TSN 2,http://rocketfx.uk:8080/live/henry/henry/26a7aca3-4744-41f2-a910-a62a08884031.ts
-CA : TSN 3,http://rocketfx.uk:8080/live/henry/henry/14f0ad84-d48b-42b7-bc54-f310884e3d66.ts
-CA : TSN 4,http://rocketfx.uk:8080/live/henry/henry/e7bf3c9f-fad2-4e35-8759-d2cd850738aa.ts
-CA | TSN 5,http://rocketfx.uk:8080/live/henry/henry/b55a36c4-92c4-4d61-9405-e0f5d500edf2.ts
+
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 sportsnet one,http://40.160.24.55/SNY/index.m3u8
 GOLF,http://72.1.184.5:8089/play/a0cw/index.m3u8
