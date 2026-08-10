@@ -28,7 +28,10 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-fox Business,http://206.212.244.63/66/index.m3u8
+fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+fox Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
+fox Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
+
 FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX NEWS CHANNEL,http://206.212.244.63/67/index.m3u8
 Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
@@ -442,7 +445,7 @@ astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视 2,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
-大湾区卫视 3,http://plex.cyruslee.top:8888/udp/239.77.0.215:5146
+大湾区卫视 3,http://192.151.150.154/live/nfws.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
@@ -691,7 +694,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 大湾区卫视 2,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 2,http://192.151.150.154/live/nfws.m3u8
-大湾区卫视 3,http://plex.cyruslee.top:8888/udp/239.77.0.215:5146
+大湾区卫视 3,http://192.151.150.154/live/nfws.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
