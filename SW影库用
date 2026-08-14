@@ -656,6 +656,17 @@
             }
         },
 
+
+{"key":"華哥影库search检索中心","name": "華哥影库search检索中心", 
+         "type": 3, 
+         "searchable": 0, 
+         "changeable": 1, 
+         "quickSearch": 0, 
+         "filterable": 0, 
+         "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/lf_search3_min.js", 
+         "ext": "18+" 
+            }, 
+
        {
 			"key": "爱瓜TV",
 			"name": "🦄爱瓜TV華哥",
