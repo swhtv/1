@@ -1,5 +1,7 @@
 {
-"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
+
+"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
+//"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
 //"spider":"https://github.com/qist/tvbox/blob/master/jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
@@ -12,8 +14,36 @@
 "sites":[
 
 
-{"key":"T4-mybili","name":"sw華哥音樂MV","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
- {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
+{
+      "key": "飞猫KTV",
+      "name": "🎤華哥KTV[2K]",
+      "type": 3,
+      "api": "csp_FeimaoKtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "{\"host\":\"https://ktv.catvod.site\",\"key\":\"ktv_jIO7myCOGTEYCLByS9ABrBXGOmxK6D8_\"}"
+    },
+ {
+      "key": "哔哩哔哩演唱会",
+      "name": "華哥演唱会[哔哩]",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "json": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/bilimusic.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+{"key":"T4-my bili","name":"sw華哥 音樂MV","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
+ {"key": "csp_XYQHiker_戏曲 多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
 {"key":"我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
 {"key":"T4-jieshuo","name":"B站-解说(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=影视解说"},
 {"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=bMTV"},
