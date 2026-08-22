@@ -384,7 +384,37 @@
 
 
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
+{
+      "key": "csp_AppXY",
+      "name": "🎦星雅🔹短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/XYDJ.py",
+      "jar": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+            {
+            "key": "Cat_聚合短剧",
+            "name": "🎦聚合🔹短剧",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/duanju_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
 
+        {
+            "key": "Cat_百度短剧",
+            "name": "🎦百度🔹短剧",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/baidu_dj.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
 
 {"key":"華哥影库search检索中心","name": "華哥影库search检索中心", 
          "type": 3, 
