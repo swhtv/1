@@ -408,6 +408,120 @@
          "ext": "18+" 
             }, 
 
+ {
+			"key": "初见影视",
+			"name": "🐬[追剧]初见影视.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/初见影视.py"
+		},
+ 
+		{
+          "key": "爱奇艺",
+          "name": "🐬[追剧]爱奇艺.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
+        },
+        
+
+		{
+            "key": "腾爱优芒B",
+            "name": "🐬[追剧]腾爱优芒B.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py"
+        },
+	
+		{
+            "key":"youtube",
+            "name":"🐬[其他]油管,py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/油管.py"
+		},
+	
+
+		{
+        	"key": "开端影视",
+            "name": "🐬[追剧]开端影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开端影视.py"
+		},
+
+      
+		{
+            "key": "CNFLIX",
+            "name": "🐬[追剧]CNFLIX",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/CNFLIX.py"
+        },
+	
+		{
+            "key": "永乐视频",
+            "name": "🐬[追剧]永乐视频",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/永乐视频.py"
+        },
+		{
+            "key": "夏日影院",
+            "name": "🐬[追剧]夏日影院.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/夏日影院.py"
+        },
+
+
+		{
+            "key": "多多影视",
+            "name": "🐬[追剧]多多影视.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多多影视.py"
+        },
+	
+		{
+            "key": "看戏影视",
+            "name": "🐬[追剧]看戏影视.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/看戏影视.py"
+        },
+	
+
+
+		{
+            "key": "FoFo影院",
+            "name": "🐬[追剧]FoFo影院.py(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/FoFo影院.py"
+        },
+	
+	
+		{
+            "key": "八戒影视",
+            "name": "🐬[追剧]八戒影视.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
+        },
+
+		{
+			"key": "视觉影院",
+			"name": "🐬[追剧]视觉影院.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/视觉影院.py"
+		},
+		{
+			"key": "袋鼠影视",
+			"name": "🐬[追剧]袋鼠影视.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/袋鼠影视.py"
+		},
+	
+
+
+
+		{
+			"key": "蝶卡影视",
+			"name": "🐬[追剧]蝶卡影视.py(关梯)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蝶卡影视.py"
+		},
+
+
        {
 			"key": "爱瓜TV",
 			"name": "🦄爱瓜TV華哥",
