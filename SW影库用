@@ -521,6 +521,219 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蝶卡影视.py"
 		},
 
+		{
+			"key": "ddyy",
+			"name": "低端影视 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/低端影视.py"
+		},
+		{
+			"key": "cbh",
+			"name": "茶杯狐 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/茶杯狐.py"
+		},
+		{
+      "key": "ppx",
+      "name": "皮皮虾 華哥.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/皮皮虾.py",
+      "ext": "http://43.248.117.123:4680"
+       },
+
+		{
+			"key": "开心影院js",
+			"name": "开心影院 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/开心影院.js",
+			"changeable": 0
+		},
+
+		{
+			"key": "808yr",
+			"name": "808影院 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/808影院.py"
+		},
+
+	
+		{
+			"key": "teys",
+			"name": "太乙 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/太乙影视.py"
+		},
+	
+	
+		{
+			"key": "美剧天堂",
+			"name": "美剧天堂 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/美剧天堂.py"
+		},
+	
+	{
+			"key": "dnyy",
+			"name": "多瑙影院 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多瑙影院.py"
+		},
+
+		{
+			"key": "nvm",
+			"name": "泥视频 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/泥视频.py"
+		},
+	
+		{
+          "key": "mtyy",
+          "name": "麦田影院 華哥.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/麦田影院.py"
+        },
+	
+
+
+		{
+          "key": "ayf",
+          "name": "爱壹帆影视 華哥.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱壹帆.py"
+        },
+	
+	
+		{
+			"key": "qmvm",
+			"name": "七猫影视 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/七猫影视.py"
+		},
+	
+	
+	
+	
+		{
+           "key": "8tdy",
+           "name": "八天电影 華哥.py",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八天电影.py"
+        },
+	
+		{
+			"key": "cjjh",
+			"name": "采集聚合 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/采集聚合.py"
+		},
+		{
+            "key": "API_如意",
+            "name": "如意 華哥.py",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "ext": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+        "动作片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "恐怖片",
+        "预告片",
+        "剧情片",
+        "记录片",
+        "动画电影",
+        "电影解说",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "短剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+         ]
+         }, 
+	
+	{
+            "key":"youtube2",
+            "name":"油管直播 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/油管直播.py"
+		},
+
+
+
+
+		{
+			"key": "jhzb",
+			"name": "聚合直播 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/聚合直播.py"
+		},
+		{
+           "key": "央视网页",
+           "name": "[直播]央视网页直播  華哥.js",
+           "type": 3,
+           "jar": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/WvSpider.jar",
+           "api": "csp_WvSpider",
+           "ext": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/央视直播.js"
+        },
+
+	
+
+		{
+			"key": "音乐聚合",
+			"name": "音乐聚合 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/音乐聚合.py"
+		},
+		{
+			"key": "影子音乐",
+			"name": "影子音乐 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影子音乐.py"
+		},
+		{
+			"key": "千千音乐",
+			"name": "千千音乐 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/千千音乐.py"
+		},
+		{
+			"key": "枫叶音乐",
+			"name": "枫叶音乐 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/枫叶音乐.py"
+		},
+		{
+			"key": "kwms",
+			"name": "酷我音乐 華哥.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/酷我音乐.py"
+		},
+
+
+
+
 
        {
 			"key": "爱瓜TV",
