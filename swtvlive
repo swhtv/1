@@ -582,6 +582,32 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 
 GOLF,http://72.1.184.5:8089/play/a0cw/index.m3u8
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+Africa 24 Sport,https://edge16.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1041827647.m3u8
+tvs sports,https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+TVS Women Sports,https://rpn.bozztv.com/gusa/gusa-tvswsn/tracks-v1a1/mono.m3u8?nimblesessionid=1841654383
+TVS Classic Sports,https://rpn.bozztv.com/gusa/gusa-tvs/tracks-v1a1/mono.m3u8?nimblesessionid=1841656612
+Go Sport 1,http://stream.mcquack.net/391/index.m3u8
+Go Sport 1,http://stream.mcquack.net/416/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+Go Sport 2,http://stream.mcquack.net/392/index.m3u8
+Go Sport 2,http://stream.mcquack.net/392/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+Go Sport 3,http://stream.mcquack.net/393/index.m3u8
+Go Sport 4,http://stream.mcquack.net/394/index.m3u8
+Go Sport 5,http://stream.mcquack.net/395/index.m3u8
+Xtrem Sports,https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/2709d548-5a81-4e0a-91c7-0ae8a5c43a0f/0.m3u8
+Maincast Sport,http://stream.mcquack.net/490/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+Setanta Sports 1,http://str2.iptvhd.ru:8080/SetantaEurasia/tracks-v1a1/mono.ts.m3u8
+viju+ Sport,http://stream.mcquack.net/333/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+DiviSport,http://stream.mcquack.net/457/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+FTF Sports,
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
+Shooting Sports Life,https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist_1920x1080.m3u8
+Band Sports,
+http://170.83.16.50/BAND_SPORTS/tracks-v1a1/mono.m3u8
+Sport+UFC Qazaqstan,https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+Trace Sport,
+https://mumbai-edge.smartplaytv.in/TraceSport/tracks-v1a1/mono.m3u8
+
+
 CosmoteSport3GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31581/index.m3u8
 CosmoteSport4GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31582/index.m3u8
 CosmoteSport5GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8
