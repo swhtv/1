@@ -572,9 +572,18 @@ dazn ringside,https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-1273
 world fishing,https://fms.premio.link/fishingtv/tracks-v5a1/mono.m3u8
 fishing,https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/d5e6bad6-9955-4397-b1ad-0fbf0d1eb54b/2.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+
+TSN 1,http://iptv.852851.xyz/l/uOAkyrwknsf98eYNzT_YUBrmHfIrAjf8qNDf-t2rYL2O5wqVG0vbNfnG08rGx6As/play
+
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
+TSN 5,http://iptv.852851.xyz/l/IpVn7N4sejdbuOgawltQlTQaWgyFEvP6YuRyD1jgEJ9Dl3wUN3ut8Mr4F8CweZuw/play
+TSN4 CA,http://iptv.852851.xyz/l/WLFw7_Dr7XxE138YOa1FbyYBRCATJwkkSWkdAL4wdLILuO0jeYSgoHy4Ql1qW6YI/play
+TSN 3,http://iptv.852851.xyz/l/_3VlwGH5LBNcodsU9HueL0FQ_b8DDjx6AVYFSU7jogiBhzar9wX-wK7vMJvDsDW5/play
+TSN 2,http://iptv.852851.xyz/l/kNvEhQk7yfcfG4q0XkBpnIEDhI3iXsHECvGSqX5wRpNfQ97jEsQM7C6fMl_gmOUV/play
+
+
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
