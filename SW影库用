@@ -38,13 +38,18 @@
     "sites": [
        
 
-
+{
+            "key": "独播影视",
+            "name": "独播｜華哥影视",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
 
 
 
  {
-            "key": "金牌 影视",
-            "name": "☀金牌 華哥",
+            "key": "金牌影视",
+            "name": "☀金牌-華哥",
             "type": 3,
  "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
             "api": "csp_Jpys",
@@ -60,12 +65,7 @@
         },
 
 
-      {
-            "key": "独播影视",
-            "name": "独播｜華哥影视",
-            "type": 3,
-            "api": "csp_Duboku"
-        },
+      
 
  {
             "key": "🚬独播库",
