@@ -7,7 +7,7 @@ Citytv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Liv
 City News Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 TheWeatherNetworkCA,https://amg01442-pelmorexcorp-theweathernetwork-lgca-f0v2i.amagi.tv/ts-us-e2-n1/playlist/amg01442-pelmorexcorp-theweathernetwork-lgca/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d8eb3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1a9d7e41e6d341d4d61cead2c95a9f15876bf9409b92ed898214d0819635ac50b06051026317f7817d808759b3cc936a3c917023436c3a8ccea8da6b0aaf646663d5dee09a58a550a4e624857379ba10885c903f986ebf1bab933ecac380fe72710697f074530295d78cb7a14a59d067ffb1a7c8606c8bff027944d01fb6484703a5cef424b6ea23b7951ab8ee127753c19556d59ca293e1b1804fee49a0adcfb90d72714d252fa360f8db07b528d96be6cf03314a4856be935acaf4b6345d596eb6b061e236298af2a4ade25449a0071a5efb2ed55a111eab5e0947c900cda7661ce3400b812673f24847e628988305c59a819f6c50b4dad40cfc60fabb1ec0ef70c2075562219cc7026b7775408aad0c62317dd00be0d6dce8740c0de3f3c8f2b22352690233773aa2c1c24fb6a1e40c312b9b234c06751404d811d71bb96a2d3b1be82389ed631a84023263e2a22954596982d1a184f5b9a0298e5bf6f9d41a0a046d5a8d16387c2ab9da8c5dee765f7f685a851b6547cf733030d1a1e8d7bea55aefb85b8b144e3b54e0d42a1b7d381b620e88de6fd34ef0e175d3fdf17be8dfbf2f1ffb56cf00148d9ede79f6e98dc2460be2c43d755cb6e317fa5118e933f80eb5880db2dc54020f72444dd48757fa56bdadf7ad40a10888792a5dcf4792b8dee9ad0c3de695597d3a0f54036642735e60d2b0ee4d265ad3881ed678dbb116c32d55372c09d986104c85e7790f993b6a12d5caa5b08aee3322f54ddb5bfa452d926a575c8bab39ee90fcfafc861d336abc8d826a9a9cd2f9a6bbcb226d45683f95ce4b4672d42a82eb6d84963952dcb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235ff26c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a154e1f3d5f0cc38fa11be2c62b4dd46123a594b5558e06e0921/26/1920x1080_8048040/index.m3u8
 CP24,http://107.167.16.138/cp24/index.m3u8?token=test
-CP24,http://iptv.852851.xyz/l/p9mzcAQO5Du_KvYJKwUec1XhmmAeRhMUNI5EmrQuSgOZyd27Zc_bEgXNlyTslEQv/play
+
 CTV News,https://jmp2.uk/stvp-CA1400004AE
 
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -36,7 +36,6 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 
-Fox Business,http://iptv.852851.xyz/l/tBjtOU3e0QJLl0OH5z5vA9mbqVgezXjqfuoW3asdznaUkMhGIzpdKb3jfnWzLH6c/play
 
 fox-Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
 
@@ -53,7 +52,7 @@ cnbc asia,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.
 cnbc asia,http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8?proxy=true
 CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-CNBC,http://iptv.852851.xyz/l/HaMUuzRmMhDxObpmC4HAW19VNY3Btz1AW5EV9UGmQG2r8zWmL7lzb6mINI7utPJX/play
+
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 MSNBC HD,http://bgdc.live:25461/rodneyb5777/5777/31407
@@ -572,8 +571,8 @@ UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
-DAZN_2,http://23.237.104.106:8080/DAZN_2/index.m3u8
-DAZN_3,http://23.237.104.106:8080/DAZN_3/index.m3u8
+DAZN_2 歐冠,http://23.237.104.106:8080/DAZN_2/index.m3u8
+DAZN_3 英超,http://23.237.104.106:8080/DAZN_3/index.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
@@ -586,313 +585,33 @@ NFL NETWORD,https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 NFL-channel,http://iptv.852851.xyz/l/QZeWL-6d-xjenr3GHWZPoA9XXQjzVPZpihV-ODNnaFccZcNSzWaol_nJBR4nATfm/index.m3u8
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL channel,https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
-TSN 1,http://iptv.852851.xyz/l/uOAkyrwknsf98eYNzT_YUBrmHfIrAjf8qNDf-t2rYL2O5wqVG0vbNfnG08rGx6As/play
 
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-TSN 5,http://iptv.852851.xyz/l/IpVn7N4sejdbuOgawltQlTQaWgyFEvP6YuRyD1jgEJ9Dl3wUN3ut8Mr4F8CweZuw/play
-TSN4 CA,http://iptv.852851.xyz/l/WLFw7_Dr7XxE138YOa1FbyYBRCATJwkkSWkdAL4wdLILuO0jeYSgoHy4Ql1qW6YI/play
-TSN 3,http://iptv.852851.xyz/l/_3VlwGH5LBNcodsU9HueL0FQ_b8DDjx6AVYFSU7jogiBhzar9wX-wK7vMJvDsDW5/play
-TSN 2,http://iptv.852851.xyz/l/kNvEhQk7yfcfG4q0XkBpnIEDhI3iXsHECvGSqX5wRpNfQ97jEsQM7C6fMl_gmOUV/play
+
 
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 
 ACC Digital Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221334
-ACC Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221199
-AFN Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221260
-AFN Sports 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221259
-Altitude 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221264
-Altitude Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221200
-Altitude Sports 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221201
-Altitude Sports Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221376
+
+
 AT&T SportsNet Pittsburgh,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221202
-AT&T SportsNet Pittsburgh Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221203
+
 AT&T SportsNet Southwest,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221204
-AT&T SportsNet Southwest Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221205
+
 BeIN Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221207
-BeIN Sports 3,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221209
-BeIN Sports 4,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221206
-BeIN Sports 5,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221211
-BeIN Sports 7,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221213
-BeIN Sports 8,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221214
-BeIN Sports en Español,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221208
+
 BeIN SPORTS XTRA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221210
-BeIN SPORTS XTRA en Español,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221335
-BEK Sports East,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221215
-BEK Sports West,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221216
-Big Ten,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221217
-Big Ten Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221220
-Big Ten Network Minneapolis,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221219
-Big Ten Network Overflow 1,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221221
-Big Ten Network Overflow 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221222
-Big Ten Network Overflow 3,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221223
-Big Ten Network Overflow 4,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221224
-Big Ten Network Wisconsin,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221218
-Billiard TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221330
-Boxing TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221329
-CBS Sports Golazo Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221261
-CBS Sports HQ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221225
-CBS Sports Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221321
-CBS Sports Network USA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221226
-Cleo TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221227
-DAZN Golf,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221248
-ESPN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221228
-ESPN 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221229
-ESPN 2 Caribbean,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221367
-ESPN Caribbean,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221366
-ESPN College Extra 1,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221314
-ESPN College Extra 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221315
-ESPN College Extra 3,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221316
-ESPN College Extra 4,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221317
-ESPN College Extra 5,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221318
-ESPN College Extra 6,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221319
-ESPN College Extra 7,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221320
-ESPN Deportes,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221230
-ESPNews,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221232
-ESPNU,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221234
-FanDuel Racing,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221310
-FanDuel TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221309
-FIFA+,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221359
-Fight Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221235
-FNTSY Sports Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221236
-For The Fans (FTF),http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221369
-Fox Deportes,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221237
+
+fox 1，https://aegis-cloudfront.tubi.video/streams/59664fb2-3b5c-4e57-be0e-eb58200e55df/variant/1280x720/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTA3MTQ1OTIsImlzcyI6ImFlZ2lzIn0.N2LvyvUJFzP8gcWiTfFTH-WDaXszqpO58Wc27DPjzj5QyCPq9x90VQ8yGPat4LUVzeoB7iNkD7kCA-gGnFWU5A&Expires=1790714592&Signature=g1OIa7n7vnAyenVsyn1r/ID3loi9b/L1aEHqjh6pP1CQf8b28QRXOAUCwjwZtSRCsqiPSWthtcRYYi/gVcD5U/vYTwmF/ViCRIHxOZE1NR5wfdDZ+65ZYBdxvTitlFQ3Ss1J9TWuCGTkcjkErIDLtmEgiGnkKywrGj1i/9i18sNJsTaSnL3Zas+3ntBXB3K0mYod2vroluOcoJYyQkaJqITHks8ldUdC6VwKYcEXlQa6feP/jvJ8M+AQO5f7Jf+I2CXgOCkSv50kVap+RjiORi0+3JjZR4wT+BtZZcB9Q8nEcTdjhXlBV5q/6XVGnBDY31Mg0mfjwzbaFU9bpxYTfw==&Key-Pair-Id=K4EI1QKCGKSTE
+
 Fox Soccer Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221238
 Fox Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221332
 Fox Sports 1,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221239
 Fox Sports 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221240
-Glory Kickboxing,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221263
-Golf Channel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221269#http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221241
-GolfPass,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221276
-GolTV LatinoAmérica,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221365
-GolTV USA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221268
-HBCU-GO Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221370
-IMPACT Wrestling,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221374
-Lacrosse TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221371
-Longhorn Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221231
-LSN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221373
-Marquee Sports Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221266
-MASN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221270
-MASN2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221271
-MAVTV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221361
-MAVTV Select,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221362
-MLB,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221360
-MLB Big Inning,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221262
-MLB Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221243
-MLB Network Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221242
-MLB Strike Zone,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221244
-Monumental Sports Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221258
-Monumental Sports Network Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221282
-MSG,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221272
-MSG 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221274
-MSG Sportsnet,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221273
-MSG Sportsnet 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221275
-MSG SportsZone,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221356
-NBA TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221245
-NBA TV 4k,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221256
-NBC Sports 4k (Event Only),http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221247
-NBC Sports Bay Area,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221250
-NBC Sports Bay Area Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221277
-NBC Sports Boston,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221249
-NBC Sports California,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221253
-NBC Sports California Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221278
-NBC Sports Chicago,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221251
-NBC Sports Chicago 4k (Event Only),http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221246
-NBC Sports Chicago Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221280
-NBC Sports Philadelphia,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221252
-NBC Sports Philadelphia Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221281
-NBCSN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221322
-NESN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221283
-NESN Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221284
-Nevada Sports Net,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221285
-Next Level Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221354
-NFL Channel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221286
-NFL Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221255
-NFL Network Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221353
-NFL RedZone,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221257
-NHL Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221323
-NHL Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221287
-NHL Network Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221324
-NHRA TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221333
-Origin Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221363
-Pac-12 Arizona,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221289
-Pac-12 Bay Area,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221290
-Pac-12 Insider,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221291
-Pac-12 Los Angeles,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292
-Pac-12 Mountain,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221293
-Pac-12 Networks,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221294
-Pac-12 Oregon,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221295
-Pac-12 Washington,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221296
-Perfect Game,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221364
-PFL MMA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221375
-PokerGo,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221352
-Premier League TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221297
-Professional Pickleball Association (PPA),http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221298
-Red Bull TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221254
-Root Sports Northwest,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221299
-Root Sports Northwest Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221300
-SEC Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221233
-Spectrum Deportes LA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221301
-Spectrum SportsNet,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221351
-Spectrum SportsNet LA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221303
-Spectrum SportsNet Lakers,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221302
-Spectrum SportsNet Lakers Alternate,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221304
-Sports News Highlights,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221357
-SportsGrid,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221325
-Sportsman Channel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221305
-SportsNet New York,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221306
-Sportsnews,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221372
-SportStak,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221326
-Sportswire,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221378
-Stadium,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221307
-Surf Now TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221379
-Swerve Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221368
-Tennis Channel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221267
-Tennis Channel International,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221308
-TNT Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221355
-TUDN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221337
-TyC Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221349
-Unbeaten,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221380
-USA TODAY SPORTS,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221336
-ViX Lo Mejor de Liga MX,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221358
-VSiN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221311
-Willow,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221327
-Willow Xtra,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221328
-Women's Sports Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221331
-World Poker Tour,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221377
-WWE Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221288
-WWE Network (Multi-Audio),http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221265
-Yes Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221312
-YES2 Overflow,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221313
 
-tv-213424 - Music,#genre#
-BET Jams,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221168#http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221171
-BET Soul,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221170#http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221169
-CMT,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221179
-CMT Music,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221178
-MTV Classic East,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221172
-MTV Classic West,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221173
-MTV Live,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221174
-MTV Tr3s East,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221176
-MTV Tr3s West,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221177
-Music Choice 70s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221108
-Music Choice 80s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221106
-Music Choice 90s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221107
-Music Choice Adult Alternative,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221109
-Music Choice Alternative,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221110
-Music Choice Blues,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221111
-Music Choice Classic Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221112
-Music Choice Classic Rock,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221113
-Music Choice Classical Masterpieces,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221114
-Music Choice Contemporary Christian,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221115
-Music Choice Country Hits,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221116
-Music Choice Dance/EDM,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221117
-Music Choice Easy Listening,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221153
-Music Choice Gospel,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221118
-Music Choice Hip-Hop and R&B,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221148
-Music Choice Hip-Hop Classics,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221119
-Music Choice Hit List,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221120
-Music Choice Indie,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221121
-Music Choice Jazz,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221122
-Music Choice Kids Only!,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221154
-Music Choice Kidz Only!,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221123
-Music Choice Light Classical,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221124
-Music Choice Love Songs,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221125
-Music Choice Max,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221128#http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221149
-Music Choice Metal,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221126
-Music Choice Mexicana,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221127
-Music Choice Music Urbana,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221129
-Music Choice Musica Urbana,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221155
-Music Choice Party Favorites,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221130
-Music Choice Pop & Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221156
-Music Choice Pop Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221131
-Music Choice Pop Hits,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221132
-Music Choice Pop Latino,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221133
-Music Choice R&B Classics,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221134
-Music Choice R&B Soul,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221150
-Music Choice Rap,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221135
-Music Choice Reggae,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221136
-Music Choice Rock,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221151
-Music Choice Rock Hits,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221137
-Music Choice Romance,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221157
-Music Choice Romances,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221138
-Music Choice Seasons,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221158
-Music Choice Singers & Swing,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221139
-Music Choice Smooth Jazz,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221140
-Music Choice Soft Rock,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221141
-Music Choice Solid Gold Oldies,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221142
-Music Choice Solid Old Goldies,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221159
-Music Choice Sounds of The Seasons,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221175
-Music Choice Soundscapes,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221160
-Music Choice Stage & Screen,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221143
-Music Choice Teen Beats,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221152
-Music Choice Throwback Jamz,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221144
-Music Choice Todays Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221145
-Music Choice Toddler Tunes,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221146
-Music Choice Tropicales,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221147
-Music Choice Y2K,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221161
-Music Todays Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221162
-Stingray Alternative,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221180
-Stingray Classic Rock,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221181
-Stingray Flashback 70s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221182
-Stingray Hot Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221183
-Stingray Hot County,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221184
-Stingray Karaoke,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221185
-Stingray Latin Pop,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221186
-Stingray Nature Escape,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221187
-Stingray Naturescape,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221188
-Stingray Pop Adult,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221189
-Stingray Quello,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221190
-Stingray Remember The 80s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221192
-Stingray Remember the '80s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221191
-Vevo '70s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221193
-Vevo '80s,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221194
-Vevo Country,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221196
-Vevo Hip-Hop,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221163
-Vevo Latino,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221164
-Vevo Pop,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221165
-Vevo R&B,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221166
-Vevo Reggaeton & Trap,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221198
-WMX Hip Hop,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221197
-WMX Pop,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221167
-WMX Rock,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221195
-
-tv-213424 - Now HK,#genre#
-Now Astro Cricket HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199998
-Now beIN Sports 1 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199989
-Now beIN Sports 2 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199990
-Now beIN Sports 3 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199991
-Now beIN Sports 4 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199992
-Now beIN Sports 5 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199993
-Now beIN Sports 6 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199994
-Now Fight Sports HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199995
-Now Golf 2 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/200001
-Now Golf 3 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/200002
-Now MUTV HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/200003
-Now Sports 4K 1 UHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199971
-Now Sports 4K 2 UHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199972
-Now Sports 4K 3 UHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199973
-Now Sports 1 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199982
-Now Sports 2 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199983
-Now Sports 3 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199984
-Now Sports 4 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199985
-Now Sports 5 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199986
-Now Sports 6 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199987
-Now Sports 7 HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199988
-Now Sports 681 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/200000
-Now Sports Plus FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199999
-Now Sports Premier League TV HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199974
-Now Sports Premier League 1 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199975
-Now Sports Premier League 2 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199976
-Now Sports Premier League 3 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199977
-Now Sports Premier League 4 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199978
-Now Sports Premier League 5 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199979
-Now Sports Premier League 6 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199980
-Now Sports Prime HD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199981
-Now SPOTV FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199996
-Now SPOTV 2 FHD,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199997
 
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
