@@ -571,8 +571,8 @@ UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
-DAZN_2 歐冠,http://23.237.104.106:8080/DAZN_2/index.m3u8
-DAZN_3 英超,http://23.237.104.106:8080/DAZN_3/index.m3u8
+DAZN_2 ,http://23.237.104.106:8080/DAZN_2/index.m3u8
+DAZN_3 ,http://23.237.104.106:8080/DAZN_3/index.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
@@ -585,7 +585,7 @@ NFL NETWORD,https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 NFL-channel,http://iptv.852851.xyz/l/QZeWL-6d-xjenr3GHWZPoA9XXQjzVPZpihV-ODNnaFccZcNSzWaol_nJBR4nATfm/index.m3u8
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL channel,https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
-NBA TV,http://75.127.89.169:35441/endday20260630.php?id=545
+
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
@@ -594,23 +594,9 @@ TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 
-ACC Digital Network,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221334
-
-
-AT&T SportsNet Pittsburgh,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221202
-
-AT&T SportsNet Southwest,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221204
-
-BeIN Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221207
-
-BeIN SPORTS XTRA,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221210
-
 fox 1，https://aegis-cloudfront.tubi.video/streams/59664fb2-3b5c-4e57-be0e-eb58200e55df/variant/1280x720/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTA3MTQ1OTIsImlzcyI6ImFlZ2lzIn0.N2LvyvUJFzP8gcWiTfFTH-WDaXszqpO58Wc27DPjzj5QyCPq9x90VQ8yGPat4LUVzeoB7iNkD7kCA-gGnFWU5A&Expires=1790714592&Signature=g1OIa7n7vnAyenVsyn1r/ID3loi9b/L1aEHqjh6pP1CQf8b28QRXOAUCwjwZtSRCsqiPSWthtcRYYi/gVcD5U/vYTwmF/ViCRIHxOZE1NR5wfdDZ+65ZYBdxvTitlFQ3Ss1J9TWuCGTkcjkErIDLtmEgiGnkKywrGj1i/9i18sNJsTaSnL3Zas+3ntBXB3K0mYod2vroluOcoJYyQkaJqITHks8ldUdC6VwKYcEXlQa6feP/jvJ8M+AQO5f7Jf+I2CXgOCkSv50kVap+RjiORi0+3JjZR4wT+BtZZcB9Q8nEcTdjhXlBV5q/6XVGnBDY31Mg0mfjwzbaFU9bpxYTfw==&Key-Pair-Id=K4EI1QKCGKSTE
-fox 1 H，http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-Fox Soccer Plus,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221238
-Fox Sports,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221332
-Fox Sports 1,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221239
-Fox Sports 2,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221240
+fox 1 H,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
 
 
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
