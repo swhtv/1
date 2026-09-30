@@ -403,28 +403,9 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/初见影视.py"
 		},
  
-		{
-          "key": "爱奇艺",
-          "name": "爱奇艺 華哥.py",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
-        },
+	
         
 
-		{
-            "key": "腾爱优芒B",
-            "name": "腾爱优芒 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py"
-        },
-	
-		{
-            "key":"youtube",
-            "name":"油管 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/油管.py"
-		},
-	
 
 		{
         	"key": "开端影视",
@@ -521,13 +502,7 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/茶杯狐.py"
 		},
-		{
-      "key": "ppx",
-      "name": "皮皮虾 華哥.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/皮皮虾.py",
-      "ext": "http://43.248.117.123:4680"
-       },
+
 
 		{
 			"key": "开心影院js",
@@ -553,13 +528,6 @@
 		},
 	
 	
-		{
-			"key": "美剧天堂",
-			"name": "美剧天堂 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/美剧天堂.py"
-		},
-	
 	{
 			"key": "dnyy",
 			"name": "多瑙影院 華哥.py",
@@ -583,13 +551,6 @@
 	
 
 
-		{
-          "key": "ayf",
-          "name": "爱壹帆影视 華哥.py",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱壹帆.py"
-        },
-	
 	
 		{
 			"key": "qmvm",
@@ -598,15 +559,6 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/七猫影视.py"
 		},
 	
-	
-	
-	
-		{
-           "key": "8tdy",
-           "name": "八天电影 華哥.py",
-           "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八天电影.py"
-        },
 	
 		{
 			"key": "cjjh",
@@ -624,6 +576,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
         "动作片",
         "灾难片",
         "爱情片",
@@ -636,14 +596,7 @@
         "记录片",
         "动画电影",
         "电影解说",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
+        
         "短剧",
         "大陆综艺",
         "港台综艺",
@@ -687,196 +640,21 @@
         },
 
 	
-
-		{
-			"key": "音乐聚合",
-			"name": "音乐聚合 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/音乐聚合.py"
-		},
 		{
 			"key": "影子音乐",
 			"name": "影子音乐 華哥.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影子音乐.py"
 		},
-		{
-			"key": "千千音乐",
-			"name": "千千音乐 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/千千音乐.py"
-		},
+	
 		{
 			"key": "枫叶音乐",
 			"name": "枫叶音乐 華哥.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/枫叶音乐.py"
 		},
-		{
-			"key": "kwms",
-			"name": "酷我音乐 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/酷我音乐.py"
-		},
 
 
-{
-      "key": "WexHanXiaoQuan",
-      "name": "💥韩剧┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiHanXiaoQuanGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiGuaZi",
-      "name": "💥瓜子┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiGuaZiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    
-    {
-      "key": "WexAiYueYue",
-      "name": "💥闪电┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiYueYueGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-   
-   
-    {
-      "key": "賤賤",
-      "name": "💥贱片┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiJianPianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "AppV7 | 大师兄",
-      "name": "💥师兄┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAppV7Guard",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Dsx",
-        "proxyImg": false
-      },
-      "timeout": 120
-    },
-    {
-      "key": "AppV7 | 粉猪追剧",
-      "name": "💥粉猪┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAppV7Guard",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Fz",
-        "proxyImg": false
-      },
-      "timeout": 120
-    },
-    {
-      "key": "AppV7 | 咸鱼",
-      "name": "💥咸鱼┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAppV7Guard",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xy",
-        "proxyImg": false
-      },
-      "timeout": 120
-    },
-    
-    {
-      "key": "AppV7 | 小柚子",
-      "name": "💥柚子┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAppV7Guard",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xyz",
-        "proxyImg": false
-      },
-      "timeout": 120
-    },
-  
-   
-    {
-      "key": "AppV7 | 零零七影视",
-      "name": "💥零七┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAppV7Guard",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Llq",
-        "proxyImg": false
-      },
-      "timeout": 120
-    },
-  
-    {
-      "key": "WexAiYiYs",
-      "name": "💥伊影┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiYiYsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiReBo",
-      "name": "💥热播┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiReBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiBoBo",
-      "name": "🎇伯伯┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiBoBoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "WexAiIkanBot",
-      "name": "🎇爱看┃華哥",
-      "type": 3,
- "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
-      "api": "csp_WexAiIkanBotGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
 
  {
       "name": "📦①线┃華哥",
