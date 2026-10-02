@@ -56,14 +56,6 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
 
- {
-            "key": "永乐影视華哥",
-            "name": "永乐｜華哥影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
-        },
-
 
       
 
@@ -79,14 +71,6 @@
             "changeable": 1
         }, 
 
-{
-            "key": "麦田",
-            "name": "華哥🌾麦田",
-            "type": 3,
-            "api": "csp_AppV6",
-            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/260508.jpg",
-            "ext": "http://172.247.227.203:25321/mtys.php"
-        },
 
 
 
@@ -212,31 +196,9 @@
         },
    
 
- {
-            "key": "永 乐",
-            "name": "🧿永乐-華哥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.jar",
-            "ext": {
-                "副标题": "華哥专属",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.ylys.tv/;;!H"
-            }
-        },
+ 
 
 
-
-  {
-            "key": "橘皮",
-            "name": "💡橘皮 華哥",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 1,
-            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E6%A9%98%E7%9A%AE.jar",
-            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-        },
 
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"}, 
  {"key":"drpy_js_豆瓣","name":"豆瓣2026華哥","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"},
@@ -422,12 +384,7 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/CNFLIX.py"
         },
 	
-		{
-            "key": "永乐视频",
-            "name": "永乐 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/永乐视频.py"
-        },
+		
 		{
             "key": "夏日影院",
             "name": "夏日 華哥.py",
