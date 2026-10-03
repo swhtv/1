@@ -447,13 +447,16 @@ Popc,http://173.208.234.146/live/popc.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8 
-中天新聞,http://173.208.234.146/live/ctinews.m3u8
-TVBS新聞臺,http://173.208.234.146/live/tvbsnews.m3u8
-TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
-中天新聞台,https://7612-5516-affc-d88b.kylintv.tv/live/cti_iphone.m3u8
+中天新闻,https://7612-5516-affc-d88b.kylintv.tv/live/cti_iphone.m3u8
+中天新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a789f0e146848bda0dee842cba28533;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
+中天新闻,http://31.43.191.125:8080/restream/restream/34817
+TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
+
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+
+
 東森中國台,http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
 東森超視美洲台,http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
 東森美洲衛視,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
