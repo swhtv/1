@@ -59,6 +59,8 @@ NBC,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 MSNBC HD,http://4.30.180.36:8420/msnbc/index.m3u8?token=test
 MSNBC,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102192.ts
 
+MSNBC,https://p12.usnlive.com/stream/msnbc.m3u8
+
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
