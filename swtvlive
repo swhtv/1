@@ -34,9 +34,11 @@ EURONEWS,https://jmp2.uk/stvp-DE2600003TR
 EURONEWS H,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
+Al Jazeera,https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
+TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+DW Tv,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 fox-Business,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_400.m3u8
 fox-Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
 FOX NEW,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/19147/index.m3u8
@@ -554,7 +556,13 @@ DAZN_3 ,http://23.237.104.106:8080/DAZN_3/index.m3u8
 
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL channel,https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
-
+beIN Sports 1,https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
+beIN Sports 2,https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
+beIN Sports 3,https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
+beIN Sports 4,https://ladyboy.ardastream2.cfd//bein4/tracks-v1a1/mono.m3u8
+S Sport 1,https://ladyboy.ardastream2.cfd//s-sport/tracks-v1a1/mono.m3u8
+S Sport 2,https://ladyboy.ardastream2.cfd//s-sport2/tracks-v1a1/mono.m3u8
+TRT Spor,https://ladyboy.ardastream2.cfd//trt-spor/tracks-v1a1/mono.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 bein xtra,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
