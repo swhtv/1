@@ -715,6 +715,40 @@
 
  {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/zengjian03/han/e5a42b3a5b162f95f4ded760ea4b7ae64c141c72/2/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
 
+    {
+      "key": "奈飞4K",
+      "name": "🎞奈飞|4K",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
+
+
+
+    {
+      "key": "3",
+      "name": "李佳祥奈飞",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
+
+
+{ "key": "韩国", "name": "韩国", "type": 3, "api": "https://jsnz.pages.dev/f/26511242.py" }, { "key": "聚合", "name": "李佳祥聚合", "type": 3, "api": "https://jsnz.pages.dev/f/4df9fb60.py" }, { "key": "5", "name": "李佳祥影视", "type": 3, "api": "https://jsnz.pages.dev/f/9e53615c.py" }, { "key": "采集", "name": "李佳祥采集", "type": 3, "api": "https://jsnz.pages.dev/f/72b7239d.py" }, { "key": "11", "name": "李佳祥短剧", "type": 3, "api": "https://jsnz.pages.dev/f/29b94aff.py" }, { "key": "12", "name": "李佳祥音乐", "type": 3, "api": "https://jsnz.pages.dev/f/eded33cf.py" }, { "key": "13", "name": "李佳祥动漫", "type": 3, "api": "https://jsnz.pages.dev/f/7e20bdb7.py" }, { "key": "3", "name": "李佳祥奈飞", "type": 1, "api": "https://api.wsyzy.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "Netflix电影", "Netflix自制剧" ] }, { "key": "网盘", "name": "李佳祥网盘", "type": 3, "api": "https://jsnz.pages.dev/f/261c1664.py" }, { "key": "4k", "name": "李佳祥4k", "type": 3, "api": "https://jsnz.pages.dev/f/af676592.py" }, { "key": "6", "name": "李佳祥APP", "type": 3, "api": "https://jsnz.pages.dev/f/04b5c0b4.js" }, { "key": "7", "name": "李佳祥PY", "type": 3, "api": "https://jsnz.pages.dev/f/e1aeef83.py" }, { "key": "8", "name": "李佳祥JS", "type": 3, "api": "https://jsnz.pages.dev/f/f7b46c7f.js" }, 
+
 
        {
 			"key": "爱瓜TV",
