@@ -557,10 +557,15 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 GOLF,http://72.1.184.5:8089/play/a0cw/index.m3u8
-
+TVA CA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+SKY SPORT AUSTRIA 1 FHD,http://line.trxdnscloud.ru:80/bc660bb509/3afe9cff25/284071
+SKY SPORT AUSTRIA 2,http://line.trxdnscloud.ru:80/bc660bb509/3afe9cff25/284074
+SKY SPORT AUSTRIA 2 FHD,http://line.trxdnscloud.ru:80/bc660bb509/3afe9cff25/284070
+SKY SPORT AUSTRIA 3 FHD,http://line.trxdnscloud.ru:80/bc660bb509/3afe9cff25/284069
+Nba Tv,https://andro.evrenesoglu149.click/checklist/androstreamlivenba.m3u8
+NBA TV,https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5d3/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWQzOjE3OTE5MTk4MzA4Nzc6Y2RubGl2ZXR2LnR2OjUxZWJhYmQwMWRiMjEwZTMuZDllMTJlOTVmMTA3ZmYzMDlhZDc0YTI5NTM2MWYyYjA2NmVkMGViODI1MDVmYzJjODQ5YTIyODQwNzc3ZjY0NA
 Africa 24 Sport f,https://edge16.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1041827647.m3u8
 tvs sports,https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
-
 Go Sport 1,http://stream.mcquack.net/391/index.m3u8
 Go Sport 1,http://stream.mcquack.net/416/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 Go Sport 2,http://stream.mcquack.net/392/index.m3u8
