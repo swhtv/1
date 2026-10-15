@@ -188,13 +188,7 @@
 {"key": "火狐","name": "🐬火狐影视🦊｜華哥","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]
 },
 
-  {
-            "key": "欧乐影院",
-            "name": "欧乐華哥",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
-        },
+  
    
 
  
@@ -236,17 +230,7 @@
       "类型": "影视"
     },
 
-    {
-            "key": "哔哩哔哩",
-            "name": "🅱️哔哩🔹華哥",
-            "type": 3,
-            "api": "csp_Bili",
-             "jar": "https://raw.giteeusercontent.com/twvip/jarR/raw/master/se.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/bili.json"
-        },
+   
 
 
     
@@ -292,17 +276,7 @@
         "国产剧"
       ]
     },
- {
-            "key": "泥视频py",
-            "name": "PY泥┃SW影视",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Py/%E6%B3%A5%E8%A7%86%E9%A2%91.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+ 
 
 
 
@@ -349,25 +323,8 @@
             "filterable": 1
         },
 
-{"key":"華哥影库search检索中心","name": "華哥影库search检索中心", 
-         "type": 3, 
-         "searchable": 0, 
-         "changeable": 1, 
-         "quickSearch": 0, 
-         "filterable": 0, 
-         "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/lf_search3_min.js", 
-         "ext": "18+" 
-            }, 
 
- {
-			"key": "初见影视",
-			"name": "初见 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/初见影视.py"
-		},
- 
-	
-        
+
 
 
 		{
@@ -401,12 +358,7 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多多影视.py"
         },
 	
-		{
-            "key": "看戏影视",
-            "name": "看戏 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/看戏影视.py"
-        },
+		
 	
 
 
@@ -418,12 +370,6 @@
         },
 	
 	
-		{
-            "key": "八戒影视",
-            "name": "八戒 華哥.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/八戒影视.py"
-        },
 
 		{
 			"key": "视觉影院",
@@ -431,13 +377,6 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/视觉影院.py"
 		},
-		{
-			"key": "袋鼠影视",
-			"name": "袋鼠 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/袋鼠影视.py"
-		},
-	
 
 
 
@@ -448,12 +387,7 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蝶卡影视.py"
 		},
 
-		{
-			"key": "ddyy",
-			"name": "低端影视 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/低端影视.py"
-		},
+		
 		{
 			"key": "cbh",
 			"name": "茶杯狐 華哥.py",
@@ -470,20 +404,6 @@
 			"changeable": 0
 		},
 
-		{
-			"key": "808yr",
-			"name": "808影院 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/808影院.py"
-		},
-
-	
-		{
-			"key": "teys",
-			"name": "太乙 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/太乙影视.py"
-		},
 	
 	
 	{
@@ -493,20 +413,7 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/多瑙影院.py"
 		},
 
-		{
-			"key": "nvm",
-			"name": "泥视频 華哥.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/泥视频.py"
-		},
-	
-		{
-          "key": "mtyy",
-          "name": "麦田影院 華哥.py",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/麦田影院.py"
-        },
-	
+		
 
 
 	
@@ -733,26 +640,13 @@
 
 
 
-    {
-      "key": "3",
-      "name": "SW華哥 NETFLIX",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "Netflix电影",
-        "Netflix自制剧"
-      ]
-    },
+   
 
 
 
 { "key": "聚合", "name": "華哥聚合", "type": 3, "api": "https://jsnz.pages.dev/f/4df9fb60.py" }, 
 { "key": "5", "name": "SW華影视", "type": 3, "api": "https://jsnz.pages.dev/f/9e53615c.py" }, 
 
-{ "key": "11", "name": "華哥各類短剧", "type": 3, "api": "https://jsnz.pages.dev/f/29b94aff.py" },
 
 { "key": "13", "name": "華哥动漫", "type": 3, "api": "https://jsnz.pages.dev/f/7e20bdb7.py" }, 
 
