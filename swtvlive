@@ -141,6 +141,11 @@ world fishing,https://fms.premio.link/fishingtv/tracks-v5a1/mono.m3u8
 fishing,https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/d5e6bad6-9955-4397-b1ad-0fbf0d1eb54b/2.m3u8
 SHOWTIME_FAMILY,http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
 CineMax,http://125.227.210.55:1001/VideoInput/play.ts
+hdo家庭影院,https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
+hdo强档影院,https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+
+hdo原创影院,https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+
 
 HBO HD,http://125.227.210.55:1003/VideoInput/play.ts
 FX,http://tvsen7.aynascope.net/fx/tracks-v1a1/mono.ts.m3u8
@@ -541,9 +546,9 @@ DAZN_3 ,http://23.237.104.106:8080/DAZN_3/index.m3u8
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
-NHL Network,https://tvsen6.aynaott.com/nfl/tracks-v1a1/mono.ts.m3u8
+NHL Network hd,https://tvsen6.aynaott.com/nfl/tracks-v1a1/mono.ts.m3u8
 
-NFL NETWORK HD,http://goldenpass.xyz/live/SZ2GU851XAALUVH/L3D8s8pprQ/71983.m3u8
+
 beIN Sports 1,https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
 beIN Sports 2,https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
 beIN Sports 3,https://ladyboy.ardastream2.cfd//bein3/tracks-v1a1/mono.m3u8
@@ -591,8 +596,7 @@ TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 
-TSN 5
-,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42913.ts
+TSN 5,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42913.ts
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
@@ -616,7 +620,7 @@ DiviSport,http://stream.mcquack.net/457/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tr
 FTF Sports,https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
 Shooting Sports Life,https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist_1920x1080.m3u8
 Band Sports,http://170.83.16.50/BAND_SPORTS/tracks-v1a1/mono.m3u8
-Sport+UFC Qazaqstan,https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+
 Trace Sport,https://mumbai-edge.smartplaytv.in/TraceSport/tracks-v1a1/mono.m3u8
 CosmoteSport5GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8
 CosmoteSport6GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8
@@ -629,76 +633,14 @@ SuperSport7AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262766
 ESPN 1,http://181.78.197.59:8000/play/a07z/index.m3u8
 ESPN 4,http://46.151.196.223:14450/
 ESPN 3,http://181.78.197.59:8000/play/a081/index.m3u8
-ESPN BRASIL 1,http://46.151.196.223:14432
+
 ESPN BRASIL 2,http://46.151.196.223:14438
-ESPN BRASIL 3,http://46.151.196.223:14444
+
 ESPN BRASIL 4,http://46.151.196.223:14450
 ESPN BRASIL 5,http://46.151.196.223:14456
 ESPN BRASIL 6,http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
-porTV FHD,http://91.218.50.136:80/negrobussula/032998177444/2035
-SporTV HD,http://91.218.50.136:80/negrobussula/032998177444/2038
-SporTV,http://91.218.50.136:80/negrobussula/032998177444/2218
-SporTV 4k,http://91.218.50.136:80/negrobussula/032998177444/13069
-SporTV Alternativo HD,http://91.218.50.136:80/negrobussula/032998177444/1303
-SporTV 2 FHD,http://91.218.50.136:80/negrobussula/032998177444/1917
-SporTV 2 HD,http://91.218.50.136:80/negrobussula/032998177444/2036
 
-SporTV 3 FHD,http://91.218.50.136:80/negrobussula/032998177444/1918
-SporTV 3 HD,http://91.218.50.136:80/negrobussula/032998177444/2037
-SporTV 3,http://91.218.50.136:80/negrobussula/032998177444/2220
-SporTV 3 H265,http://91.218.50.136:80/negrobussula/032998177444/1302
-SporTV 4 FHD,http://91.218.50.136:80/negrobussula/032998177444/13075
-ESPN UHD,http://91.218.50.136:80/negrobussula/032998177444/13087
-ESPN FHD,http://91.218.50.136:80/negrobussula/032998177444/1883
-ESPN HD,http://91.218.50.136:80/negrobussula/032998177444/2105
-ESPN,http://91.218.50.136:80/negrobussula/032998177444/2104
-ESPN Alternativo HD,http://91.218.50.136:80/negrobussula/032998177444/1294
-ESPN 2 FHD,http://91.218.50.136:80/negrobussula/032998177444/1884
-ESPN 2 HD,http://91.218.50.136:80/negrobussula/032998177444/2108
-Espn 2,http://91.218.50.136:80/negrobussula/032998177444/2101
-ESPN 2 Alternativo HD,http://91.218.50.136:80/negrobussula/032998177444/1311
-ESPN 3 FHD,http://91.218.50.136:80/negrobussula/032998177444/1827
-ESPN 3 HD,http://91.218.50.136:80/negrobussula/032998177444/2103
-ESPN 3,http://91.218.50.136:80/negrobussula/032998177444/2102
-ESPN 3 Alternativo HD,http://91.218.50.136:80/negrobussula/032998177444/1293
-ESPN 3 Alternativo,http://91.218.50.136:80/negrobussula/032998177444/1130
-ESPN 4 FHD,http://91.218.50.136:80/negrobussula/032998177444/1887
-ESPN 4 HD,http://91.218.50.136:80/negrobussula/032998177444/2122
-ESPN 4,http://91.218.50.136:80/negrobussula/032998177444/2121
-ESPN 4 Alternativo HD,http://91.218.50.136:80/negrobussula/032998177444/1295
-ESPN 5 FHD,http://91.218.50.136:80/negrobussula/032998177444/1886
-ESPN 5 HD,http://91.218.50.136:80/negrobussula/032998177444/2124
-ESPN 5,http://91.218.50.136:80/negrobussula/032998177444/2123
-ESPN 6 FHD,http://91.218.50.136:80/negrobussula/032998177444/1828
-ESPN 6 HD,http://91.218.50.136:80/negrobussula/032998177444/2107
-ESPN 6,http://91.218.50.136:80/negrobussula/032998177444/2106
-Band Sports FHD,http://91.218.50.136:80/negrobussula/032998177444/1812
-Band Sports HD,http://91.218.50.136:80/negrobussula/032998177444/2060
-Band Sports,http://91.218.50.136:80/negrobussula/032998177444/2059
-Band Sports H265,http://91.218.50.136:80/negrobussula/032998177444/1289
-Sporty Net 1 FHD,http://91.218.50.136:80/negrobussula/032998177444/903009
-Sporty Net 1 HD,http://91.218.50.136:80/negrobussula/032998177444/903012
-Sporty Net 1,http://91.218.50.136:80/negrobussula/032998177444/973563
-Sporty Net 2 FHD,http://91.218.50.136:80/negrobussula/032998177444/903011
-Sporty Net 2,http://91.218.50.136:80/negrobussula/032998177444/903013
-Sporty Net 2 HD,http://91.218.50.136:80/negrobussula/032998177444/903010
-Sporty Net 3 FHD,http://91.218.50.136:80/negrobussula/032998177444/903018
-Sporty Net 3 HD,http://91.218.50.136:80/negrobussula/032998177444/903019
-Sporty Net 3,http://91.218.50.136:80/negrobussula/032998177444/903020
-Sporty  Net 4 FHD,http://91.218.50.136:80/negrobussula/032998177444/903021
-Sporty Net 4 HD,http://91.218.50.136:80/negrobussula/032998177444/903022
-Sporty Net 4,http://91.218.50.136:80/negrobussula/032998177444/903023
-N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
-
-
-ELTA体育2,http://31.43.191.125:8080/restream/restream/34865
-ELTA体育3,http://31.43.191.125:8080/restream/restream/34866
-博斯运动1,http://31.43.191.125:8080/restream/restream/34884
-博斯运动2,http://31.43.191.125:8080/restream/restream/34883
-博斯高球1,http://31.43.191.125:8080/restream/restream/34882
-博斯高球2,http://31.43.191.125:8080/restream/restream/34881
 
 
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
@@ -751,10 +693,8 @@ F1 raw 50帧,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC
 F1 fhd 6,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1312030&extension=ts&play_token=YrqwMgUZIZ
 F1 FHD8,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=394543&extension=ts&play_token=TPLIyi0jRh
 fox506,http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:b7:29:67&stream=1091519&extension=ts&play_token=ChP0qwC093
-appletv F1,http://82.156.243.185:55221/appletvf1.m3u8 
-apple  F1,https://kan.waiguotai.top/appletvf1.m3u8
-hdo家庭影院,https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
-hdo强档影院,https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+
+
 
 
 
