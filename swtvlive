@@ -542,9 +542,7 @@ DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL Network,https://tvsen6.aynaott.com/nfl/tracks-v1a1/mono.ts.m3u8
-NHL channel,https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
-SPECTRUM SPORTSNET LA,http://goldenpass.xyz/live/SZ2GU851XAALUVH/L3D8s8pprQ/148582.m3u8
-SPECTRUM SPORTSNET LAKERS,http://goldenpass.xyz/live/SZ2GU851XAALUVH/L3D8s8pprQ/200930.m3u8
+
 NFL NETWORK HD,http://goldenpass.xyz/live/SZ2GU851XAALUVH/L3D8s8pprQ/71983.m3u8
 beIN Sports 1,https://ladyboy.ardastream2.cfd//beintv/tracks-v1a1/mono.m3u8
 beIN Sports 2,https://ladyboy.ardastream2.cfd//bein2/tracks-v1a1/mono.m3u8
@@ -580,6 +578,9 @@ Sport 2 UA ,http://stream.mcquack.net/392/index.m3u8
 Sport 2 UA ,http://stream.mcquack.net/393/index.m3u8
 Sport 4 UA ,http://stream.mcquack.net/394/index.m3u8
 Sport 5 UA ,http://stream.mcquack.net/395/index.m3u8
+
+
+TSN 1,http://doubleclicktv.live:80/dusty/dusty/3996
 
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
@@ -730,6 +731,27 @@ REGIO TV,https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/pl
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 TRACE SPORT STARS,http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
+skyf1 uhd lofty,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/1171970
+skyf1 lofty,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/17289
+F1 tv,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/1171972
+skyf1 lofty,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/1015492
+ts1,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42917.ts
+ts5,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42913.ts
+
+sky main,http://doubleclicktv.live:80/dusty/dusty/276918
+skysport,http://rapideeiptvv.org/88AWW452BLWYVPR/lF12jdVfLy/1015492
+Sky SPORTS F1 UHD,http://line.tivi-ott.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=1312007&extension=ts&play_token=gNnLI9eLi0
+Sky sports F1 HD1,http://line.tivi-ott.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=1311996&extension=ts&play_token=Ex4vCXRruJ
+Sky sports F1 HD2,http://line.tivi-ott.net:80/play/live.php?mac=A0:BB:3E:07:67:9C&stream=1312030&extension=ts&play_token=ZQnYgRAbYD
+F1 uhd,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1312007&extension=ts&play_token=LOCola5KRe
+F1 raw 50帧,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1311996&extension=ts&play_token=P9ZiYsqcvf 
+F1 fhd 6,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=1312030&extension=ts&play_token=YrqwMgUZIZ
+F1 FHD8,http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:75:28:AC&stream=394543&extension=ts&play_token=TPLIyi0jRh
+fox506,http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:b7:29:67&stream=1091519&extension=ts&play_token=ChP0qwC093
+appletv F1,http://82.156.243.185:55221/appletvf1.m3u8 
+apple  F1,https://kan.waiguotai.top/appletvf1.m3u8
+hdo家庭影院,https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
+hdo强档影院,https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
 
 
 
