@@ -100,13 +100,15 @@
 		{"key": "ttzy", "name": "天天華哥", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
 
 {
-   "key": "豆瓣",
-   "name": "DB-vod SW",
-   "type": 1,
-   "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
-   "quickSearch": 1
-  },
-
+      "key": "Cat _ 荐片",
+      "name": "華哥☀NETFLIX片🔹",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/jianpian_open.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "类型": "影视"
+    },
 
  {
             "key": "华谊",
