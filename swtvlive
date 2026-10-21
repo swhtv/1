@@ -595,9 +595,15 @@ TSN 1,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42917.ts
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-
 TSN 5,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42913.ts
+CA TSN 1,http://doubleclicktv.live:80/natashahawkins/1784295306/3996
+CA TSN 2,http://doubleclicktv.live:80/natashahawkins/1784295306/3995
+CA TSN 3,http://doubleclicktv.live:80/natashahawkins/1784295306/3994
+CA TSN 4,http://doubleclicktv.live:80/natashahawkins/1784295306/3993
+CA TSN 5,http://doubleclicktv.live:80/natashahawkins/1784295306/3992
 
+
+http://doubleclicktv.live:80/natashahawkins/1784295306/3994
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
