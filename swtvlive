@@ -17,7 +17,7 @@ Fox Business Network,http://tv.cloudcdn.me:80/live.ts?channelId=127049&uid=10223
 Fox News Channel,http://tv.cloudcdn.me:80/live.ts?channelId=127093&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 FOX Weather,http://tv.cloudcdn.me:80/live.ts?channelId=127116&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 FRANCE 24,http://tv.cloudcdn.me:80/live.ts?channelId=133039&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-MSNBC,http://tv.cloudcdn.me:80/live.ts?channelId=127129&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
 
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -86,6 +86,7 @@ MSNBC,http://doubleclicktv.live:80/natashahawkins/1784295306/1034
 MSNBC HD,http://4.30.180.36:8420/msnbc/index.m3u8?token=test
 MSNBC ,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102192.ts
 MSNBC ,https://p12.usnlive.com/stream/msnbc.m3u8
+MSNBC,http://tv.cloudcdn.me:80/live.ts?channelId=127129&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 NBC LX Home,https://jmp2.uk/stvp-USBB40000028E
 NBC News NOW,https://jmp2.uk/stvp-GBBB1500004LG#https://jmp2.uk/stvp-ITBC4000028E#https://jmp2.uk/stvp-CAAJ2700011IF
 
@@ -584,8 +585,7 @@ Sports Grid,https://jmp2.uk/stvp-USBA300031OT
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 sky Racing,https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/chunklist_w855578964.m3u8
 sky Racing 2,https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/chunklist_w2077702243.m3u8
-Setanta Sports 1,http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
-Setanta Sports 2,http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+
 golf_channel,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 Tennis Channel,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f6e9584c8a64a4b4011cc62944fa83439fd501e989d60883438475f61398c4f783d01580e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee05c9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3bc228d00a677e7d22e535be0098dd0492c379698a450c0ac8/174/1920x1080_5288800/index.m3u8
 TENNIS CHANNEL,http://23.237.104.106:8080/USA_TENNIS/tracks-v1a1/mono.m3u8
@@ -596,32 +596,25 @@ TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m
 UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 NBA,https://jmp2.uk/stvp-CA36000019W#https://jmp2.uk/stvp-US3600003R7
-DAZN_3 ,http://23.237.104.106:8080/DAZN_3/index.m3u8
+
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL Networ,https://tvsen6.aynaott.com/nfl/tracks-v1a1/mono.ts.m3u8
+NHL Network,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+
 bein xtra,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 BEIN SPORT 2,https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
-
-TRT Spor,https://ladyboy.ardastream2.cfd//trt-spor/tracks-v1a1/mono.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 dazn ringside,https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 world fishing,https://fms.premio.link/fishingtv/tracks-v5a1/mono.m3u8
 fishing,https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/d5e6bad6-9955-4397-b1ad-0fbf0d1eb54b/2.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-fox 1,https://aegis-cloudfront.tubi.video/streams/59664fb2-3b5c-4e57-be0e-eb58200e55df/variant/1280x720/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTA3MTQ1OTIsImlzcyI6ImFlZ2lzIn0.N2LvyvUJFzP8gcWiTfFTH-WDaXszqpO58Wc27DPjzj5QyCPq9x90VQ8yGPat4LUVzeoB7iNkD7kCA-gGnFWU5A&Expires=1790714592&Signature=g1OIa7n7vnAyenVsyn1r/ID3loi9b/L1aEHqjh6pP1CQf8b28QRXOAUCwjwZtSRCsqiPSWthtcRYYi/gVcD5U/vYTwmF/ViCRIHxOZE1NR5wfdDZ+65ZYBdxvTitlFQ3Ss1J9TWuCGTkcjkErIDLtmEgiGnkKywrGj1i/9i18sNJsTaSnL3Zas+3ntBXB3K0mYod2vroluOcoJYyQkaJqITHks8ldUdC6VwKYcEXlQa6feP/jvJ8M+AQO5f7Jf+I2CXgOCkSv50kVap+RjiORi0+3JjZR4wT+BtZZcB9Q8nEcTdjhXlBV5q/6XVGnBDY31Mg0mfjwzbaFU9bpxYTfw==&Key-Pair-Id=K4EI1QKCGKSTE
 fox 1 H,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-ACCNetwork,http://23.239.31.26:8989/accnetwork/index.m3u8
-SECNetwork,http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 NBCSportsNOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
-beINSPORTS,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31048/index.m3u8
-BigTenNetwork,http://23.237.104.106:8080/USA_BTN/index.m3u8
-YESNetwork,http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-NHLNetwork,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 W-SPORT,http://31.43.191.125:8080/restream/restream/34532
 
 Sport 1 UA ,http://stream.mcquack.net/391/index.m3u8
@@ -630,17 +623,16 @@ Sport 2 UA ,http://stream.mcquack.net/393/index.m3u8
 Sport 4 UA ,http://stream.mcquack.net/394/index.m3u8
 Sport 5 UA ,http://stream.mcquack.net/395/index.m3u8
 
-
-skyf1 uhd lofty,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/1171970
-skyf1 lofty,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/17289
-F1 tv,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/1171972
-skyf1 lofty,http://loftytv.xyz:80/66C650F999D431D/U7Oc4OQ0VE/1015492
-
 TSN 1,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42917.ts
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-TSN 5,http://loftytv.xyz:80//live/66C650F999D431D/U7Oc4OQ0VE/42913.ts
+TSN 5,http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 1,http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 2,http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 3,http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 4,http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
 CA TSN 1,http://doubleclicktv.live:80/natashahawkins/1784295306/3996
 CA TSN 2,http://doubleclicktv.live:80/natashahawkins/1784295306/3995
 CA TSN 3,http://doubleclicktv.live:80/natashahawkins/1784295306/3994
@@ -727,11 +719,7 @@ TNT SPORTS 2,http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=10223&deviceMac=
 TNT SPORTS 3,http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 TNT SPORTS 4,http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 TNT SPORTS 5,http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-TSN 1,http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-TSN 2,http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-TSN 3,http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-TSN 4,http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-TSN 5,http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
 W-SPORTS,http://tv.cloudcdn.me:80/live.ts?channelId=133130&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
 
 
