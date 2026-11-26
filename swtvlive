@@ -338,11 +338,11 @@ HOY 77,http://r.jdshipin.com/sFw4S
 HOY77,https://cdn6.cc.cd/163189/hoy
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY76,https://cdn.qd.je/163189.php?id=hoy76
-TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
+
 TVB新聞,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 TVB無綫 新聞,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 TVB無綫 新聞,http://r.jdshipin.com/CkuBd
-
+TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
 
 
 
@@ -370,20 +370,7 @@ TVB Plus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://r.jdshipin.com/sXuuD
 华丽翡翠台,http://r.jdshipin.com/thuYX
-NOW SPORTS 1,http://tv.cloudcdn.me:80/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 2,http://tv.cloudcdn.me:80/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 3,http://tv.cloudcdn.me:80/live.ts?channelId=129130&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 4,http://tv.cloudcdn.me:80/live.ts?channelId=129131&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 5,http://tv.cloudcdn.me:80/live.ts?channelId=129132&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 6,http://tv.cloudcdn.me:80/live.ts?channelId=129133&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 7,http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS 4K,http://tv.cloudcdn.me:80/live.ts?channelId=132134&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS LEAGUE,http://tv.cloudcdn.me:80/live.ts?channelId=129140&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS PREMIER 1,http://tv.cloudcdn.me:80/live.ts?channelId=129136&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS PREMIER 2,http://tv.cloudcdn.me:80/live.ts?channelId=129137&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS PREMIER 4,http://tv.cloudcdn.me:80/live.ts?channelId=129138&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS PREMIER 5,http://tv.cloudcdn.me:80/live.ts?channelId=129139&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
-NOW SPORTS PREMIER 6,http://tv.cloudcdn.me:80/live.ts?channelId=132133&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
 
 澳视澳门,http://r.jdshipin.com/n2YZI
 
@@ -423,11 +410,8 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 大灣區衛視(備),http://173.208.234.146/live/nfwsitv.m3u8
 大灣區衛視(國際)-grtn,http://173.208.234.146/live/gdgj.m3u8
 廣東珠江(備),http://173.208.234.146/live/gdzjitv.m3u8
-北美焦点新闻台,https://7612-5516-affc-d88b.kylintv.tv/live/qljdhd_iphone.m3u8
-北美美食播客,https://0832-1dbe-95df-5158.kylintv.tv/live/bmmssp_iphone.m3u8
-鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
-鳳凰資訊臺,http://173.208.234.146/live/fhzx.m3u8
-鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
+
+
 
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
@@ -1615,7 +1599,7 @@ Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 
 SW-Italia,#genre#
-
+Rai News 24,https://jmp2.uk/stvp-IT3200004WU
 Rai 1,https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 Rai 2,http://team-tv.co:81/rai2/tracks-v1a1/mono.m3u8
 Rai 3,https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
