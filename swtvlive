@@ -341,6 +341,7 @@ HOY76,https://cdn.qd.je/163189.php?id=hoy76
 
 TVB新聞,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 TVB無綫 新聞,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+TVB NEWS,https://cc.123.rr.kg/163189/wxxwt
 TVB無綫 新聞,http://r.jdshipin.com/CkuBd
 TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
 
@@ -413,10 +414,16 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 
 
 
+广東新聞,http://120.198.84.146:9901/tsfile/live/1013_1.m3u8
+
+
+
+
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+嶺南戲曲,http://120.238.84.45:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 嶺南戲曲[Lingnan Drama],http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 岭南戏曲,http://192.151.150.154/live/gdlnxq.m3u8
@@ -581,7 +588,8 @@ TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m
 UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 NBA,https://jmp2.uk/stvp-CA36000019W#https://jmp2.uk/stvp-US3600003R7
-
+Eurosport_1,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+Eurosport_2,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 DAZN 1,rtmp://f13h.mine.nu/sat/tv731
 DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
